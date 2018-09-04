@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="test_key_01">Привет мир</string>
+  <string name="test_key_02">разговор</string>
+  <string name="test_key_03">открыто</string>
+</resources>
