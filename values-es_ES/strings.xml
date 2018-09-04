@@ -3,4 +3,7 @@
   <string name="test_key_01">Hola Mundo</string>
   <string name="test_key_02">Conversacion</string>
   <string name="test_key_03">Abierto</string>
+  <string name="test_key_04">Cabron</string>
+  <string name="test_key_05">Madre</string>
+  <string name="test_key_06">Padre</string>
 </resources>
