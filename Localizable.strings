@@ -3,6 +3,7 @@
 "container_number_of_items" = "Items: %@";
 "imported_timers_title" = "Imported Timers";
 "edit_control_cut" = "Cut";
+"edit_control_cut2" = "Cut2";
 "edit_control_copy" = "Copy";
 "edit_control_paste" = "Paste";
 "toolbar_item_share" = "Share";
