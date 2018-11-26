@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="test_key_01">Hello world</string>
+  <string name="test_key_02">Conversation</string>
+  <string name="test_key_03">Open</string>
+  <string name="test_key_04">Fucker</string>
+  <string name="test_key_05">Mother</string>
+  <string name="test_key_06">Father</string>
+  <string name="test_key_07">Brother</string>
+  <string name="test_key_08">old Sister</string>
+  <string name="test_key_09">House</string>
+</resources>
