@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <plurals name="settings_vip_header_hint_restore">
+        <item quantity="one">Deine Premium-Mitgliedschaft läuft nur noch §§%d Tag§§. Möchtest du deine Premium-Vorteile behalten?</item>
+        <item quantity="other">Deine Premium-Mitgliedschaft läuft nur noch §§%d Tage§§. Möchtest du deine Premium-Vorteile behalten?</item>
+    </plurals>
+   <plurals name="settings_vip_header_hint_grace">
+        <item quantity="one">Google hat ein Problem mit deiner Zahlung. Bitte kläre es innerhalb von §§%d Tag§§. Wir lassen Premium während dieser Zeit für dich aktiv.</item>
+        <item quantity="other">Google hat ein Problem mit deiner Zahlung. Bitte kläre es innerhalb von §§%d Tagen§§. Wir lassen Premium während dieser Zeit für dich aktiv.</item>
+    </plurals>
+</resources>
