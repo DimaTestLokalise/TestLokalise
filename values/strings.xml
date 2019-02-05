@@ -1,12 +1,404 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="test_key_01">Hello world</string>
-  <string name="test_key_02">Conversation</string>
-  <string name="test_key_03">Open</string>
-  <string name="test_key_04">Fucker</string>
-  <string name="test_key_05">Mother</string>
-  <string name="test_key_06">Father</string>
-  <string name="test_key_07">Brother</string>
-  <string name="test_key_08">old Sister</string>
-  <string name="test_key_09">House</string>
+  <string name="Colours.Colors">Colors</string>
+  <string name="Colours.alerts">alerts</string>
+  <string name="Colours.2E7599">2E7599</string>
+  <string name="Colours.F9F9F9">F9F9F9</string>
+  <string name="Colours.F0E8D7">F0E8D7</string>
+  <string name="Colours.018FAC">008FAC</string>
+  <string name="Colours.E5FAFF">E5FAFF</string>
+  <string name="Colours.333333">333333</string>
+  <string name="Colours.FF5640">FF5640</string>
+  <string name="Colours.FF5640_1B304612_F2A9_4F45_8BB3_10943B179023">FF5640</string>
+  <string name="Colours.2CB09D">2CB09D</string>
+  <string name="Colours.FFA819">FFA819</string>
+  <string name="Colours_Copy.Checkbox_checked">Checkbox checked</string>
+  <string name="Colours_Copy.Checkbox">Checkbox</string>
+  <string name="Colours_Copy.Checkbox_66445749_8B6A_44B9_B22A_E8C6C90F3E55">Checkbox</string>
+  <string name="Colours_Copy.Radio_selected">Radio selected</string>
+  <string name="Colours_Copy.Radio">Radio</string>
+  <string name="Colours_Copy.Radio_EF4B002C_8E0D_4681_9324_61FB328F63AE">Radio</string>
+  <string name="Colours_Copy.Switch">Switch</string>
+  <string name="Colours_Copy.Switch_138891BF_81E7_4FDC_A138_E6301530A175">Input</string>
+  <string name="Colours_Copy.Buttons">FORMS</string>
+  <string name="Colours_Copy.Placeholder_text">Placeholder text</string>
+  <string name="Colours_Copy.Placeholder_text_Copy">Placeholder text</string>
+  <string name="Typography.Typography">Typography</string>
+  <string name="Typography.Aa">Aa</string>
+  <string name="Typography.Light">Light</string>
+  <string name="Typography.Aa_B8017E69_AF2E_4692_A9A5_1645020C951C">Aa</string>
+  <string name="Typography.Regular">Regular</string>
+  <string name="Typography.Aa_CD3E5CFC_51DF_4504_974A_D837D3CE3741">Aa</string>
+  <string name="Typography.Bold">Bold</string>
+  <string name="Typography.Open_Sans">Open Sans</string>
+  <string name="Typography.Aa_F6CD25A1_02B5_446A_B48B_1FBDDFD3EB49">Aa</string>
+  <string name="Typography.Light_BF004ACA_2ABF_4827_9FD9_06BC90A7A208">Light</string>
+  <string name="Typography.Aa_6EC53F4B_FD77_4C31_81FC_9AB2635CB0B6">Aa</string>
+  <string name="Typography.Regular_CDAF5322_03D0_444A_82C7_87EAAE019373">Regular</string>
+  <string name="Typography.Aa_077AD708_D7B6_4177_BB91_F5493BC7A75E">Aa</string>
+  <string name="Typography.Bold_188CF4BC_31DD_4360_9A5D_3EE991AD2183">Bold</string>
+  <string name="Typography.Playfair_Display">Playfair Display</string>
+  <string name="Typography.H1___Playfair_Displa">H1 - Playfair Display - size 50px
+Line height 70px</string>
+  <string name="Typography.H2___Playfair_Displa">H2 - Playfair Display - size 42px
+Line height 60px</string>
+  <string name="Typography.H3___Open_Sans_Bold">H3 - Open Sans Bold - size 34px
+Line height 50px</string>
+  <string name="Typography.H4___Open_Sans_Bold">H4 - Open Sans Bold - size 26px
+Line height 50px</string>
+  <string name="Typography.Text">Open Sans Regular - size 18px
+Line height 28px</string>
+  <string name="Typography.Lorem_ipsum_dolor">Lorem ipsum dolor</string>
+  <string name="Typography.Lorem_Ipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+  <string name="Typography.Lorem_Ipsum_57B52B9C_85CE_430C_B3DC_ED252562AEFE">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+  <string name="Typography.Paragraph">Paragraph</string>
+  <string name="Mobile.About_Morneau_Shepel">About Morneau Shepell</string>
+  <string name="Mobile.Programs">Programs</string>
+  <string name="Mobile.Depression">Depression</string>
+  <string name="Mobile.Anxiety">Anxiety</string>
+  <string name="Mobile.Insomnia">Insomnia</string>
+  <string name="Mobile.Pain_Management">Pain Management</string>
+  <string name="Mobile.Company">Company</string>
+  <string name="Mobile.Contact_Us">Contact Us</string>
+  <string name="Mobile.Morneau_Shepell">Morneau Shepell</string>
+  <string name="Mobile.Twitter">Twitter</string>
+  <string name="Mobile.Facebook">Facebook</string>
+  <string name="Mobile.Instagram">Instagram</string>
+  <string name="Mobile.Morneau_Shepell_is_o">Morneau Shepell is one of the world\'s largest behavioral health organizations. We help millions of people make positive changes to achieve their goals and improve their life. Mental health is our passion, and our use of technology and innovation has awarded us international recognition as a leader in digital mental health and behavior change solutions.</string>
+  <string name="Mobile._2018_Morneau_Shepe">© 2018 Morneau Shepell
+Privacy • Terms</string>
+  <string name="Mobile.abiliti">AbilitiTherapy</string>
+  <string name="Mobile.Therapy">Therapy</string>
+  <string name="Mobile.Learn_More">   Watch video</string>
+  <string name="Mobile.Learn_More_6A3797F6_C51B_49B2_A047_FA38A75AD74C">View Programs</string>
+  <string name="Mobile.Therapy_made_to_impr">Online therapy to help you make positive behaviour changes to feel better and reach your goals</string>
+  <string name="Mobile.Online_therapy_can_w">What is iCBT?</string>
+  <string name="Mobile.Online_therapy_can_w_Copy">Skilled Therapists</string>
+  <string name="Mobile.Coverage">Coverage</string>
+  <string name="Mobile.You_can_submit_to_th">You can submit to the following insurance companies.</string>
+  <string name="Mobile.Coverage_Copy">Get Started Today</string>
+  <string name="Mobile.You_can_submit_to_th_Copy">Our programs have been designed for you. We have depression, anxiety, insomnia and pain management.
+
+Get started and learn what program is best for you.</string>
+  <string name="Mobile.Integer_enim_neque_v">iCBT is Internet-based Cognitive Behaviour Therapy (CBT). CBT is the most effective and commonly used therapy for a wide range of mental health concerns. iCBT by Morneau Shepell brings you a personalized therapist-guided program that can help improve your life by changing the way you think, feel, and behave through developing new skills and strategies.</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy">A therapist will be with you from beginning to end. They\'ll guide you through articles, videos, and exercises.   All this from the comfort of your living room.</string>
+  <string name="Mobile.Online_therapy_can_w_Copy_2">Articles &amp; Videos</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_2">Working with experts, the articles and videos were tailored to help you. You\'ll be able to learn, confront and overcome your concerns.</string>
+  <string name="Mobile.Online_therapy_can_w_Copy_3">Exercises</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_3">Each module has multiple exercises. As you complete an exercise it\'s sent to your therapist. They\'ll review your progress and provide valuable tips and feedback.</string>
+  <string name="Mobile.Online_therapy_can_w_Copy_4">Messages</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_4">You can chat anytime with your therapist through messages. If you have questions or thoughts, you\'ll be able to send them a message. Your therapist will reply and also reach out to you with helpful advice or tips.</string>
+  <string name="Mobile.SecondaryButton">Get Started</string>
+  <string name="icbt_LandingPage.About_Morneau_Shepel">About Morneau Shepell</string>
+  <string name="icbt_LandingPage.Programs">Programs</string>
+  <string name="icbt_LandingPage.Depression">Depression</string>
+  <string name="icbt_LandingPage.Anxiety">Anxiety</string>
+  <string name="icbt_LandingPage.Insomnia">Insomnia</string>
+  <string name="icbt_LandingPage.Pain_Management">Pain Management</string>
+  <string name="icbt_LandingPage.Company">Company</string>
+  <string name="icbt_LandingPage.Contact_Us">Contact Us</string>
+  <string name="icbt_LandingPage.Morneau_Shepell">Morneau Shepell</string>
+  <string name="icbt_LandingPage.Twitter">Twitter</string>
+  <string name="icbt_LandingPage.Facebook">Facebook</string>
+  <string name="icbt_LandingPage.Morneau_Shepell_is_o">Morneau Shepell is one of the world\'s largest behavioral health organizations. We help millions of people make positive changes to achieve their goals and improve their life. Mental health is our passion, and our use of technology and innovation has awarded us international recognition as a leader in digital mental health and behavior change solutions.</string>
+  <string name="icbt_LandingPage.abiliti">abiliti</string>
+  <string name="icbt_LandingPage.Therapy">Therapy</string>
+  <string name="icbt_LandingPage.Learn_More">   Watch video</string>
+  <string name="icbt_LandingPage.Learn_More_DDD62039_03EB_432F_BCC3_C64A635BD199">View Programs</string>
+  <string name="icbt_LandingPage.Learn_More_8BF5F831_6929_4DF5_B1F3_B5AAADD08941">Login</string>
+  <string name="icbt_LandingPage.Coverage_Copy_2">Home</string>
+  <string name="icbt_LandingPage.Coverage_Copy_3">Programs</string>
+  <string name="icbt_LandingPage.Coverage_Copy_4">Contact</string>
+  <string name="icbt_LandingPage.Coverage_Copy_5">Françias</string>
+  <string name="icbt_LandingPage.Therapy_made_to_impr">Therapy made to improve your health.</string>
+  <string name="icbt_LandingPage.Online_therapy_can_w">abilitiTherapy can work for you.</string>
+  <string name="icbt_LandingPage.Online_therapy_can_w_Copy">Skilled Therapists</string>
+  <string name="icbt_LandingPage.Coverage">Covered by your Health Insurance</string>
+  <string name="icbt_LandingPage.You_can_submit_to_th">You can submit to the following insurance companies.</string>
+  <string name="icbt_LandingPage.Coverage_Copy">Get Started Today</string>
+  <string name="icbt_LandingPage.You_can_submit_to_th_Copy">Our programs have been designed for you. We have depression, anxiety, insomnia and pain management.
+
+Get started and learn what program is best for you.</string>
+  <string name="icbt_LandingPage.Integer_enim_neque_v">A complete program that’s designed for you. You’ll get the support and tools needed to start feeling better.</string>
+  <string name="icbt_LandingPage.Integer_enim_neque_v_Copy">A therapist will be with you from beginning to end. They\'ll guide you through articles, videos, and exercises.   All this from the comfort of your living room.</string>
+  <string name="icbt_LandingPage.Online_therapy_can_w_Copy_2">Articles &amp; Videos</string>
+  <string name="icbt_LandingPage.Integer_enim_neque_v_Copy_2">Working with experts, the articles and videos were tailored to help you. You\'ll be able to learn, confront and overcome your concerns.</string>
+  <string name="icbt_LandingPage.Online_therapy_can_w_Copy_3">Exercises</string>
+  <string name="icbt_LandingPage.Integer_enim_neque_v_Copy_3">Each module has multiple exercises. As you complete an exercise it\'s sent to your therapist. They\'ll review your progress and provide valuable tips and feedback.</string>
+  <string name="icbt_LandingPage.Online_therapy_can_w_Copy_4">Messages</string>
+  <string name="icbt_LandingPage.SecondaryButton">Get Started</string>
+  <string name="icbt_LandingPage.Integer_enim_neque_v_Copy_4">You can chat anytime with your therapist through messages. If you have questions or thoughts, you\'ll be able to send them a message. Your therapist will reply and also reach out to you with helpful advice or tips.</string>
+  <string name="ae63a59_c12a_4c27_81e8_4ee8be7d6fac_Symbols.Learn_More">Learn More</string>
+  <string name="ae63a59_c12a_4c27_81e8_4ee8be7d6fac_Symbols.next">next</string>
+  <string name="ae63a59_c12a_4c27_81e8_4ee8be7d6fac_Symbols.Learn_More_6B59602E_A695_44FB_97AE_DEA0C7C12A1D">Learn More</string>
+  <string name="icbt_LandingPage_Contact.About_Morneau_Shepel">About Morneau Shepell</string>
+  <string name="icbt_LandingPage_Contact.Programs">Programs</string>
+  <string name="icbt_LandingPage_Contact.Depression">Depression</string>
+  <string name="icbt_LandingPage_Contact.Anxiety">Anxiety</string>
+  <string name="icbt_LandingPage_Contact.Insomnia">Insomnia</string>
+  <string name="icbt_LandingPage_Contact.Pain_Management">Pain Management</string>
+  <string name="icbt_LandingPage_Contact.Company">Company</string>
+  <string name="icbt_LandingPage_Contact.Contact_Us">Contact Us</string>
+  <string name="icbt_LandingPage_Contact.Morneau_Shepell">Morneau Shepell</string>
+  <string name="icbt_LandingPage_Contact.Twitter">Twitter</string>
+  <string name="icbt_LandingPage_Contact.Facebook">Facebook</string>
+  <string name="icbt_LandingPage_Contact.Morneau_Shepell_is_o">Morneau Shepell is one of the world\'s largest behavioral health organizations. We help millions of people make positive changes to achieve their goals and improve their life. Mental health is our passion, and our use of technology and innovation has awarded us international recognition as a leader in digital mental health and behavior change solutions.</string>
+  <string name="icbt_LandingPage_Contact._2018_Morneau_Shepe">© 2018 Morneau Shepell
+Privacy • Terms</string>
+  <string name="icbt_LandingPage_Contact.abiliti">abiliti</string>
+  <string name="icbt_LandingPage_Contact.Therapy">Therapy</string>
+  <string name="icbt_LandingPage_Contact.Learn_More">Login</string>
+  <string name="icbt_LandingPage_Contact.Coverage_Copy_2">Home</string>
+  <string name="icbt_LandingPage_Contact.Coverage_Copy_3">Programs</string>
+  <string name="icbt_LandingPage_Contact.Coverage_Copy_4">Contact</string>
+  <string name="icbt_LandingPage_Contact.Coverage_Copy_5">Françias</string>
+  <string name="icbt_LandingPage_Contact.Therapy_made_to_impr">Get in touch</string>
+  <string name="icbt_LandingPage_Contact.Integer_enim_neque_v"> Do you need help with abilitiTherapy? Do you have questions or suggestions? Be sure to drop us a line! </string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text">Enter your name</string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text_Copy">Name</string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text_9873334E_D13D_4E62_BDCD_9CA2C29575A2">Enter your email</string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text_Copy_A54ED0CA_EE5E_4388_9C53_08614158CB27">Email</string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text_0515ABCC_D04A_481A_AA74_7C1D85EF5C5A">Enter your phone number</string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text_Copy_690A331D_BF5B_43F7_A61A_B9A532EC1876">Phone</string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text_868AB0CD_8A56_45BF_B50F_7D97E62F0C0F">What would you like to say?</string>
+  <string name="icbt_LandingPage_Contact.PrimaryButton">Send</string>
+  <string name="icbt_LandingPage_Contact.Placeholder_text_Copy_03ED35CE_FBE1_416F_88D0_B801ABA676E7">Message</string>
+  <string name="icbt_LandingPage_Contact_Sent.About_Morneau_Shepel">About Morneau Shepell</string>
+  <string name="icbt_LandingPage_Contact_Sent.Programs">Programs</string>
+  <string name="icbt_LandingPage_Contact_Sent.Depression">Depression</string>
+  <string name="icbt_LandingPage_Contact_Sent.Anxiety">Anxiety</string>
+  <string name="icbt_LandingPage_Contact_Sent.Insomnia">Insomnia</string>
+  <string name="icbt_LandingPage_Contact_Sent.Pain_Management">Pain Management</string>
+  <string name="icbt_LandingPage_Contact_Sent.Company">Company</string>
+  <string name="icbt_LandingPage_Contact_Sent.Contact_Us">Contact Us</string>
+  <string name="icbt_LandingPage_Contact_Sent.Morneau_Shepell">Morneau Shepell</string>
+  <string name="icbt_LandingPage_Contact_Sent.Twitter">Twitter</string>
+  <string name="icbt_LandingPage_Contact_Sent.Facebook">Facebook</string>
+  <string name="icbt_LandingPage_Contact_Sent.Morneau_Shepell_is_o">Morneau Shepell is one of the world\'s largest behavioral health organizations. We help millions of people make positive changes to achieve their goals and improve their life. Mental health is our passion, and our use of technology and innovation has awarded us international recognition as a leader in digital mental health and behavior change solutions.</string>
+  <string name="icbt_LandingPage_Contact_Sent._2018_Morneau_Shepe">© 2018 Morneau Shepell
+Privacy • Terms</string>
+  <string name="icbt_LandingPage_Contact_Sent.abiliti">abiliti</string>
+  <string name="icbt_LandingPage_Contact_Sent.Therapy">Therapy</string>
+  <string name="icbt_LandingPage_Contact_Sent.Learn_More">Login</string>
+  <string name="icbt_LandingPage_Contact_Sent.Coverage_Copy_2">Home</string>
+  <string name="icbt_LandingPage_Contact_Sent.Coverage_Copy_3">Programs</string>
+  <string name="icbt_LandingPage_Contact_Sent.Coverage_Copy_4">Contact</string>
+  <string name="icbt_LandingPage_Contact_Sent.Coverage_Copy_5">Françias</string>
+  <string name="icbt_LandingPage_Contact_Sent.Therapy_made_to_impr">Get in touch</string>
+  <string name="icbt_LandingPage_Contact_Sent.Integer_enim_neque_v"> Do you need help with abilitiTherapy? Do you have questions or suggestions? Be sure to drop us a line! </string>
+  <string name="icbt_LandingPage_Contact_Sent.Integer_enim_neque_v_Copy">Your message has been sent. 
+We’ll be in touch shortly.</string>
+  <string name="Mobile.Integer_enim_neque_v_5F6C5515_291C_4A20_9329_FCE249DC6F9F"> Do you need help with abilitiTherapy? Do you have questions or suggestions? Be sure to drop us a line! </string>
+  <string name="Mobile.About_Morneau_Shepel_633E0509_7B05_4357_A309_01D019B0B7CE">About Morneau Shepell</string>
+  <string name="Mobile.Programs_E05BCDCA_0A2D_48C8_9030_45E010BC1032">Programs</string>
+  <string name="Mobile.Depression_B0735A4B_EDCD_4308_B892_B5B117991466">Depression</string>
+  <string name="Mobile.Anxiety_B9905FFB_A008_4078_A269_E826B37AA361">Anxiety</string>
+  <string name="Mobile.Insomnia_2DD3C2FC_6FA5_4DB6_9EBF_113C0A6E7500">Insomnia</string>
+  <string name="Mobile.Pain_Management_76E33EB4_A899_4B44_875C_B32204C28352">Pain Management</string>
+  <string name="Mobile.Company_90BE3D81_5859_45F4_B850_7334C40D6688">Company</string>
+  <string name="Mobile.Contact_Us_4F23E5C5_AFA6_4EA6_8B8C_A1C831B26E55">Contact Us</string>
+  <string name="Mobile.Morneau_Shepell_9272FE47_6B57_41DA_A585_31E1D4BEBEF9">Morneau Shepell</string>
+  <string name="Mobile.Twitter_B8DD17C7_ECCE_4EC0_A2DE_5404FD6F8D8D">Twitter</string>
+  <string name="Mobile.Facebook_6F613307_EB0F_4E64_A976_889E6D107AA9">Facebook</string>
+  <string name="Mobile.Instagram_3458DCF1_7D6C_478A_B557_33EABE082B83">Instagram</string>
+  <string name="Mobile.Morneau_Shepell_is_o_92A03E79_B55F_4C9F_B7CD_DA10D346014A">Morneau Shepell is one of the world\'s largest behavioral health organizations. We help millions of people make positive changes to achieve their goals and improve their life. Mental health is our passion, and our use of technology and innovation has awarded us international recognition as a leader in digital mental health and behavior change solutions.</string>
+  <string name="Mobile._2018_Morneau_Shepe_78C13FCF_9948_40A0_9B38_FD2866E9B402">© 2018 Morneau Shepell
+Privacy • Terms</string>
+  <string name="Mobile.abiliti_D4F62F52_CE65_4C3B_BE8A_9F368E42CEFB">abiliti</string>
+  <string name="Mobile.Therapy_ED1363D4_23B7_4681_AE31_B294EC8BF9E3">Therapy</string>
+  <string name="Mobile.Therapy_made_to_impr_D08D7883_2EC3_4A7C_BF5E_D8E3B692CAAF">Get in touch</string>
+  <string name="Mobile.Placeholder_text">Enter your name</string>
+  <string name="Mobile.Placeholder_text_Copy">Name</string>
+  <string name="Mobile.Placeholder_text_3A963A75_EF06_454B_BD80_19EB21114BA0">Enter your email</string>
+  <string name="Mobile.Placeholder_text_Copy_9BF7F13C_4F56_4FF0_B93E_430957C4ED1F">Email</string>
+  <string name="Mobile.Placeholder_text_1A931823_8DCD_4CFC_9F20_7A1490263803">Enter your phone number</string>
+  <string name="Mobile.PrimaryButton">Send</string>
+  <string name="Mobile.Placeholder_text_Copy_CFA6FF66_D229_4E3D_9811_06F31A5F3C18">Phone</string>
+  <string name="Mobile.Placeholder_text_8B155742_4680_4441_9875_B27BB6EBBF42">What would you like to say?</string>
+  <string name="Mobile.Placeholder_text_Copy_6C906B52_F549_4FAB_9EE6_391BABECDC30">Message</string>
+  <string name="icbt_LandingPage_Programs.Therapy_made_to_impr_Copy_4">Insomnia</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_28">One of the most common sleep disorders is Insomnia. If falling asleep or sleeping through the night is difficult, you might have insomnia. 
+
+Due to stress at work or at home, many people have experienced insomnia at some point. When you experience lack of sleep for long periods of time, this can impact your quality of life. You may develop emotional problems, irritability, anxiety or cognitive difficulties.
+
+We designed our insomnia program using cognitive behavioural therapy (CBT).  You\'ll identify what thoughts and behaviours negatively impact your sleep patterns. Arm with this knowledge, you can replace them with better patterns to improve your sleep. Learn to deal with the problems impacting your sleep instead of using medication. 
+
+Working with your therapist, you\'ll improve your sleep quality over the long-term.</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_10">Get started for only:</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_9">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="icbt_LandingPage_Programs.SecondaryButton_Copy_3">Sign Up Now</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_11">$250.00</string>
+  <string name="icbt_LandingPage_Programs.About_Morneau_Shepel">About Morneau Shepell</string>
+  <string name="icbt_LandingPage_Programs.Programs">Programs</string>
+  <string name="icbt_LandingPage_Programs.Depression">Depression</string>
+  <string name="icbt_LandingPage_Programs.Anxiety">Anxiety</string>
+  <string name="icbt_LandingPage_Programs.Insomnia">Insomnia</string>
+  <string name="icbt_LandingPage_Programs.Pain_Management">Pain Management</string>
+  <string name="icbt_LandingPage_Programs.Company">Company</string>
+  <string name="icbt_LandingPage_Programs.Contact_Us">Contact Us</string>
+  <string name="icbt_LandingPage_Programs.Morneau_Shepell">Morneau Shepell</string>
+  <string name="icbt_LandingPage_Programs.Twitter">Twitter</string>
+  <string name="icbt_LandingPage_Programs.Facebook">Facebook</string>
+  <string name="icbt_LandingPage_Programs.Morneau_Shepell_is_o">Morneau Shepell is one of the world\'s largest behavioral health organizations. We help millions of people make positive changes to achieve their goals and improve their life. Mental health is our passion, and our use of technology and innovation has awarded us international recognition as a leader in digital mental health and behavior change solutions.</string>
+  <string name="icbt_LandingPage_Programs._2018_Morneau_Shepe">© 2018 Morneau Shepell
+Privacy • Terms</string>
+  <string name="icbt_LandingPage_Programs.abiliti">abiliti</string>
+  <string name="icbt_LandingPage_Programs.Therapy">Therapy</string>
+  <string name="icbt_LandingPage_Programs.Learn_More">Login</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_2">Home</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_3">Programs</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_4">Contact</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_5">Françias</string>
+  <string name="icbt_LandingPage_Programs.Therapy_made_to_impr">Programs designed just for you.</string>
+  <string name="icbt_LandingPage_Programs.Therapy_made_to_impr_Copy">Anxiety</string>
+  <string name="icbt_LandingPage_Programs.Therapy_made_to_impr_Copy_2">Depression</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v">Each program has been carefully crafted for you. At only $400 per program, you’ll start feeling better in no time.</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_2_667FF7DC_0018_4D83_A757_143C63DB1C43">Anxiety</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_6">Depression</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_7">Insomnia</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_8">Pain Management</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_5">Feeling anxious is normal from time to time. If you find yourself in a constant place of worry and fear, then anxiety has taken control on your life. 
+Anxiety presents the following emotional and physical symptoms.
+</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_9">Cognitive behavioral therapy (CBT) can help with you with anxiety. You will learn to identify negative thought patterns and replace them with more realistic and positive ones. You will also learn to identify the physical symptoms and feelings when you’re anxious. Finally you will learn the skills needed to cope with anxiety. </string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_7">Expecting the worst
+Feeling restless a lot of the time
+Constant nagging concerns</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_6">Emotional</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_10">Physical</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_8">Pounding Heart
+Sweating Palms
+Upset stomach
+Headaches
+Feeling Tired
+
+</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_11">Pounding Heart
+Sweating Palms
+Upset stomach
+Headaches
+Feeling Tired
+
+</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_12">Pounding Heart
+Sweating Palms
+Upset stomach
+Headaches
+Feeling Tired
+
+</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_13">Pounding Heart
+Sweating Palms
+Upset stomach
+Headaches
+Feeling Tired
+
+</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_14">Pounding Heart
+Sweating Palms
+Upset stomach
+Headaches
+Feeling Tired
+
+</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_15">Pounding Heart</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_16">Are you having sad and experiencing hoplessness? Do you have trouble sleeping, notice a loss of energy and interest in daily activities? Feeling sad can be a normal part of the ups and downs of life. When the feelings of helplessness, emptiness and worthlessness take hold of your life, you may be have  depression.
+
+Depression can impact your daily life for you and the people who care about you. It becomes difficult to function and enjoy life. Sleeping, working, eating and social outings are difficult to manage. It can feel like you\'re no longer in control of your life.
+
+Using cognitive behavioral therapy (CBT) can be an effective way to treat depression. Working with this program, you\'ll learn not to let negative thoughts influence your reality. Instead you\'re learn to replace these thoughts with a healthier way of thinking. CBT will teach you coping methods to face life without feeling anxious or depressed.
+
+By the time you\'re done, you\'ll feel better about yourself - both in the present and the future.</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy">Get started for only:</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_3">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="icbt_LandingPage_Programs.SecondaryButton">Sign Up Now</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_2">*</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy">$250.00</string>
+  <string name="icbt_LandingPage_Programs.Therapy_made_to_impr_Copy_3">Pain Management</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_22">Everyone feels pain from time to time. When you pull a muscle or get a headache, pain is your body\'s way to telling you there\'s a problem. Once you heal, the pain stops. Chronic pain is different. You can feel pain for weeks, months or even years after the injury.
+
+Chronic pain can vary from mild to severe. It can be a daily problem or it can come and again. Pain is displayed with many symptoms:</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_21">Cognitive behavioral therapy (CBT) is successfully used to treat  chronic pain. You\'ll learn to function with the pain without the  pain deceasing. You\'ll learn to accept your situation and learn how to live with it. You\'ll discover that that believing improvement is possible is a key factor of the healing power of your mind.
+
+This program teaches the concepts needed to manage your pain and stop living in fear of it.</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_17">A dull ache
+Soreness
+Burning
+Shooting
+Stiffness
+Squeezing</string>
+  <string name="icbt_LandingPage_Programs.Integer_enim_neque_v_Copy_19">Stinging
+Throbbing
+Feeling tired
+Not wanting to eat
+Trouble sleeping
+Mood changes
+Weakness</string>
+  <string name="icbt_LandingPage_Programs.SecondaryButton_Copy_2">Sign Up Now</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_8">Get started for only:</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_7">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_6">*</string>
+  <string name="icbt_LandingPage_Programs.SecondaryButton_Copy">Sign Up Now</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_10">$250.00</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_5">Get started for only:</string>
+  <string name="icbt_LandingPage_Programs.You_can_submit_to_th_Copy_4">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="icbt_LandingPage_Programs.Coverage_Copy_9">$250.00</string>
+  <string name="Mobile.Integer_enim_neque_v_5AC217D9_4844_41DE_92F2_1DE195DA3723">Each program has been carefully crafted for you. At only $400 per program, you’ll start feeling better in no time.</string>
+  <string name="Mobile.Coverage_Copy_2">Anxiety</string>
+  <string name="Mobile.Coverage_Copy_6">Depression</string>
+  <string name="Mobile.Coverage_Copy_7">Insomnia</string>
+  <string name="Mobile.Coverage_Copy_8">Pain Management</string>
+  <string name="Mobile.abiliti_C323AF4A_8B38_4696_9385_FF0A77A4B1CC">abiliti</string>
+  <string name="Mobile.Therapy_1A795C2D_06E1_422D_A026_A1F3E53ADDA2">Therapy</string>
+  <string name="Mobile.Therapy_made_to_impr_5D240259_284D_4318_A936_D2328FACFFC3">Programs designed just for you.</string>
+  <string name="Mobile.Therapy_made_to_impr_Copy_5">Anxiety</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_12">Get started for only:</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_11">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="Mobile.SecondaryButton_Copy_4">Sign Up Now</string>
+  <string name="Mobile.PrimaryButton_8B5EF48B_04F7_414D_89CB_E9F0CDDC368DF4958D1B_6F0F_4384_BC33_2098616A7606">Show Less</string>
+  <string name="Mobile.Coverage_Copy_12">$250.00</string>
+  <string name="Mobile.Therapy_made_to_impr_Copy_5_645B9963_6183_4D91_9D6F_C5E931906DDB">Insomnia</string>
+  <string name="Mobile.SecondaryButton_Copy_4_45063D05_461E_4FC4_8C64_9977861EDF2BF4958D1B_6F0F_4384_BC33_2098616A7606">Sign Up Now</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_12_BA7E72E9_A260_48C2_AFA5_3CF91717B9AF">Get started for only:</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_11_4E8D54CE_639A_4327_A31D_AF840AF561CC">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="Mobile.Coverage_Copy_12_434DA122_EE6C_42CB_A47A_5528B4DC6312">$250.00</string>
+  <string name="Mobile.SecondaryButton_Copy_4_B48D4841_BFE2_45CD_8D88_DFD841EA1339241ACDC8_FF9E_4577_AE4C_1386FEF72961">Sign Up Now</string>
+  <string name="Mobile.Therapy_made_to_impr_Copy_5_385D7231_B260_47D4_A212_1A30FC230EAE">Pain Management</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_12_50C1FE9C_4C82_4C9D_B651_23B7FF4B3FA4">Get started for only:</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_11_2D1B8F2A_3390_44D5_9163_D8ED2D0A5225">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="Mobile.PrimaryButton_3AEE8E9B_05F8_4DCB_A220_3363E0CB2E32F4958D1B_6F0F_4384_BC33_2098616A7606">Learn More</string>
+  <string name="Mobile.Coverage_Copy_12_8D765ECA_FCD1_47ED_A988_793329299F63">$250.00</string>
+  <string name="Mobile.Therapy_made_to_impr_Copy_5_F1E1E224_8F80_4C32_84E3_30544E5E2B5F">Anxiety</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_12_E9E79253_EB0E_4316_9F64_687E30477127">Get started for only:</string>
+  <string name="Mobile.SecondaryButton_Copy_4_ECE68D0F_8139_49D8_A112_CD9743282220F4958D1B_6F0F_4384_BC33_2098616A7606">Sign Up Now</string>
+  <string name="Mobile.You_can_submit_to_th_Copy_11_66FE4478_9A51_4A52_8088_9238CD284134">* Two additional payments of $75.00 will be required as you work through the program.</string>
+  <string name="Mobile.Coverage_Copy_12_256DDB58_8057_4615_AD8F_B9F9EB8BF359">$250.00</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_18">Feeling anxious is normal from time to time. If you find yourself in a constant place of worry and fear, then anxiety has taken control on your life. 
+Anxiety presents the following emotional and physical symptoms.</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_31">Cognitive behavioral therapy (CBT) can help with you with anxiety. You will learn to identify negative thought patterns and replace them with more realistic and positive ones. You will also learn to identify the physical symptoms and feelings when you’re anxious. Finally you will learn the skills needed to cope with anxiety. </string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_30">Expecting the worst
+Feeling restless a lot of the time
+Constant nagging concerns</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_29">Emotional</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_27">Physical</string>
+  <string name="Mobile.Integer_enim_neque_v_Copy_20">Pounding Heart
+Sweating Palms
+Upset stomach
+Headaches
+Feeling Tired</string>
+  <string name="Mobile.About_Morneau_Shepel_548A2970_BECD_4732_AFF7_947E1B92E54D">About Morneau Shepell</string>
+  <string name="Mobile.Programs_5058955D_560A_49FA_A379_93F976360603">Programs</string>
+  <string name="Mobile.Depression_9F0AF32A_674F_4128_9A5B_0DBB25EC503A">Depression</string>
+  <string name="Mobile.Anxiety_FF3D8E71_5E46_4E02_9381_67FA1BDA3AF6">Anxiety</string>
+  <string name="Mobile.Insomnia_8B83A7DB_1728_4A8D_9ECC_44B5B6F32B51">Insomnia</string>
+  <string name="Mobile.Pain_Management_17BDDA14_7E7A_4B1A_8BEB_D1A2C61CA250">Pain Management</string>
+  <string name="Mobile.Company_B5EB1ED4_D7C8_4ED5_A050_70DC0C6993F7">Company</string>
+  <string name="Mobile.Contact_Us_0E22520E_9952_4C4E_A7A9_33C3E5C1833E">Contact Us</string>
+  <string name="Mobile.Morneau_Shepell_44398F28_1B2A_42EE_AC6E_8476F6E2A808">Morneau Shepell</string>
+  <string name="Mobile.Twitter_EAC0EBF2_0B5C_4F2F_AA38_7515CC292147">Twitter</string>
+  <string name="Mobile.Facebook_B874FA17_9D2D_44D2_8CE3_1D276178D072">Facebook</string>
+  <string name="Mobile.Instagram_738643D0_1B2C_4990_939B_613E2970D3F4">Instagram</string>
+  <string name="Mobile.Morneau_Shepell_is_o_8C1F62FD_169F_435B_B9AC_F410B780E597">Morneau Shepell is one of the world\'s largest behavioral health organizations. We help millions of people make positive changes to achieve their goals and improve their life. Mental health is our passion, and our use of technology and innovation has awarded us international recognition as a leader in digital mental health and behavior change solutions.</string>
+  <string name="Mobile._2018_Morneau_Shepe_881C1001_23F4_4770_A0B1_B80441B4B09A">© 2018 Morneau Shepell
+Privacy • Terms</string>
 </resources>
