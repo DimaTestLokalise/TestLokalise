@@ -2,8 +2,8 @@
 <resources>
   <plurals name="settings_vip_header_hint_restore">
     <item quantity="one">dfd</item>
-    <item quantity="few"></item>
-    <item quantity="many"></item>
-    <item quantity="other"></item>
+    <item quantity="few">fffff</item>
+    <item quantity="many">ffff</item>
+    <item quantity="other">ffff</item>
   </plurals>
 </resources>
