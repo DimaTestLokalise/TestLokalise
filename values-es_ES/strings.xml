@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <plurals name="settings_vip_header_hint_restore">
+    <item quantity="one">dfdfd</item>
+    <item quantity="other"></item>
+  </plurals>
+</resources>
