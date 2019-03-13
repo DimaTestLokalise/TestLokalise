@@ -1,0 +1,2175 @@
+AccountBalanceWidget:
+    balance: 'Balance:'
+    error: 'Balance: Error'
+    loading: 'Balance: Loading...'
+Accounts:
+    button.close: Close
+    EmptyAccountCampaigns.adwords.button: Go
+    EmptyAccountCampaigns.adwords.message: 'Go to Google Ads and create a campaign'
+    EmptyAccountCampaigns.adwords.title: 'You don''t have any campaigns yet.'
+    EmptyAccountCampaigns.direct.button: 'Go to'
+    EmptyAccountCampaigns.direct.message: 'Go to Yandex.Direct and create a campaign there'
+    EmptyAccountCampaigns.direct.title: 'You don''t have any campaigns yet.'
+    label.login: Login
+    label.password: Password
+    menu.archive: Hide
+    menu.forward.access.google.ads: 'Get access to the account'
+    menu.go.to.direct: 'Go to Yandex.Direct'
+    menu.go.to.facebook: 'Go to Facebook'
+    menu.go.to.google.ads: 'Go to Google Ads'
+    menu.go.to.target.mail.ru: 'Go to MyTarget'
+    menu.go.to.vkontakte: 'Go to VK'
+    menu.name.edit: Rename
+    menu.password.show: 'Show password'
+    menu.unarchive: Unhide
+    NameIdFilter.placeholder: 'Search by name, ID'
+    password.description: 'If the password recovery fails, we will create a new account for you in this system. Your campaigns, their parameters, performance indicators and funds on the balance will remain.'
+    password.disclaimer: 'When you first log into your account, Yandex.Direct will ask you to change the password to a new one. The new password will not appear in your eLama account. If you need to recover your password, do it in the Yandex.Passport service.'
+    password.link: 'Go to Yandex.Passport for password recovery'
+    password.title: 'Access to your Yandex.Direct account'
+    SystemCodeFilter.all: All
+    systems.adwords: 'Google Ads'
+    systems.facebook: Facebook
+    systems.toelamapackage: 'Help to start'
+adGroups:
+    ad.action.archive: 'Archive ad'
+    ad.action.delete: 'Delete ad'
+    ad.action.edit: 'Edit ad'
+    ad.action.moderate: 'Send for review'
+    ad.action.start: 'Start ad'
+    ad.action.stop: 'Stop ad'
+    ad.action.unarchive: 'Restore ad'
+    ad.group.status.archive: Archived
+    ad.group.status.delete: Archived
+    ad.group.status.draft: Draft
+    ad.group.status.moderation: 'Under review'
+    ad.group.status.pending: Updating
+    ad.group.status.reject: 'Declined after manual review'
+    ad.group.status.run: Active
+    ad.group.status.spawning: Creating
+    ad.group.status.stop: Stopped
+    common.empty: 'Ad list is empty'
+    common.reload: 'Try reloading the page'
+    error.banned: forbidden
+    error.constraint.chars: 'May contain only letters, numbers, symbols'
+    error.double.symbol: 'Double quote character'
+    error.link: 'Check link validity'
+    error.narrow.chars: 'Too many "narrow" symbols'
+    error.space: Space
+    error.symbol: symbol
+    error.symbols: symbols
+    error.text.length: 'Must not exceed'
+    error.underline: 'Underline character'
+    error.word.length: 'Word must not exceed'
+    label.apply: Apply
+    label.cancel: Cancel
+    label.create: Create
+    label.create.new.ad: 'Create new ad'
+    label.description: Description
+    label.display.link: 'Display URL'
+    label.group: 'Ad groups'
+    label.link: URL
+    label.rollup: 'Toggle via slider'
+    label.show: 'Show all'
+    label.text: Description
+    label.title1: 'Heading 1'
+    label.title2: 'Heading 2'
+    label.url: URL
+    placeholder.display.link: 'Enter displayed link'
+    placeholder.link: 'Enter URL'
+    placeholder.text: 'Enter description'
+    placeholder.title: 'Enter heading'
+Advisor:
+    account: Account
+    alright: 'Everything is OK'
+    campaign: Campaign
+    effect: 'Expected effect'
+    error: 'An error occurred, which we are working to correct...'
+    onboarding.cancel: Cancel
+    onboarding.close: Close
+    onboarding.next: 'Next »'
+    onboarding.restart: 'Back to start'
+    onboarding.step: Step
+    open: Recommendations
+    recommendation: Recommendation
+    recommendation.adgroups.group: 'Ad group № {id}'
+    recommendation.adgroups.groups: Groups
+    recommendation.adgroups.more: More
+    recommendation.ads.ad: 'Ad № {id}'
+    recommendation.ads.ads: Ads
+    recommendation.ads.combine: 'Ad group «{groupName}», ad № {id}'
+    recommendation.ads.more: More
+    recommendation.auction: Templates
+    recommendation.auction.tooltip: 'This recommendation helps show your ads in different {link} to get more traffic'
+    recommendation.auction.tooltip.help: templates
+    recommendation.critical: Critical
+    recommendation.hide: Minimize
+    recommendation.instruction: instruction
+    recommendation.more: 'Learn more'
+    recommendation.tariff.restriction.buy.button.text: 'Buy Optimal for 75 $/month'
+    recommendation.tariff.restriction.message.description: 'Switch to Optimal plan and get unlimited recommendations.'
+    recommendation.tariff.restriction.message.title: 'Your plan — Basic. {delimiter} You can get up to 3 recommendations per campaign.'
+    recommendation.video: video
+    recommendation.warning: Important
+    reload: 'Update list of recommendations'
+    study: 'Receive training'
+    title: Advisor
+    title.tooltip: 'Advisor analyses ad campaigns and gives recommendations on how to make them more effective. For more information about this tool refer to {link}'
+    title.tooltip.help: Help
+Agency:
+    Accounts.accounts: '{accounts} {accounts, plural, one {accounts} few {account} many {accounts} other {accounts}}'
+    AddClient.add.client: 'Add client'
+    AddClient.restrictingLocales: 'Cannot add a client from this particular country'
+    AdvertisingSystems.adwords: 'Google Ads'
+    AdvertisingSystems.all: All
+    AdvertisingSystems.direct: Yandex.Direct
+    AdvertisingSystems.facebook: Facebook
+    AdvertisingSystems.other: 'Other systems'
+    AdvertisingSystems.vkontakte: VK
+    AttachingOffer.add.client: 'Add client'
+    AttachingOffer.bind: Add
+    AttachingOffer.client.id: 'Client ID'
+    AttachingOffer.client.login: 'Client login in eLama'
+    AttachingOffer.client.login.direct: 'Login of the Yandex.Direct account (if you have one)'
+    AttachingOffer.client.mcc: 'MCC ID in Ads (if you have one)'
+    AttachingOffer.notification.error: Error
+    AttachingOffer.notification.error.advice: 'Contact Customer Support'
+    AttachingOffer.notification.error.description: 'No valid client connections.'
+    AttachingOffer.notification.success.message: 'Your request was sent successfully'
+    AttachingOffer.required.input: required
+    AttachingOfferPage.agent: 'Partner Program'
+    AttachingOfferPage.agentCondition1: 'you create and lead the client''s ad campaign, he works with eLama through you;'
+    AttachingOfferPage.agentCondition2: 'client''s campaign isn''t connected with your campaign or campaign of your clients;'
+    AttachingOfferPage.agentCondition3: 'no request for Help to Start campaign in eLama received;'
+    AttachingOfferPage.agentCondition4: 'client campaigns are not led by eLama.'
+    AttachingOfferPage.agentConditionDescription: 'This program is for you if:'
+    AttachingOfferPage.agentDescription: '— for agencies, participating in eLama Partner Program'
+    AttachingOfferPage.agentDescriptionAfterCondition1: 'You need to manage  at least 3 clients. The minimum total client turnover is {value}'
+    AttachingOfferPage.agentDescriptionAfterCondition2: 'As soon as you complete the form, your client will receive a notification that their account has been added to your agency.'
+    AttachingOfferPage.agentDescriptionAfterCondition3: 'Don''t forget to remind your client to confirm their consent following the link from the letter.'
+    AttachingOfferPage.agentDescriptionAfterCondition4: 'When a client is added, he will be displayed in the "My Clients" tab'
+    AttachingOfferPage.agentDescriptionAfterConditionMCC: 'In order to acquire a reward be sure that the client account is not linked with any MCC. If needed, link the client account with your MCC after connection with eLama.'
+    AttachingOfferPage.header: 'Add a client'
+    AttachingOfferPage.partner: 'Affiliate Partner Program'
+    AttachingOfferPage.partnerCondition1: 'you recommended eLama to a client;'
+    AttachingOfferPage.partnerCondition2: 'the client registered and gave you their login credentials;'
+    AttachingOfferPage.partnerCondition3: 'the client account was created within the last 24 hours.;'
+    AttachingOfferPage.partnerConditionDescription: 'This program is for you if:'
+    AttachingOfferPage.partnerDescription: '— for partners bringing clients through the affiliate program'
+    AttachingOfferPage.partnerDescriptionAfterCondition1: 'You will receive {percent}% of the client’s transactions to the advertising systems for 6 months.'
+    AttachingOfferPage.partnerDescriptionAfterCondition2: 'Once the client is added, client login will be displayed in the tab "Affiliate clients"'
+    AttachingOfferPage.role.agent: 'You are an agency and manage a client’s campaign by yourself'
+    AttachingOfferPage.role.partner: 'You are an affiliate, who brings clients to use eLama'
+    BackPanel.back: Back
+    Brief.agency: Agency
+    Brief.agree: 'I give my consent to the processing of my personal data'
+    Brief.agreement: 'I give my {link} to the processing of my personal data'
+    Brief.brazil: Brazil
+    Brief.cardNumber: 'Card number'
+    Brief.contactDetails: 'Enter information about your company'
+    Brief.contactDetailsPresentationTitle: 'This data will be shown to your clients'
+    Brief.dayOff: Weekend
+    Brief.email: Email
+    Brief.error.agreement: 'Consent is necessary to submit the form'
+    Brief.error.email: 'Invalid email'
+    Brief.error.invalid: 'Invalid value'
+    Brief.error.max: 'Must be 200 or less characters'
+    Brief.error.min: 'Must be 11 or more characters'
+    Brief.error.min.limit: 'Must be {limit} or more characters'
+    Brief.error.notification: 'Error occurred during the submit process'
+    Brief.error.phone: 'Invalid phone number'
+    Brief.error.required: 'This field is required'
+    Brief.error.retry: 'Try again or contact Customer Support'
+    Brief.error.webMoneyMin: 'Must be 13 or more characters'
+    Brief.error.workSchedule: 'Invalid business hours'
+    Brief.error.workTimes: 'Invalid business hours'
+    Brief.friday: Friday
+    Brief.fullName: 'Full name'
+    Brief.further: Next
+    Brief.linkText: consent
+    Brief.monday: Monday
+    Brief.organisationName: 'Your name or company name'
+    Brief.other: Other
+    Brief.paymentAccountBankDetails: 'Bank details'
+    Brief.paymentAccountContactDetails: 'Fill in the form so that we can conclude an agency contract'
+    Brief.phone: 'Phone number'
+    Brief.saturday: Saturday
+    Brief.schedule: 'Business hours'
+    Brief.send: 'Submit the form'
+    Brief.sevenDays: Daily
+    Brief.shortFriday: Fri.
+    Brief.shortMonday: Mon.
+    Brief.shortSaturday: Sat.
+    Brief.shortSunday: Sun.
+    Brief.shortThursday: Thu.
+    Brief.shortTuesday: Tue.
+    Brief.shortWednesday: Wed.
+    Brief.sunday: Sunday
+    Brief.tooltip.commission: "Keep in mind that the 5% fee from reward amount is charged for the transfer. The deadline for receipt is 1-2 months.\n"
+    Brief.weekdays: Weekdays
+    Brief.withdrawMethodBankCard: 'On payment card (Visa, MasterCard)'
+    Brief.withdrawMethodElama: 'On eLama balance'
+    Brief.withdrawMethodTitle: 'How do you want to get your reward'
+    ClientList.confirmDelete.cancel: Cancel
+    ClientList.confirmDelete.delete: 'Delete anyway'
+    ClientList.confirmDelete.text: 'You will stop receiving reward and managing campaigns for this client'
+    ClientList.delete: Delete
+    ClientList.header.accounts: Accounts
+    ClientList.header.balance: 'eLama balance'
+    ClientList.header.clients: Clients
+    ClientList.header.date: 'Created date'
+    ClientList.header.tariff: Plan
+    ClientList.rename: Rename
+    ClientsList.error: 'failed to retrieve balance'
+    ClientStatus.claim.reward: 'Claim reward'
+    ClientStatus.expired: 'Period expired'
+    ControlsPanel.sort.by: 'Sort by'
+    DateSorting.dateAsc: 'Date, old to new'
+    DateSorting.dateDesc: 'Date, new to old'
+    DatesPeriod.period: 'Reward period:'
+    Document.title: 'Agency profile'
+    EmptyClientsList.agency: 'You are not currently managing any clients'
+    EmptyClientsList.mediator: 'You currently have no affiliate clients'
+    EmptyClientsList.orders: 'You have no applications'
+    EmptyClientsList.outdated.mediator: 'You have no clients in the archive'
+    FillBrief.explanation: 'Fill in the form to add clients'
+    FillBrief.start: Start
+    Header.title: 'Client list'
+    Login.login: 'Log in'
+    OrderItem.delete: Delete
+    OrderItem.retry: Retry
+    OrderStatus.approved: 'Waiting for client confirmation'
+    OrderStatus.rejected: Declined
+    Placeholder.loginAndId: 'Search by login or ID'
+    Placeholder.nameAndId: 'Search by name or ID'
+    ReconfirmationOffer.header: 'Confirm public offer agreement'
+    ReconfirmationOffer.offers.acceptButton: 'Accept and continue'
+    ReconfirmationOffer.offers.entity: 'Legal entity'
+    ReconfirmationOffer.offers.entityAcceptOffer: 'To continue working, accept the new'
+    ReconfirmationOffer.offers.entityAcceptOffer.link: offer.
+    ReconfirmationOffer.offers.entityCheckBox: 'I agree with the new'
+    ReconfirmationOffer.offers.entityCheckBox.link: offer.
+    ReconfirmationOffer.offers.entityDescription: 'For agencies participating in a Partner Program as a legal entity or individual entrepreneur.'
+    ReconfirmationOffer.offers.header: 'Accept this offer'
+    ReconfirmationOffer.offers.individual: Individuals
+    ReconfirmationOffer.offers.individualAcceptOffer: 'Accept your new offer on our partner''s website'
+    ReconfirmationOffer.offers.individualDescription: 'For agencies participating in a Partner Program as individuals.'
+    SignUpForm.accountLink: 'Do you already have an account?'
+    SignUpForm.agree: 'I agree to the processing of,'
+    SignUpForm.agreeLink: 'my personal data,'
+    SignUpForm.email: 'E-mail,'
+    SignUpForm.legalEntity: 'Legal entity'
+    SignUpForm.password: 'Password,'
+    SignUpForm.phone: 'Phone number,'
+    SignUpForm.privatePerson: Individuals
+    SignUpForm.submit: 'Register,'
+    SignUpForm.username: 'Login,'
+    Sorting.balanceAsc: 'Balance, low to high'
+    Sorting.balanceDesc: 'Balance, high to low'
+    Sorting.dateAsc: 'Date, old to new'
+    Sorting.dateDesc: 'Date, new to old'
+    TabPanel.agency: 'My clients'
+    TabPanel.mediator: 'Affiliate clients'
+    TabPanel.orders: Requests
+    TabPanel.outdatedMediator: 'Expiration period'
+    Tariff.buyOptimal: 'Buy Optimal'
+    Tariff.daysLeft: '{days} {days, plural, one {day left} few {days left} many {days left} other {days left}}'
+    Tariff.error: 'failed to get a plan'
+    Tariff.errorBuyButton: 'Try again'
+    Tariff.errorBuyDescription: 'Your client isn''t subscribed to Optimal Plan.'
+    Tariff.insufficientFunds: 'Insufficient funds'
+    Tariff.requestBuyButton: 'Buy for $75'
+    Tariff.requestBuyDescription: 'Subscription fee for Optimal Plan will be charged from client''s eLama balance.'
+    Tariff.successBuyButton: Done
+    Tariff.successBuyDescription: 'Your client is subscribed to Optimal Plan. This plan has unlimited features and they will be available until {date}.'
+    TypeSorting.all: 'All clients'
+    TypeSorting.archive: 'Client archive'
+    TypeSorting.mediator: 'Active clients'
+BalanceWidget:
+    alert.fund.holding.care.service: 'Customer Support Team'
+    alert.fund.holding.message: '{amount} on your balance are blocked. Please contact <a href="{helpLink}" target="_blank"> {careService} </a>'
+    alert.fund.holding.title: 'Funds are blocked'
+    error: 'Balance: Error'
+    loading: Loading
+    payment.success.done: 'Credited to balance'
+    payment.success.ready: Done
+    refill: Pay
+Bell:
+    notifications.empty: 'You have no notifications'
+BidmanagerSettings:
+    advanced.settings: 'Advanced settings'
+    allowed.interval: 'Possible values from 0 to 1000'
+    apply: Apply
+    bid.adwords.boundaries: 'from 0.01 to 100'
+    bid.direct.boundaries: 'from 0.3 to 10 000'
+    bidmanager: 'Bid management tool'
+    boundaries: 'from {lower} to {upper}'
+    campaign_type.MIXED: 'Search / Display'
+    campaign_type.NETWORK: 'Display network'
+    campaign_type.SEARCH: 'Search network'
+    campaign_type.UNKNOWN: Unknown
+    campaigns: '{campaigns, plural, one {campaign} other {campaigns}}'
+    different: Diverse
+    disabled: 'Bid Management tool is turned off for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    disabled.error: 'Failed to turn off Bid management tool for {campaigns} {campaigns, plural, one {campaign} other {campaigns}}'
+    disabled.error.keywords: 'Failed to turn off Bid management tool for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    disabled.keywords: 'Bid Management tool is turned off for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    edit.template: 'Edit template'
+    elama.templates: 'eLama templates'
+    enable: 'Turn on'
+    enabled: 'Bid Management tool is on for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    enabled.error: 'Failed to turn on Bid management tool for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    enabled.error.keywords: 'Failed to turn on Bid management tool for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    enabled.keywords: 'Bid management tool is on for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    enter.value: Enter
+    general.error: 'Failed to apply Bid management tool settings for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    general.error.keywords: 'Failed to apply Bid management tool settings for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    header.tooltip.text: 'eLama automatically updates bids in the advertising system, it helps save time and get the necessary amount of traffic. To set up the tool, select one of the templates and specify the maximum price you are willing to pay per click.<br/><a href="{helpLink}" target="_blank">Learn more</a>'
+    keywords: '{keywords, plural, one {keyword} other {keywords}}'
+    load.error: 'Error ocurred while loading data. Try again later.'
+    max.bid: 'Maximum bid'
+    max.bid.max.price.text: 'Do not exceed the bid by more than'
+    max.bid.max.price.tooltip.text: 'In some cases, the bid may be several times higher than the price charged, and individual clicks can be very expensive. To avoid this, we recommend limiting the bid that the Bid management tool sends to Direct.'
+    net.adwords: Ads
+    net.direct: Direct
+    net.facebook: Facebook
+    net.vkontakte: VK
+    new.template.settings.moved.content: 'Now you can specify the step and set an additional restriction for maximum traffic in the template settings. To make changes, go to "Edit template" section.'
+    new.template.settings.moved.title: 'Advanced settings moved'
+    of.price: '% from CPC'
+    own.templates: 'My templates'
+    price: CPC
+    select: Select
+    settings.update.error: 'Could not apply Bid management tool settings'
+    settings.update.error.long: 'Could not apply Bid management tool settings for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    settings.update.error.long.keywords: 'Failed to apply Bid management tool settings for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    settings.update.success: 'Bid Management tool settings are applicable for'
+    settings.update.success.long: 'Bid Management tool settings are applicable for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    settings.update.success.long.keywords: 'The Bid management tool settings are applicable for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    setup: 'Set the bid management tool'
+    status.update.error: 'Could not change Bid management tool status'
+    status.update.success: 'Bid Management tool status changed to'
+    status.update.warning: 'Bid Management tool status changed to'
+    status.update.warning.continues: 'failed to change status for'
+    step: Step
+    step.adwords.boundaries: 'from 0.01 to 100'
+    step.direct.boundaries: 'from 0.1 to 1000'
+    step.percent.boundaries: 'from 1 to 100'
+    step.tooltip.text: 'How much more or less than the cost of this position you are willing to pay for conversions in advertising (in {currency} or percentage). The minimum value is {minValue} {currency} or 0.01%'
+    stop: Stop
+    suspended: 'Bid Management tool is paused for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    suspended.keywords: 'Bid management tool is paused for {keywords} {keywords, plural, one {keyword} few {keywords} other {keywords}}'
+    template: Template
+    template.ad.first.page: 'The first page'
+    template.ad.first.position: 'The first position'
+    template.ad.top.position: 'Above the search results'
+    template.adwords.fixbid: 'Fixed bid'
+    template.adwords.fixbid.net: 'Fixed bid'
+    template.direct.fixbid: 'Fixed bid'
+    template.direct.fixbid.net: 'Fixed bid'
+    template.direct.maxtraffic: 'Maximum volume'
+    template.direct.total: '100% coverage'
+    template.direct.traffic100: 'Traffic volume 100'
+    template.direct.traffic100plus: 'Traffic volume 100+'
+    template.direct.traffic15: 'Traffic volume 15'
+    template.direct.traffic5: 'Traffic volume 5'
+    template.direct.traffic75: 'Traffic volume 75'
+    templateSettingNotification: 'If you change these settings, a new template will be created. You can apply it to other campaigns and keywords. In a short time advanced settings editing will be available in the section "Edit template".'
+    templateSettingOnboardingCloseButton: Ok!
+    templateSettingOnboardingText: 'Advanced settings now come as part of the templates. Simply put, when you change the advanced settings, a new template is created. You can apply this template to other campaigns and keywords. <br/> <br/> If you have already changed the standard advanced settings, it means that you have your own new templates. In a short time advanced settings editing will be available in the section "Edit template".'
+    unavailable: Unavailable
+    wrong.type: 'The selected campaigns are of a different or inappropriate type.'
+BillingAdminPanel:
+    btn.cancel: Cancel
+    payment.status.cancelled: Canceled
+BulkChangeBid:
+    bid.change: 'Change bids in the bid management tool'
+    bid.decrease.full: 'decrease the bid'
+    bid.decrease.short: 'Decrease by'
+    bid.increase.full: 'Increase your bid'
+    bid.increase.short: 'Increase by'
+    bid.limit.lower: 'Lower limit bid'
+    bid.limit.upper: 'Upper limit bid'
+    bid.update.error: 'Failed to change bids'
+    bid.update.error.long: 'Failed to change bids because bid manager is not configured on selected campaigns'
+    bid.update.success: 'Bids have been updated for'
+    bid.update.warning: 'Bids updated for'
+    bid.update.warning.continues: 'failed to update for'
+    campaign: campaign
+    campaigns: campaigns
+    keyword: keyword
+    keywords: keywords
+    optionally: unnecessary
+    toolbox.apply: Apply
+BulkStatus:
+    apply: 'To apply'
+    campaigns: '{campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    choose.action: 'Select an action'
+    disabled: 'Bid Management tool is turned off for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    disabled.error: 'Failed to turn off Bid management tool for {campaigns} {campaigns, plural, one {campaign} other {campaigns}}'
+    enabled: 'Bid Management tool is on for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    enabled.error: 'Failed to turn on Bid management tool for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    status.update.error: 'Failed to apply status changes'
+    status.update.success: 'Status has been changed for'
+    status.update.warning: 'Status changed for'
+    status.update.warning.continues: 'Failed to change status for'
+    suspended: 'Bid Management tool is paused for {campaigns} {campaigns, plural, one {campaigns} other {campaigns}}'
+    title: 'Change the status of bid management tool'
+    turn.off: 'Turn off the bid management tool'
+    turn.on: 'Turn on the bid management tool'
+CampaignBalanceWidget:
+    balance: Balance
+    error: 'Balance: Error'
+CampaignInfo:
+    status.active: Active
+    status.archived: Archived
+    status.draft: 'Under review'
+    status.ended: Stopped
+    status.paused: Paused
+CampaignInfoCard:
+    button.goToDirect: 'Go to Yandex.Direct'
+    button.goToGoogleAds: 'Go to Google Ads'
+    button.setupTimeTargeting: 'Set ad scheduling'
+    campaignType.application: Apps
+    campaignType.cpmBanner: Media
+    campaignType.dynamic: Dynamic
+    campaignType.mixed: 'Search + Display'
+    campaignType.mobile: Mobile
+    campaignType.network: 'Display network'
+    campaignType.search: Search
+    campaignType.shopping: Trade
+    campaignType.unknown: 'Unknown type'
+    directCopy.error: 'Unable to download file'
+    display.campaignId: '№ {id}'
+    error.campaignDataFetchError: 'Failed to get the campaign data. Try again later.'
+    error.campaignFetchError: 'Failed to get the campaign. Try again later.'
+    error.campaignNotFound: 'Campaign {id} not found.'
+    menuitem.copyDirect: 'Download file in Google Ads format'
+CampaignInfoStatus:
+    action.archive: Archive
+    action.enabled: 'Turn on'
+    action.moderate: 'Send on review'
+    action.paused: Stop
+    action.removed: Delete
+    action.resume: 'Turn on'
+    action.suspend: Stop
+    action.unarchive: 'Restore from Archive'
+    camp.delete.cancel: Cancel
+    camp.delete.force: 'Delete anyway'
+    camp.delete.warn: 'Deleted campaigns cannot be recovered'
+    error.campaignFetchError: 'Failed to get the campaign. Try again later.'
+    error.campaignNotFound: 'Campaign {id} not found.'
+    message.statusFetchError: 'Failed to get the status, try again later'
+    message.statusNotUpdated: 'Failed to update campaign status'
+    message.statusUpdated: 'Campaign status is updated'
+    message.updating: Update
+    status.activating: Activation
+    status.active: 'Ad impressions on'
+    status.archived: 'In archive'
+    status.converted: Converted
+    status.deleted: Deleted
+    status.draft: Draft
+    status.ended: Finished
+    status.moderation: 'On review'
+    status.noFunds: 'No funds'
+    status.paused: Stopped
+    status.rejected: 'Disapproved by the review'
+    status.unknown: Unknown
+CarrotQuest:
+    dialogs_history: 'Conversation history'
+    dialogs_zerodata: 'There are no conversations yet. We''ve never talked before'
+    enter_email: 'Enter your email'
+    enter_message: 'Type your message and press Enter'
+    enter_phone: 'Enter your phone number'
+    leave_email: 'Leave your email and we will continue this converstaion there:'
+    messenger_collapsed_text: 'Ask me...'
+    messenger_offline_message: 'Currently offline. Drop our Customer Support team a note and we''d be glad to assist,'
+    messenger_welcome_message: 'We''re excited to help you! Ask us anything.'
+    new_message: 'New message'
+    thanks: 'Thank you'
+Common:
+    adwords.audience.warning: 'The tool sets bids only for keyword phrases. Bids for the audiences can be set in Google Ads'
+    after.payment.warning: 'Bid management will resume after payment.'
+    alpha.version: 'Alpha version'
+    bidmanager.suspended: 'Bid Management tool is stopped'
+    bidmanager.welcome: 'Welcome to the new bid management tool!'
+    Calendar.RightMenu.compare: Compare
+    Calendar.RightMenu.custom: 'My date interval'
+    Calendar.RightMenu.last30: 'Last 30 days'
+    Calendar.RightMenu.last7: Week
+    Calendar.RightMenu.thisMonth: 'This month'
+    Calendar.RightMenu.thisWeek: 'This week'
+    Calendar.RightMenu.yesterday: Yesterday
+    campaigns: '{campaigns, plural, one {campaign} other {campaigns}}'
+    check.keywords: See
+    controls.apply: Apply
+    controls.cancel: Cancel
+    controls.close: Close
+    countries.ALB: Albania
+    countries.ARE: 'United Arab Emirates'
+    countries.ARG: Argentina
+    countries.ARM: Armenia
+    countries.AUS: Australia
+    countries.AUT: Austria
+    countries.AZE: Azerbaijan
+    countries.BEL: Belgium
+    countries.BGR: Bulgaria
+    countries.BLR: Belarus
+    countries.BRA: Brazil
+    countries.CAN: Canada
+    countries.CHE: Switzerland
+    countries.CHL: Chile
+    countries.CHN: China
+    countries.CYP: Cyprus
+    countries.CZE: 'Czech Republic'
+    countries.DEU: Germany
+    countries.DNK: Denmark
+    countries.ESP: Spain
+    countries.EST: Estonia
+    countries.FIN: Finland
+    countries.FRA: France
+    countries.GBR: 'United Kingdom'
+    countries.GEO: Georgia
+    countries.GRC: Greece
+    countries.HRV: Croatia
+    countries.HUN: Hungary
+    countries.IDN: Indonesia
+    countries.IND: India
+    countries.IRL: Ireland
+    countries.ISL: Iceland
+    countries.ISR: Israel
+    countries.ITA: Italy
+    countries.JPN: Japan
+    countries.KAZ: Kazakhstan
+    countries.KEN: Kenya
+    countries.KGZ: Kyrgyzstan
+    countries.KOR: Korea
+    countries.LTU: Lithuania
+    countries.LUX: Luxembourg
+    countries.LVA: Latvia
+    countries.MDA: Moldova
+    countries.MEX: Mexico
+    countries.MKD: Macedonia
+    countries.MLT: Malta
+    countries.MYS: Malaysia
+    countries.NLD: Netherlands
+    countries.NOR: Norway
+    countries.NZL: 'New Zealand'
+    countries.PAK: Pakistan
+    countries.PER: Peru
+    countries.PHL: Philippines
+    countries.POL: Poland
+    countries.PRT: Portugal
+    countries.ROU: Romania
+    countries.RUS: Russia
+    countries.SGP: Singapore
+    countries.SRB: Serbia
+    countries.SVK: 'Slovak Republic'
+    countries.SVN: Slovenia
+    countries.SWE: Sweden
+    countries.THA: Thailand
+    countries.TJK: Tajikistan
+    countries.TKM: Turkmenistan
+    countries.TUR: Turkey
+    countries.UKR: Ukraine
+    countries.USA: USA
+    countries.UZB: Uzbekistan
+    countries.VNM: Vietnam
+    countries.ZAF: 'South Africa'
+    disable: 'Turn off'
+    good: Ok
+    hint.header: 'Share reviews'
+    hint.popup.first: 'If you set bid management tool in the new interface, it will be disabled in the old one for the same campaign. At any time you can turn it on again in the old interface - the settings will not be deleted.'
+    hint.popup.second: 'Share your opinions and suggestions via the feedback form: we really appreciate it!'
+    keywords: '{keywords, plural, one {keyword} other {keywords}}'
+    keywords.warning: 'The campaign has active bid management tool rules for individual keywords.'
+    languages.eng: English
+    languages.pt_BR: Portuguese
+    languages.rus: Russian
+    mass.operations.header: 'Mass actions'
+    new.rules.header: Templates
+    new.rules.popup.first: 'Now rules of bid management tool are templates that you can customize for campaigns or keywords. Now they comply with the rules in the previous version of the tool.'
+    new.rules.popup.second: 'In the future, you will be able to independently edit and create your own templates.'
+    newTestKey: 'extra new test key'
+    next: Next
+    nice.popup.first: 'We tried to take into account your wishes and make the bid management tool more convenient and functional than the previous version.'
+    nice.popup.second: 'Although it is on the development stage, you already can use the new features, which will soon become even more.'
+    nice.popup.third: 'We hope you''ll enjoy them'
+    old.keyword.warning.body.first: 'The tool for this campaign is already configured in the previous version of the personal account.'
+    old.keyword.warning.body.second: 'In order to set the new bid management tool, turn it off in the old cabinet.'
+    old.keyword.warning.header: 'You cannot set a bid management tool for keywords.'
+    old.warning: 'The campaign is working on the old version of the bid management tool. If you turn on the tool in the new interface, it will turn off in the old one. At any time you can turn on the old bid management tool in the old interface - the settings will not be deleted.'
+    Paginator.from: from
+    Paginator.itemsPerPage: 'Number of lines'
+    schedule.header: 'Ad scheduling'
+    schedule.popup: 'We made the ad scheduling a separate setting so that you can customize it independently of the bid management tool. Soon it will be possible to adjust bids by time.'
+    selected: 'Selected:'
+    Site.title: eLama
+    start: 'Become familiar'
+    statistics.header: 'Management from statistics'
+    statistics.popup: 'And in the statistics, the bid management tool settings are displayed: the selected template and the maximum bid, which can be changed directly from the table, based on statistics.'
+    systems.adwords: 'Google Ads'
+    systems.calltouch: CallTouch
+    systems.calltracking: Calltracking
+    systems.direct: Yandex.Direct
+    systems.facebook: Facebook
+    systems.google: 'Google Ads ($)'
+    systems.targetMailRu: myTarget
+    systems.toelama: 'eLama IO'
+    systems.toelamapackage: 'eLama Packages'
+    systems.vkontakte: 'In contact with'
+    systems.yadisplay: Yandex.Display
+    systems.yagla: Yagla
+    systems.yamarket: 'Yandex Market'
+    systems.yanavigator: Yandex.Navigator
+    systems.yaspravochnik: Yandeks.Spravochnik
+    testKey: 'test key'
+    your.plan: 'Your plan'
+ConnectSystem:
+    accounts.empty: 'Account list is empty'
+    analytics.calltouch.account-name: 'Account name'
+    analytics.calltouch.id: 'Website identifier'
+    analytics.calltouch.token: 'Security token'
+    analytics.calltouch.token.error: 'Token should consist of 45 symbols without space'
+    analytics.calltouch.token.tooltip: 'Unique access token in Calltouch. You can get it at the Calltouch personal cabinet: Settings => API section.'
+    analytics.elama-accounts.calltouch.title: 'Link to an ad account'
+    analytics.elama-accounts.google-analytics.title: 'Link to an ad account'
+    analytics.elama-accounts.title: 'Link to an ad account'
+    analytics.elama-accounts.title.remove: Delete
+    analytics.elama-accounts.title.selected: Selected
+    analytics.elama-accounts.yandex-metrika.title: 'Choose an account to link with Yandex.Direct'
+    analytics.error.no-accounts: 'No accounts'
+    analytics.error.no-valid.accounts: 'No suitable accounts'
+    analytics.google-analytics.error.no-accounts: 'Google Analytics account not found'
+    analytics.google-analytics.select.accounts: 'Google Analytics account'
+    analytics.google-analytics.select.properties: Properties
+    analytics.google-analytics.select.views: Views
+    analytics.google-analytics.title: 'Fill in the settings to complete the setup'
+    analytics.help: Help
+    analytics.notification: 'Set up Automatic UTM-tagging tool in eLama to correctly link data from systems. To learn more about the configuration process, refer to {link}.'
+    analytics.select: Select
+    analytics.title: 'Complete parameters to finalize setup'
+    analytics.yandex-metrika.error.no-counters: 'Yandex Metrika counters not found'
+    button.add: Add
+    button.cancel: Cancel
+    button.cancel.request: 'Cancel request'
+    button.close: Close
+    button.connect: Connect
+    button.connect.account: 'Connect account'
+    button.done: Done
+    button.link.up: Connect
+    button.return: Back
+    button.send.request: 'Submit request'
+    calltouch.description: 'Enter your Calltouch login. If you do not have Calltouch account, {registerLink}'
+    calltouch.name: Calltouch
+    calltracking.description: 'Enter the address of the site for which you will use Calltracking.ru'
+    calltracking.name: Calltracking
+    care.service: 'Customer Support'
+    direct.name: Yandex.Direct
+    error.noAddAccounts: 'No account found'
+    facebook.name: Facebook
+    field.ad.label: 'Sample ad'
+    field.email.label: Email
+    field.email.placeholder: example@gmail.com
+    field.image.label: 'Ad Image'
+    field.login.label: Login
+    field.site.label: Website
+    field.site.placeholder: example.com
+    field.social.label: 'Facebook or Instagram page'
+    field.vk.placeholder: 'https://vk.com/id000'
+    form.error: 'You have already linked account {systemName} or have sent a request. <br/> If you want to connect additional account {systemName} please, send us an email to {email}'
+    ga.name: 'Google Analytics'
+    google.ads.advantage.1: 'Balance replenishment through {system} only'
+    google.ads.form.description: 'Share your email address and within 4 working hours we will create a new Google Ads account for you and send an invitation via email'
+    google.ads.name: 'Google Ads'
+    import.error: 'Connection error'
+    import.error.already.exists: 'Account already exists in eLama'
+    import.error.customer.not.found: 'Cannot establish connection'
+    import.error.invalid.currency: 'Currency other than the USD'
+    import.error.is.mcc: 'Google Account Manager'
+    import.error.not.ads.user: 'Cannot establish connection'
+    import.error.read.only.access: 'Connection error'
+    import.success: 'Successfully connected'
+    import.tooltip: 'Possible problems: You are not the admin of this account, this account was recently created, setup has not been completed or this account already exists. Try again later or send us an e-mail at {email}'
+    import.tooltip.customer.not.found: 'Your account may be blocked, the account has not been created yet (no payment or other required data has been added), this account does not exist, or this account was recently created (try again in 5 minutes). If the problem persists, send us an email at {email}'
+    import.tooltip.invalid.currency: 'Only USD accounts supported.'
+    import.tooltip.is.mcc: 'You can not connect the management account {link}. To connect, select a regular advertising account in Google Ads.'
+    import.tooltip.not.ads.user: 'Possible problems: Google Ads account doesn''t exist. {email}'
+    import.tooltip.read.only.access: 'This account does not exist or you do not have sufficient access privileges to make the requested changes. You may not be the administrator of this account.'
+    label.connect: '{systemName} connection'
+    label.connect.unavailable: '{systemName} connection is not available'
+    link.contract: 'create an offer'
+    link.email.question: 'Didn''t get an email?'
+    link.empty.accounts: 'Don''t see your preferred Ads account?'
+    link.label: link
+    link.register: register
+    mcc: '"Google MCC"'
+    metrika.name: 'Yandex metrika'
+    my.target.description: 'Enter your email and we will create you an account in MyTarget. Use email that was not previously connected to MyTarget.'
+    my.target.name: 'My Target'
+    notification.cancel.request: 'Request for system connection canceled'
+    notification.done: 'Request for {systemName} connection sent'
+    notification.error.cancel: 'An error occurred during request cancellation'
+    notification.error.connect: 'An error occurred during connection'
+    notification.error.email: 'Invalid email format'
+    notification.error.empty: 'This field is required'
+    notification.error.field: 'Field is not correctly completed'
+    notification.error.format: 'Invalid file format. Only gif, jpg, jpeg, png file formats are supported'
+    notification.error.image: 'Upload an image'
+    notification.error.link: 'Enter link to a site'
+    notification.error.server: 'Server error'
+    notification.mail: 'Let us know {email}'
+    notification.success.connect: 'Successfully connected'
+    notification.warning.waiting: 'Request for account connection will be processed within 4 hours'
+    notification.warning.waiting.request: 'Within 4 working hours, you will receive an email from {systemName} with a link to access to the account.'
+    terms.agreement: 'I agree with {conditions} and consent to the processing of my personal data'
+    terms.agreement.compliance: agreement
+    terms.agreement.conditions: 'terms of use'
+    terms.create.account: 'create one in eLama'
+    terms.create.text: 'If you don''t have an account, {link}'
+    terms.description: 'You will be transferred to Google to connect. <br/>Allow the eLama app access to your account'
+    terms.disclaimer: 'eLama will never share your information with any third party. You can withdraw access at any time'
+    terms.limitation: 'Connected account must be inactive (without impressions) for the last 90 days'
+    terms.support: 'Only USD accounts supported'
+    terms.title: 'Account Connection Terms'
+    text.ul.contract: 'Working with {systemName} via eLama is temporarily available only to legal entities. Please, {contractLink}, make a payment from this legal entity and send the connection request to the {systemName} account again. Please note that a new account will be created. You can find info on how to move the advertising campaigns {faq}.'
+    text.ul.mail: 'If you work with eLama as an individual and want to connect your {systemName} account, write us at {email} for individual consideration of the application.'
+    title.ad: Advertisement
+    title.ad.question: 'What are you planning to advertise'
+    title.analytics: Analytics
+    title.create.account: 'Create a new {system} account'
+    title.customers.selector: 'Select accounts to connect to eLama'
+    title.link.account: 'Link your existing account'
+    title.system.selector: 'Select how you want to connect {system}'
+    vk.form.description: 'Enter the URL of the VKontakte user page, on whose behalf you will manage the campaigns.   Please note that a new advertising account will be created. If you do not have a page in VKontakte, {registerLink}'
+    vk.name: Vkontakte
+    yagla.description: 'Enter your Yagla login. If you do not have an account in Yagla, {registerLink}'
+    yagla.name: Yagla
+ContactsDropdown:
+    affiliate.department: 'Partner Program team'
+    agency: Agency
+    care.service: 'Customer Support'
+    contacts: Contacts
+    faq: FAQ
+    GeoIpId.all: UK
+    GeoIpId.mow: Moscow
+    GeoIpId.spb: Saint-Petersburg
+    GeoIpId.Sweden: Sweden
+    GeoIpId.US: US
+    Header.agency: 'Agency: {name}'
+    Header.general: 'Customer Service'
+    Header.manager: 'Manager: {name}'
+    personal.manager: 'Personal manager'
+    Phones.additionalCode: ' ext.. {code}'
+    Title.agency: 'Partner Program team'
+    Title.general: Contacts
+    Title.manager: 'Personal manager'
+    Weekday.FR: Fr
+    Weekday.MO: Mo
+    Weekday.SA: Sa
+    Weekday.SU: Su
+    Weekday.TH: Th
+    Weekday.TU: Tu
+    Weekday.WE: We
+DailyBudget:
+    budget.adWordsValidationBounds: 'from 0.01$'
+    budget.adWordsValidationText: 'Specify the amount not less than 0.01$'
+    budget.applyButton: Specify
+    budget.directValidationBounds: 'from 300 rubles'
+    budget.directValidationText: 'Specify the amount not less than 300 rubles.'
+    budget.resetButton: Reset
+    budget.title: 'Daily budget'
+    budget.titleWithCurrency: 'Daily budget, {currency}'
+    budget.unableToUpdateBudget: 'Failed to update daily budget of the campaign'
+    budget.updateRetriesLeft: 'Daily limit of budget renewal is exceeded'
+    budget.updateSuccessful: 'Daily budget successfully updated'
+    budget.validationBounds: 'from {value}{currency}'
+    budget.validationError: 'Specify the amount not less than {value}{currency}'
+    displayMode: 'Ad delivery method'
+    displayMode.distributed: Suballocated
+    displayMode.standard: Standard
+    displayMode.tooltipText: '<b>Standard</b> - advertising is shown non-stop until the daily budget ends<br/><br/><b>Suballocated</b> - the budget is allocated for the all day. Advertising may be put on pause if the budget is not enough for uninterrupted impressions'
+    error.campaignFetchError: 'Failed to get the campaign. Try again later.'
+    input.placeholder: 'Is omited'
+FacebookTools:
+    lead.actions.settings: Setup
+    lead.breadcrumbs.account: Account
+    lead.breadcrumbs.all: 'All accounts'
+    lead.breadcrumbs.current: 'Lead Ads'
+    lead.campaigns.empty: 'No data on the specified parameters'
+    lead.card.status.label: 'Lead ads'
+    lead.export.label: 'Download as'
+    lead.filters.label.search: 'Search by filters and names'
+    lead.nav.campaigns: Leads
+    lead.nav.statistic: 'Campaign statistics'
+    lead.settings.explain.email: 'More than one email is possible'
+    lead.settings.frequency.daytime: 'Daily, at'
+    lead.settings.frequency.hours: '{hours, plural, one {hour} other {hours}}'
+    lead.settings.frequency.never: Never
+    lead.settings.frequency.now: Instantly
+    lead.settings.frequency.oneat: 'Once a'
+    lead.settings.frequency.weekday: 'Weekly, at'
+    lead.settings.label.email: 'E-mail address'
+    lead.settings.label.frequency: 'Get notifications'
+    lead.settings.label.subject: 'Subject line'
+    lead.settings.save: Save
+    lead.settings.save_error: 'Error occurred while saving...'
+    lead.settings.save_success: Saved
+    lead.settings.title: 'New leads notifications'
+    lead.sync.accept.label: 'I agree to synchronize data between my Facebook and eLama accounts'
+    lead.sync.btn.connect_facebook: 'Connect Facebook'
+    lead.sync.btn.connect_tools: 'Connect tool'
+    lead.sync.tools.connect_error: 'Error occurred while connecting the tool...'
+    lead.sync.tools.connect_success: 'Tool connected'
+    lead.sync.waiting.text: 'Your application to connect Facebook account is being processed. We wil notify you with results by email.'
+    lead.syncLabel: 'Facebook Leads Ads synchronization'
+    lead.syncPromo: 'Follow up leads immediately after receiving. No manual unloading of leads from the Facebook Ads Manager.'
+    lead.syncStepOne: 'Connect Facebook account and create «Leads Ads» campaign'
+    lead.syncStepThree: 'Get customer requests from campaings to email and eLama account automatically'
+    lead.syncStepTwo: 'Connect the synchronization tool and confirm receipt of leads by mail'
+    lead.syncWarning.almostDone.text.: 'Receive leads within your eLama account and via email by providing eLama access to your business page (it will be used for getting leads only). We''ve found pages with limited access. If you want to receive leads from them please allow eLama access.'
+    lead.syncWarning.almostDone.title: 'Almost done'
+    lead.syncWarning.goto.demo: 'How to provide eLama access?'
+    lead.syncWarning.goto.facebook: 'Go to Facebook'
+    lead.syncWarning.pagesList: 'List of pages'
+    lead.syncWarning.pagesWithoutAccess.text: 'Receive leads within your eLama account and via email by providing eLama access to your business page (it will be used for getting leads only). We''ve found pages with limited access. If you want to receive leads from them please allow eLama access.'
+    lead.syncWarning.text: 'We''ve sent access request to your Facebook page to send you leads. Please go to Facebook and allow eLama access to activate the tool.'
+    lead.syncWarning.title: 'Almost done'
+    lead.syncWarning.toggle: Issues
+    lead.table.headers.account: Account
+    lead.table.headers.ad: Ad
+    lead.table.headers.ad_group: 'Ad group'
+    lead.table.headers.campaign: Campaign
+    lead.table.headers.company: "value one\nvalue two"
+    lead.table.headers.date: Date
+    lead.table.headers.email: E-mail
+    lead.table.headers.form: Form
+    lead.table.headers.name: Name
+    lead.table.headers.phone: 'Phone number'
+    lead.table.headers.status: Status
+    lead.table.headers.time: Time
+    mod.ad.accept: Apply
+    mod.ad.reject.button: 'Unpublish post'
+    mod.ad.reject.label.comment: 'Add comment'
+    mod.ad.reject.label.reason: 'Specify reason'
+    mod.ad.reject.reason.ad_forbidden_goods: 'Illegal products or services ads'
+    mod.ad.reject.reason.bad_quality: 'Low-quality ad content'
+    mod.ad.reject.reason.before_after: 'Ads before and after'
+    mod.ad.reject.reason.cheating: 'User''s cheating'
+    mod.ad.reject.reason.errors_in_text: 'Bad grammar'
+    mod.ad.reject.reason.forbidden_finance_tools: 'Prohibited Financial Products and Services'
+    mod.ad.reject.reason.idealized_pic: 'Idealized personal image'
+    mod.ad.reject.reason.page_not_working: 'Broken landing page'
+    mod.ad.reject.reason.personilized_ad: 'Personalized ad'
+    mod.ad.reject.reason.sensations: 'Sensational content'
+    mod.ad.reject.reason.sexual_content: 'Sexual suggestive content'
+    mod.ad.reject.reason.too_much_text: 'Ad image contains too much text'
+    mod.ad.reject.reason.using_fb_brand: 'Facebook trademark usege'
+    mod.ad.reject.text.ad_forbidden_goods: 'Facebook prohibits to advertise a range of products and services that fall under the restrictions of the laws or policies of the social network. You can read more about the list of prohibited products for advertising here: https://www.facebook.com/policies/ads/restricted_content'
+    mod.ad.reject.text.bad_quality: 'Adverts must not contain materials containing links to external landing pages that work in unexpected or destructive ways. This category includes: misleading advertising positioning, such as sensational headlines and attracting people to landing pages with a minimum of original content, filled mostly with extraneous or low-quality advertising materials. Learn more about Facebook rules: https://www.facebook.com/policies/ads/prohibited_content/low_quality_or_disruptive_experiences'
+    mod.ad.reject.text.before_after: 'Adverts must not contain images “before” and “after”, as well as images of unexpected or unbelievable results. Advertising materials promoting diet and slimming products should not provoke low self-esteem in a person. Advertising for slimming and healthy lifestyle products should be targeted to people over 18 years old. Learn more about Facebook rules: https://www.facebook.com/policies/ads/prohibited_content/personal_health'
+    mod.ad.reject.text.cheating: 'In adverts, you can not display images that show non-existent functions. Learn more about Facebook rules: https://www.facebook.com/policies/ads/prohibited_content/non_existent_functionality'
+    mod.ad.reject.text.errors_in_text: 'Adverts must not contain offensive language or grammatical and punctuation errors. Symbols, numbers and letters should be used properly, without attempting to mislead us or other management systems during advertising checks. Learn more about Facebook rules: https://www.facebook.com/policies/ads/prohibited_content/grammar'
+    mod.ad.reject.text.forbidden_finance_tools: 'Adverts must not promote financial products and services that are often associated with fraudulent schemes: binary options, the initial placement of tokens, cryptocurrency, etc. For more information about prohibited tools, please read here: https://www.facebook.com/business/news / new-ads-security-of-financial-product-and-services-ads'
+    mod.ad.reject.text.idealized_pic: 'Adverts must not contain images “before” and “after”, as well as images of unexpected or unbelievable results. Advertising materials promoting diet and slimming products should not provoke low self-esteem in a person. Advertising for slimming and healthy lifestyle products should be targeted to people over 18 years old. Learn more about Facebook rules: https://www.facebook.com/policies/ads/prohibited_content/personal_health'
+    mod.ad.reject.text.page_not_working: 'Adverts must not redirect people to broken landing pages. This also includes materials on the landing pages that do not allow a person to leave them. Learn more about Facebook rules: https://www.facebook.com/policies/ads/prohibited_content/non_functional_landing_page'
+    mod.ad.reject.text.personilized_ad: 'Adverts must not contain materials that refer to personal characteristics or imply them. This includes direct or indirect reference or indication of race, ethnic origin, religion, belief, age, sexual orientation or behavior, gender identity, disability, medical condition (including physical or mental health), financial condition, union membership, criminal background or name. Learn more about Facebook’s rules: https://www.facebook.com/policies/ads/prohibited_content/personal_attributes'
+    mod.ad.reject.text.sensations: 'Adverts must not contain shocking, sensational materials or materials that show disrespect for people or talk about violence. Learn more about Facebook rules: https://www.facebook.com/policies/ads/prohibited_content/sensational_content'
+    mod.ad.reject.text.sexual_content: 'Adverts must not contain materials for adults. In addition, advertising should not contain images of naked parts of the body, people in indecent postures, as well as actions that are excessively outspoken or provocative. Read more about the rules and examples of prohibited materials here: https://www.facebook.com/policies/ads/prohibited_content/adult_content'
+    mod.ad.reject.text.too_much_text: 'Facebook recommends that the text in the image should not exceed 20% of the area. Change creative and re-enable ad. To learn more about the requirements of Facebook, go to Help - https://www.facebook.com/business/help/980593475366490). To check the amount of text in your image, use the Facebook tool: https://www.facebook.com/ads/tools/text_overlay'
+    mod.ad.reject.text.using_fb_brand: 'Facebook prohibits the use of the Facebook trademarks in promotional materials. Learn more here: https://www.facebook.com/policies/ads/use_of_brand_assets/brand_reference. Remove the mention of Facebook brands from promotional materials and run the ad again.'
+    mod.ad.reject.title: 'Unpublish post'
+    mod.control.refresh: Refresh
+    mod.control.total: Total
+    mod.filter.control.reset: 'Reset filters'
+    mod.filter.field.search: 'Search by ad'
+    mod.filter.field.user: User
+Filterama:
+    Toolbox.close: Close
+    Toolbox.errorMessage: '<b>Error occurred while data loading!</b><br/> We already know about the problem, try reloading the page'
+FilteramaFilters:
+    button.apply: Apply
+    filter.accountInfo.FilterStatus.ALL: All
+    filter.accountInfo.FilterStatus.ARCHIVED: Hidden
+    filter.accountInfo.FilterStatus.NOT_ARCHIVED: 'All but hidden'
+    filter.accounts.byName: 'Search by name, ID'
+    filter.byBidderStatus: 'Status of bid management tool'
+    filter.byName: 'Search by name'
+    filter.campaignInfo.bidmanagerStatus.active: 'On'
+    filter.campaignInfo.bidmanagerStatus.off: 'Off'
+    filter.campaignInfo.bidmanagerStatus.oldOn: 'On in the previous version'
+    filter.campaignInfo.bidmanagerStatus.suspended: Paused
+    filter.campaignInfo.campaignType.APPLICATION: Apps
+    filter.campaignInfo.campaignType.DYNAMIC: Dynamic
+    filter.campaignInfo.campaignType.MIXED: 'Search + Display'
+    filter.campaignInfo.campaignType.MOBILE: Mobile
+    filter.campaignInfo.campaignType.NETWORK: 'Display network'
+    filter.campaignInfo.campaignType.SEARCH: 'Search network'
+    filter.campaignInfo.campaignType.SHOPPING: Trade
+    filter.campaignInfo.FilterStatusName.ALL: All
+    filter.campaignInfo.FilterStatusName.ARCHIVED: 'In archive'
+    filter.campaignInfo.FilterStatusName.NOT_ARCHIVED: 'All but deleted'
+    filter.campaignInfo.StatusName.ACTIVE: 'Ad impressions on'
+    filter.campaignInfo.StatusName.CONVERTED: Converted
+    filter.campaignInfo.StatusName.DELETED: Deleted
+    filter.campaignInfo.StatusName.DRAFT: Draft
+    filter.campaignInfo.StatusName.ENDED: Finished
+    filter.campaignInfo.StatusName.MODERATION: 'On review'
+    filter.campaignInfo.StatusName.NO_FUNDS: 'No funds'
+    filter.campaignInfo.StatusName.PAUSED: Stopped
+    filter.campaignInfo.StatusName.REJECTED: 'Disapproved by the review'
+    filter.campaignInfo.StatusName.UNKNOWN: Unknown
+    filter.campaignStatus: 'Campaign status'
+    filter.campaignType: 'Campaign type'
+    selectFilter: 'Select filter'
+FinancePage:
+    accept.acceptance: 'I have read and agree to the following terms {link}'
+    accept.acceptance.link: 'of the contract'
+    accept.personal.data: 'I {link} to the privacy policy'
+    accept.personal.data.link: agree
+    add.contract: 'Add contract'
+    breadcrumbs.contract.form: 'Add contract'
+    breadcrumbs.contract.form.edit: 'Edit contract'
+    breadcrumbs.finance: Finance
+    contracts.filter.empty: 'You have no contracts with the specified parameters.'
+    contracts.list.empty: 'You currently have no payment contracts. Click "Add a contract" to create your first contract.'
+    create.contract.error: 'An error occurred during contract addition'
+    create.contract.success: 'Contract added successfully'
+    delivery.type.general: 'On my own from eLama office'
+    delivery.type.none: 'I don''t need original documents'
+    delivery.type.post: 'Russian Post'
+    deposit.from.akbFucher: 'Battery "FUTURE"'
+    deposit.from.akbKranBank: 'AKB "Kranbank"'
+    deposit.from.alfaClick: Alfa-click
+    deposit.from.bankAVB: 'Bank AVB'
+    deposit.from.bankGorod: 'Bank City'
+    deposit.from.bankInteza: 'Bank of Intesa'
+    deposit.from.bogorodskiBank: 'Bank "Bogorodsky"'
+    deposit.from.easyPay: EasyPay
+    deposit.from.fleksBank: FlexBank
+    deposit.from.handyBank: Handybank
+    deposit.from.individualElamaBill: 'Invoice on eLama (Individual)'
+    deposit.from.individualEntrepreneurElamaBill: 'Invoice on eLama'
+    deposit.from.individualEntrepreneurReklamaVInterneteBill: 'Invoice for "Advertising on the Internet"'
+    deposit.from.intBankCard: 'Payment card'
+    deposit.from.kostromacelkombank: Kostromaselkombank
+    deposit.from.kztBankCard: 'KZT Bank card'
+    deposit.from.legalEntityElamaBill: 'Invoice on eLama (Legal entity)'
+    deposit.from.legalEntityReklamaVInterneteBill: 'Invoice for "Advertising on the Internet" (Legal entity)'
+    deposit.from.lipeckiOblastnoiBank: 'Lipetsk Regional Bank'
+    deposit.from.mailMoney: Money@mail.ru
+    deposit.from.megafon: Megaphone
+    deposit.from.mezhTopEnergoBank: Mezhtopenergobank
+    deposit.from.mts: Mts
+    deposit.from.MutualSettlement: 'Reciprocal payment'
+    deposit.from.NSBank: 'NS Bank'
+    deposit.from.obrazovanieBank: 'Bank "Education"'
+    deposit.from.promSvyazBank: Promsvyazbank
+    deposit.from.qiwi: 'Qiwi wallet'
+    deposit.from.rurBankCard: 'RUR Bank card'
+    deposit.from.rurEvroset: 'RUR Euroset'
+    deposit.from.rurSvyaznoi: 'RUR Svyaznoy'
+    deposit.from.rurTeleMoney: 'RUR TeleMoney'
+    deposit.from.russkiTrastoviBank: 'Russian Trust Bank'
+    deposit.from.sberbankOnline: 'Sberbank Online'
+    deposit.from.tatFondBank: Tatfondbank
+    deposit.from.vestInterBank: Westinterbank
+    deposit.from.vtb24: 'VTB 24'
+    deposit.from.walletOne: 'Payment hub'
+    deposit.from.webmoneyMutualSettlement: 'Webmoney (reciprocal payment)'
+    deposit.from.webmoneyr: 'Webmoney R'
+    deposit.from.webmoneyu: 'Webmoney U'
+    deposit.from.webmoneyz: 'Webmoney Z'
+    deposit.from.yandexMoney: Yandex.Money
+    deposit.from.yandexMoneyMutualSettlement: 'Yandex.Money (reciprocal payment)'
+    docs.list.empty: 'No documents found'
+    edit.contract.error: 'An error occurred during contract editing'
+    edit.contract.success: 'Contract edited successfully'
+    fetch.bill.error: 'Error of invoice receiving'
+    fetch.contract.error: 'An error occurred during contract retrieval'
+    form.delimiter.headline.bank: Bank
+    form.delimiter.headline.contacts: 'Contact information'
+    form.delimiter.headline.delivery.switcher: 'How do you want to get documents'
+    form.header.edit.contract: 'Edit contract'
+    form.header.new.contract: 'New contract'
+    form.input.address: Address
+    form.input.bank.account.id: 'Operating account'
+    form.input.bank.id: 'Branch ID'
+    form.input.bank.name: 'Bank name'
+    form.input.contact.person.name: 'Contact person'
+    form.input.correspondent.account.id: 'Correspondent account'
+    form.input.email: Email
+    form.input.first.name: Name
+    form.input.last.name: Surname
+    form.input.legal.address: 'Legal address'
+    form.input.legal.name: 'Company legal name'
+    form.input.locality: City
+    form.input.phone: 'Contact number'
+    form.input.postcode: Index
+    form.input.recipient: Recipient
+    form.input.region: Region
+    form.input.second.name: Patronymic
+    form.input.tax.id: 'Personal tax reference number'
+    form.input.tax.service.code: 'Tax registration reason code'
+    form.type.individual: Individuals
+    form.type.legal.entity: 'Legal entity'
+    form.type.pe: Entrepreneur
+    history.list.empty: 'No transaction history'
+    history.total.tooltip: '<b>Refills / Withdrawals </b> from eLama balance <br/> <br/> Amounts are calculated based on selected filters, including the selected period. We do not consider bills that are waiting for payment.'
+    legal.deposit.bill: Invoice
+    list.item.archive.error: 'Error of contract archiving'
+    list.item.archive.success: 'The contract is archived'
+    list.item.control.archive: Archive
+    list.item.control.edit: Edit
+    list.item.control.print: Print
+    list.item.control.unarchive: 'Restore from Archive'
+    list.item.unarchive.error: 'Error of contract unarchiving'
+    list.item.unarchive.success: 'The contract is restored from archive'
+    month.apr: April
+    month.aug: August
+    month.dec: December
+    month.feb: February
+    month.jan: January
+    month.jul: July
+    month.jun: June
+    month.mar: March
+    month.may: May
+    month.nov: November
+    month.oct: October
+    month.sep: September
+    personal.data.notification: 'We use this information to create and distribute final legal documentation. Confirm that it is correct.'
+    purpose.agency.payback: 'Agency reward'
+    purpose.credit: 'Refill eLama account (post-payment)'
+    purpose.default.deposit: Replenishment
+    purpose.default.withdrawal: 'Charge off'
+    purpose.help2start: 'Help 2 Start'
+    purpose.individual.deposit: 'Refill eLama Balance'
+    purpose.individual.payment: 'Refill eLama account'
+    purpose.legal.deposit: 'Refill eLama Balance'
+    purpose.legal.payment: 'Refill eLama account'
+    purpose.package: Package
+    purpose.partner.comission: 'Advertising package'
+    purpose.planpackage: 'Plan payment'
+    purpose.ppc.world: 'ppc.world services'
+    purpose.refund: Refund
+    purpose.service.tax: 'Service fee'
+    purpose.toelama: eLama
+    purpose.toelamapackage: 'eLama suite of services'
+    purpose.transfer.adwords: 'Transfer to Google Ads account'
+    purpose.transfer.begun: 'Transfer to Begun account'
+    purpose.transfer.calltouch: 'Transfer to Calltouch account'
+    purpose.transfer.calltracking: 'Transfer to Calltracking account'
+    purpose.transfer.direct: 'Transfer to Yandex.Direct account'
+    purpose.transfer.facebook: 'Transfer to Facebook account'
+    purpose.transfer.google: 'Transfer to Google account'
+    purpose.transfer.soloway: 'Transfer to Soloway account'
+    purpose.transfer.targetMailRu: 'Transfer to My Target account'
+    purpose.transfer.vkontakte: 'Transfer to Vkontakte account'
+    purpose.transfer.yabayan: 'Transfer to Yandex Bayan account'
+    purpose.transfer.yacall: 'Transfer to Yandex target-oriented call account'
+    purpose.transfer.yadisplay: 'Payment to Yandex.Display'
+    purpose.transfer.yagla: 'Transfer to Yagla account'
+    purpose.transfer.yamarket: 'Transfer to Yandex.Market account'
+    purpose.transfer.yarealty: 'Payment to Yandex. Realty'
+    purpose.transfer.yaspravochnik: 'Yandex Guide'
+    purpose.violation.fee: 'Penalty for violation of the offer terms'
+    purpose.withdraw: 'Charge off'
+    save.contract: 'Save contract'
+    state.active: Active
+    state.all: 'All contracts'
+    state.archive: Archived
+    status.await: 'Is waiting for payment'
+    status.cancelled: Cancelled
+    status.credit: 'Pay until {date}'
+    status.deposit.created: 'Waiting for payment'
+    status.deposit.processed: Paid
+    status.depostit.created: 'Waiting for payment'
+    status.depostit.processed: Paid
+    status.done: Credited
+    status.outdated: 'Pay until {date} (delayed)'
+    status.paid: Paid
+    status.success: Successfully
+    status.transfer.created: 'Waiting for confirmation'
+    status.transfer.processed: Confirmed
+    tab.archive: 'Public Offer Archive'
+    tab.contracts: Contracts
+    tab.docs: Documents
+    tab.history: 'Transaction history'
+    tab.plan: 'My plan'
+    tools.add.contract: 'Add a contract'
+    type.all: 'All contracts'
+    type.individual: Individuals
+    type.legal.entity: 'Legal entity'
+    type.pe: Entrepreneur
+    vat: VAT
+ForecastPeriodWidget:
+    few.days: 'Funds will be exhausted approximately in {days} {days, plural, one {day} few {days} many {days} other {days} }'
+    nothing.left: 'Funds are totally exhausted'
+LangSwitcher:
+    add.key: Add
+    current.language: 'Current language'
+Layout:
+    ErrorPage: 'A new account is temporarily unavailable.<br/> We are aware of the problem and are already resolving it.<br/> Please refresh the page or try back later.'
+    ErrorPage.button.back: Back
+    ErrorPage.button.main: Homepage
+    ErrorPage.button.reload: 'Reload the page'
+    ErrorPage.message: 'Try reloading the page. If the error<br /> persists, please send email to <a href="mailto:{email}">{email}</a>'
+    ErrorPage.title: 'Something went wrong'
+    NoAccessPage.message: 'You do not have permission to view this page'
+    NoAccessPage.title: 'Access error'
+    PageNotFound.message: 'The requested page was moved, deleted or it<br /> never existed'
+    PageNotFound.title: 'Page not found'
+MainMenu:
+    copy.message: 'ID copied to clipboard'
+    copy.user.id: 'Copy ID'
+    LINK_TO_ELAMA_OLD: 'Return to the old version'
+    MainMenu.Item.about: 'About eLama'
+    MainMenu.Item.aboutService: 'About our services'
+    MainMenu.Item.acquaintance: 'Get&nbsp; &nbsp;started'
+    MainMenu.Item.agency: Agency
+    MainMenu.Item.blog: Blog
+    MainMenu.Item.contacts: Contacts
+    MainMenu.Item.faq: FAQ
+    MainMenu.Item.finance: Finance
+    MainMenu.Item.help: Help
+    MainMenu.Item.helpAllCategories: 'All categories'
+    MainMenu.Item.my: 'My eLama'
+    MainMenu.Item.partners: 'For partners'
+    MainMenu.Item.services: Services
+    MainMenu.Item.statisticLogs: Statistics
+    MainMenu.Item.webinars: Webinars
+My:
+    BreadCrumb.account: Account
+    BreadCrumb.adGroup: Group
+    BreadCrumb.adwords: 'Google Ads'
+    BreadCrumb.allAccounts: 'All accounts'
+    BreadCrumb.analytics: 'Google Analytics'
+    BreadCrumb.campaign: Campaign
+    BreadCrumb.connection: Connection
+    BreadCrumb.connection.ad-adwords: 'Google Ads'
+    BreadCrumb.connection.ad-calltouch: CallTouch
+    BreadCrumb.connection.ad-calltracking: Calltracking
+    BreadCrumb.connection.ad-direct: Yandex.Direct
+    BreadCrumb.connection.ad-facebook: Facebook
+    BreadCrumb.connection.ad-mytarget: 'My Target'
+    BreadCrumb.connection.ad-targetMailRu: 'My Target'
+    BreadCrumb.connection.ad-vk: Vkontakte
+    BreadCrumb.connection.ad-vkontakte: Vkontakte
+    BreadCrumb.connection.ad-yagla: Yagla
+    BreadCrumb.connection.adwords: 'Google Ads'
+    BreadCrumb.connection.analytics: 'Google Analytics'
+    BreadCrumb.connection.external-account: 'Google Ads'
+    BreadCrumb.connection.ga: 'Google Analytics'
+    BreadCrumb.connection.metrika: 'Yandex Metrika'
+    BreadCrumb.connection.ym: 'Yandex Metrika'
+    Filters.addButton: Add
+    Filters.AdGroupsLink: 'Go to ad groups'
+    Filters.linkGoTo: 'Go to campaigns'
+    Footer.copyright: '© 2008—2018 eLama.global. All rights reserved.'
+    Footer.copyright.link: 'Privacy Statement'
+    Footer.email: Email
+    Footer.requisites: 'Legal info'
+    Footer.skype.presentation: 'Request for demo'
+    Nav.btnHome.tooltipText: 'Set as default view'
+    Nav.cards.accounts: Accounts
+    Nav.cards.adGroups: 'Ad groups'
+    Nav.cards.audiences: Audience
+    Nav.cards.campaigns: Campaigns
+    Nav.cards.keywords: Keywords
+    Nav.connectSystems: 'Analytics settings'
+    Nav.statistics.accounts: 'Account statistics'
+    Nav.statistics.adGroups: 'Group statistics'
+    Nav.statistics.ads: 'Ads statistics'
+    Nav.statistics.audiences: 'Audience statistics'
+    Nav.statistics.campaigns: 'Campaign statistics'
+    Nav.statistics.keywords: 'Keyword statistics'
+    Nav.statistics.placements: 'Placements statistics'
+    Pages.Accounts.EmptyDefaultFilterResult.button: 'Add account'
+    Pages.Accounts.EmptyDefaultFilterResult.message: 'To start work, add an account or dearchive the old ones'
+    Pages.Accounts.EmptyDefaultFilterResult.title: 'You have no active accounts'
+    Pages.Accounts.EmptyFilterResult.button: 'Clear filter'
+    Pages.Accounts.EmptyFilterResult.message: 'Try to change search or filter conditions'
+    Pages.Accounts.EmptyFilterResult.no.accounts: 'You have no campaigns yet'
+    Pages.Accounts.EmptyFilterResult.title: 'Nothing found.'
+    Pages.Accounts.NoAccountsResult.button: 'Add account'
+    Pages.Accounts.NoAccountsResult.message: 'Add an account to get started'
+    Pages.Accounts.NoAccountsResult.title: 'You have no accounts'
+    Toolbox.addCampaign.copy: 'Copy from another <br /> Yandex.Direct account'
+    Toolbox.addCampaign.free: '<b>We</b> will create and <br /> set up ad campaign for free'
+    Toolbox.addCampaign.singly: 'Create Yandex.Direct <br /> campaign by yourself'
+    Toolbox.addCampaign.singly.adwords: 'Create your own <br /> Google Ads campaign'
+    Toolbox.addCampaign.singly.google: 'Create <br /> Google Ads campaign'
+    Toolbox.addCampaign.singly.yandex: 'Create <br /> Google Ads campaign'
+MyTable:
+    breadcrumbs.noName: '<Name is unavailable>'
+    breadcrumbs.rootLink: 'All accounts'
+    calendar.apply: Apply
+    chart.addField: 'Add parameter'
+    chart.fields.avg_click_cost: 'Average click price'
+    chart.fields.avg_depth: 'Depth of visit'
+    chart.fields.avg_revenue: 'Average bill'
+    chart.fields.avg_traffic_volume: 'Average traffic volume'
+    chart.fields.bounces_percent: 'Refusals %'
+    chart.fields.clicks: Clicks
+    chart.fields.conversion_cost: 'Conversion price'
+    chart.fields.conversions: Conversions
+    chart.fields.conversions_percent: 'Conversion ratio'
+    chart.fields.cost: Spend
+    chart.fields.ctr_percent: 'CTR %'
+    chart.fields.drr: CRR
+    chart.fields.impressions: Impressions
+    chart.fields.product_adds_to_cart: 'Cart additions'
+    chart.fields.product_detail_views: 'Product views'
+    chart.fields.revenue: Revenue
+    chart.fields.roi: ROI
+    chart.fields.sessions: Sessions
+    chart.fields.special_percent: '% of impressions above the search results'
+    chart.fields.uniq_target_call: 'Unique and targeted calls'
+    chart.fields.uniq_target_callback: 'Unique and targeted callbacks'
+    chart.grouping.day: 'By days'
+    chart.grouping.month: 'By months'
+    chart.grouping.week: 'By weeks'
+    chart.noData: 'No data to display'
+    chart.noResults: 'No results'
+    chartTooltip.fields.avg_click_cost: 'Average click price'
+    chartTooltip.fields.avg_depth: 'Depth of visit'
+    chartTooltip.fields.avg_revenue: 'Average bill'
+    chartTooltip.fields.avg_traffic_volume: 'Average traffic volume'
+    chartTooltip.fields.bounces_percent: 'Refusals %'
+    chartTooltip.fields.clicks: Clicks
+    chartTooltip.fields.conversion_cost: 'Conversion price'
+    chartTooltip.fields.conversions: Conversions
+    chartTooltip.fields.conversions_percent: 'Conversion ratio'
+    chartTooltip.fields.cost: Spend
+    chartTooltip.fields.ctr_percent: 'CTR %'
+    chartTooltip.fields.drr: CRR
+    chartTooltip.fields.impressions: Impressions
+    chartTooltip.fields.product_adds_to_cart: 'Cart additions'
+    chartTooltip.fields.product_detail_views: 'Product views'
+    chartTooltip.fields.revenue: Revenue
+    chartTooltip.fields.roi: ROI
+    chartTooltip.fields.sessions: Sessions
+    chartTooltip.fields.special_percent: '% of impressions above the search results'
+    chartTooltip.fields.uniq_target_call: 'Unique and targeted calls'
+    chartTooltip.fields.uniq_target_callback: 'Unique and targeted callbacks'
+    chartTooltip.week: Week
+    datepicker.ranges.30: '30 days'
+    datepicker.ranges.7: '7 days'
+    datepicker.ranges.yesterday: Yesterday
+    error.authLoad: 'Data access error'
+    error.hide: Close
+    error.noAccountsMessage: 'Add account and try again'
+    error.noAccountsTitle: 'You have no appropriate accounts'
+    error.noAccountsWithStatMessage: 'Try again later'
+    error.noAccountsWithStatTitle: 'Account statistics is not loaded'
+    error.noResponseLoad: 'Failed to get data'
+    error.noResponseMessage: 'Try again or contact Customer Support'
+    error.noResponseTitle: 'Failed to get data'
+    error.refresh: Renew
+    error.reload: 'Reload the page'
+    error.retry: 'Try again'
+    error.unrecoverableMessage: 'Try reloading the page'
+    error.unrecoverableTitle: 'An error occurred'
+    filter.addAccount: Add
+    filter.additionalGrouping: 'Segment by'
+    filter.apply: Apply
+    filter.columnConfig.apply: Apply
+    filter.columnConfig.columnGroups.accounts: Accounts
+    filter.columnConfig.columnGroups.activities: 'Involvement rates'
+    filter.columnConfig.columnGroups.adGroups: 'Ad groups'
+    filter.columnConfig.columnGroups.advisor: Advisor
+    filter.columnConfig.columnGroups.audiences: Audience
+    filter.columnConfig.columnGroups.bidmanager: 'Bid management tool'
+    filter.columnConfig.columnGroups.calls: Calls
+    filter.columnConfig.columnGroups.campaigns: Campaigns
+    filter.columnConfig.columnGroups.conversion: Conversion
+    filter.columnConfig.columnGroups.ecommerce: Ecommerce
+    filter.columnConfig.columnGroups.expenses: 'Data from ad systems'
+    filter.columnConfig.columnGroups.keywords: Keyword
+    filter.columnConfig.columnGroups.other: 'Additional groupings'
+    filter.columnConfig.columnGroups.structure: 'Account structure'
+    filter.columnConfig.columns.account_status: 'Account status'
+    filter.columnConfig.columns.accounts: Account
+    filter.columnConfig.columns.ad_group_activity_status: 'Ad group activity status'
+    filter.columnConfig.columns.ad_group_id: ID
+    filter.columnConfig.columns.ad_group_name: 'Ad group'
+    filter.columnConfig.columns.ad_id: ID
+    filter.columnConfig.columns.ad_network_type: 'Network type'
+    filter.columnConfig.columns.audience_id: ID
+    filter.columnConfig.columns.audience_name: Audience
+    filter.columnConfig.columns.avg_click_cost: 'Average click price'
+    filter.columnConfig.columns.avg_depth: 'Depth of visit'
+    filter.columnConfig.columns.avg_revenue: 'Average bill'
+    filter.columnConfig.columns.avg_traffic_volume: 'Average traffic volume'
+    filter.columnConfig.columns.bidmanager_bid: 'Max bid'
+    filter.columnConfig.columns.bidmanager_is_active: Status
+    filter.columnConfig.columns.bidmanager_level: Level
+    filter.columnConfig.columns.bidmanager_template_id: Template
+    filter.columnConfig.columns.bounces_percent: Refusals
+    filter.columnConfig.columns.campaign_activity_status: 'Campaign activity status'
+    filter.columnConfig.columns.campaign_id: ID
+    filter.columnConfig.columns.campaign_name: Campaign
+    filter.columnConfig.columns.campaign_type: 'Campaign type'
+    filter.columnConfig.columns.CHECKBOX: Choice
+    filter.columnConfig.columns.clicks: Clicks
+    filter.columnConfig.columns.conversion_cost: 'Conversion price'
+    filter.columnConfig.columns.conversions: Conversions
+    filter.columnConfig.columns.conversions_percent: 'Conversion ratio'
+    filter.columnConfig.columns.cost: Spend
+    filter.columnConfig.columns.ctr_percent: CTR
+    filter.columnConfig.columns.date: Date
+    filter.columnConfig.columns.device_unified: Device
+    filter.columnConfig.columns.drr: CRR
+    'filter.columnConfig.columns.drr,roi': CRR/ROI
+    filter.columnConfig.columns.elama_status: 'Campaign status'
+    filter.columnConfig.columns.impressions: Impressions
+    filter.columnConfig.columns.keyword_activity_status: 'Keyword activity status'
+    filter.columnConfig.columns.keyword_text: Keyword
+    filter.columnConfig.columns.month: Month
+    filter.columnConfig.columns.number_recommendations: Quantity
+    filter.columnConfig.columns.product_adds_to_cart: 'Cart additions'
+    filter.columnConfig.columns.product_detail_views: 'Product views'
+    filter.columnConfig.columns.revenue: Revenue
+    filter.columnConfig.columns.roi: ROI
+    filter.columnConfig.columns.sessions: Sessions
+    filter.columnConfig.columns.slot: Slot
+    filter.columnConfig.columns.sources: 'Type of ad system'
+    filter.columnConfig.columns.special_percent: '% of impressions above the search results'
+    filter.columnConfig.columns.uniq_target_call: 'Unique targeted calls'
+    filter.columnConfig.columns.uniq_target_callback: 'Unique targeted callbacks'
+    filter.columnConfig.configure: 'Metrics and groupings'
+    filter.columnConfig.hide: Close
+    filter.columnConfig.savedConfig: 'My column collection'
+    filter.columnConfig.title: 'Metrics and groupings for'
+    filter.columnConfig.titleAggregation.accounts: accounts
+    filter.columnConfig.titleAggregation.adGroups: 'ad groups'
+    filter.columnConfig.titleAggregation.ads: Ads
+    filter.columnConfig.titleAggregation.audiences: audience
+    filter.columnConfig.titleAggregation.campaigns: campaigns
+    filter.columnConfig.titleAggregation.keywords: keywords
+    filter.columnConfig.titleAggregation.placements: placements
+    filter.condition.active.CONTAINS: ' contains '
+    filter.condition.active.EQUALS: ' = '
+    filter.condition.active.GT: ' > '
+    filter.condition.active.IN: ': '
+    filter.condition.active.LT: ' < '
+    filter.condition.active.NOT_CONTAINS: ' does not contain '
+    filter.condition.active.NOT_EQUALS: ' does not equal '
+    filter.condition.active.NOT_IN: ' not '
+    filter.condition.select.CONTAINS: Contain
+    filter.condition.select.EQUALS: '='
+    filter.condition.select.GT: '>'
+    filter.condition.select.LT: '<'
+    filter.condition.select.NOT_CONTAINS: 'Does not contain'
+    filter.condition.select.NOT_EQUALS: 'Is not equal'
+    filter.enum.bidmanager_is_active.active: 'On'
+    filter.enum.bidmanager_is_active.off: 'Off'
+    filter.enum.bidmanager_is_active.oldOn: 'Turned on in the old version'
+    filter.enum.bidmanager_is_active.suspended: Paused
+    filter.enum.bidmanager_level.campaign: Campaign
+    filter.enum.bidmanager_level.keyword: Phrase
+    filter.enum.bidmanager_level.off: 'Off'
+    filter.enum.bidmanager_level.oldOn: 'Turned on in the old version'
+    filter.enum.bidmanager_level.suspended: Paused
+    filter.enum.campaign_type.MIXED: Search/Display
+    filter.enum.campaign_type.NETWORK: 'Display network'
+    filter.enum.campaign_type.SEARCH: 'Search network'
+    filter.enum.slot.CROSS-NETWORK: Cross-network
+    filter.enum.slot.GUARANTEE: 'Search: Other'
+    filter.enum.slot.SPECIAL: 'Search: Top'
+    filter.fields.ad_group_id: ID
+    filter.fields.ad_group_name: Name
+    filter.fields.ad_id: ID
+    filter.fields.ad_network_type: 'Network Type'
+    filter.fields.audience_id: ID
+    filter.fields.audience_name: Name
+    filter.fields.avg_click_cost: 'Average click price'
+    filter.fields.avg_depth: 'Depth of visit'
+    filter.fields.avg_revenue: 'Average bill'
+    filter.fields.avg_traffic_volume: 'Average traffic volume'
+    filter.fields.bidmanager_bid: 'Bid management tool max bid'
+    filter.fields.bidmanager_is_active: 'Bid management tool status'
+    filter.fields.bidmanager_level: 'Bid management tool adjustment level'
+    filter.fields.bidmanager_template_id: 'Bid management tool template'
+    filter.fields.bounces_percent: Refusals
+    filter.fields.campaign_id: ID
+    filter.fields.campaign_name: Name
+    filter.fields.campaign_type: Type
+    filter.fields.clicks: Clicks
+    filter.fields.conversion_cost: 'Conversion price'
+    filter.fields.conversions: Conversions
+    filter.fields.conversions_percent: 'Conversion ratio'
+    filter.fields.cost: Spend
+    filter.fields.ctr_percent: CTR
+    filter.fields.device_unified: Device
+    filter.fields.drr: CRR
+    filter.fields.impressions: Impressions
+    filter.fields.keyword_text: Name
+    filter.fields.leadcost: CPL
+    filter.fields.leadgen: Leads
+    filter.fields.product_adds_to_cart: 'Cart additions'
+    filter.fields.product_detail_views: 'Product views'
+    filter.fields.revenue: Revenue
+    filter.fields.roi: ROI
+    filter.fields.sessions: Sessions
+    filter.fields.slot: Slot
+    filter.fields.special_percent: '% of impressions above the search results'
+    filter.fields.uniq_target_call: 'Unique and targeted calls'
+    filter.fields.uniq_target_callback: 'Unique and targeted callbacks'
+    filter.noResults: 'No results'
+    filter.segment.guarantee: 'Search: Other'
+    filter.segment.network: 'Display network'
+    filter.segment.none: 'Without segment'
+    filter.segment.search: 'Search network'
+    filter.segment.special: 'Above the search results'
+    filter.set: 'Set filters'
+    filter.status.accounts.adwords: Ads
+    filter.status.accounts.all: 'All accounts'
+    filter.status.accounts.direct: Direct
+    filter.status.accounts.facebook: Facebook
+    filter.status.accounts.vkontakte: Vkontakte
+    filter.status.campaigns.active: 'All active'
+    filter.status.campaigns.all: 'All campaigns'
+    filter.status.campaigns.archived: Archived
+    filter.status.campaigns.nonDeleted: 'All but deleted ones'
+    filter.status.campaigns.nonStopped: 'All but deleted ones'
+    filter.units.BRL: fasdfasd
+    filter.units.percent: '%'
+    filter.units.USD: $
+    filter.vat: VAT
+    pagination.outOf: from
+    pagination.rows: 'Lines on page:'
+    selection.accounts: accounts
+    selection.link: 'Go to campaigns'
+    selection.selected: 'Selected:'
+    sidebar.accounts: Accounts
+    sidebar.adGroups: 'Ad groups'
+    sidebar.ads: Ads
+    sidebar.audiences: Audience
+    sidebar.campaigns: Campaigns
+    sidebar.keywords: Keywords
+    sidebar.placements: Placements
+    table.aggregationColumns.accounts: Account
+    table.aggregationColumns.ad_group_name: 'Ad group'
+    table.aggregationColumns.campaign_name: 'Ad campaign'
+    table.columns.accounts: Account
+    table.columns.ad_group_id: ID
+    table.columns.ad_group_name: 'Ad group'
+    table.columns.ad_id: ID
+    table.columns.ad_network_type: 'Network type'
+    table.columns.audience_id: ID
+    table.columns.audience_name: Audience
+    table.columns.avg_click_cost: 'Average click price'
+    table.columns.avg_depth: 'Depth of visit'
+    table.columns.avg_revenue: 'Average bill'
+    table.columns.avg_traffic_volume: 'Average traffic volume'
+    table.columns.bidmanager_bid: 'Max bid'
+    table.columns.bidmanager_is_active: Status
+    table.columns.bidmanager_level: Level
+    table.columns.bidmanager_template_id: Template
+    table.columns.bounces_percent: Refusals
+    table.columns.campaign_id: ID
+    table.columns.campaign_name: Campaign
+    table.columns.campaign_type: Type
+    table.columns.clicks: Clicks
+    table.columns.conversion_cost: 'Conversion price'
+    table.columns.conversions: Conversions
+    table.columns.conversions_percent: 'Conversions percent'
+    table.columns.cost: Spend
+    table.columns.ctr_percent: CTR
+    table.columns.date: Date
+    table.columns.device_unified: Device
+    table.columns.drr: CRR
+    table.columns.impressions: Impressions
+    table.columns.keyword_text: Keywords
+    table.columns.leadcost: CPL
+    table.columns.leadgen: Leads
+    table.columns.month: Month
+    table.columns.number_recommendations: Quantity
+    table.columns.placement: Placement
+    table.columns.product_adds_to_cart: 'Cart additions'
+    table.columns.product_detail_views: 'Product views'
+    table.columns.revenue: Revenue
+    table.columns.roi: ROI
+    table.columns.sessions: Sessions
+    table.columns.slot: Slot
+    table.columns.special_percent: '% of impressions above the search results'
+    table.columns.uniq_target_call: 'Unique targeted calls'
+    table.columns.uniq_target_callback: 'Unique targeted callbacks'
+    table.connectAnalytics: 'Connect analytics system'
+    table.deselectAll: Unselect
+    'table.enum.ad_network_type.Ad display': Display
+    table.enum.ad_network_type.audience_network: 'Audience Network'
+    table.enum.ad_network_type.facebook: Facebook
+    table.enum.campaign_type.MIXED: "Search\nDisplay\n"
+    table.enum.campaign_type.NETWORK: 'Display network'
+    table.enum.campaign_type.SEARCH: 'Search network'
+    table.enum.campaign_type.UNKNOWN: —
+    table.enum.device_unified.DESKTOP: PC
+    table.enum.device_unified.MOBILE: Smartphones
+    table.enum.device_unified.OTHER: Other
+    table.enum.device_unified.TABLET: Tablets
+    table.enum.slot_origin.audience_network_an_classic: 'Native, Banner and Interstitial'
+    table.enum.slot_origin.audience_network_instream_video: 'In-Stream Videos'
+    table.enum.slot_origin.audience_network_rewarded_video: 'Rewarded video'
+    table.enum.slot_origin.facebook_feed: 'Facebook Feeds'
+    table.enum.slot_origin.facebook_instant_article: 'Instant Articles'
+    table.enum.slot_origin.facebook_instream_video: 'In-Stream Videos'
+    table.enum.slot_origin.facebook_marketplace: Marketplace
+    table.enum.slot_origin.facebook_right_hand_column: 'Right hand column'
+    table.enum.slot_origin.facebook_stories: 'Facebook Stories'
+    table.enum.slot_origin.facebook_suggested_video: 'Suggested Videos'
+    table.enum.slot_origin.instagram_feed: 'Instagram Feed'
+    table.enum.slot_origin.instagram_stories: 'Instagram Stories'
+    table.enum.slot_origin.messenger_inbox: 'Messenger Inbox'
+    table.enum.slot_origin.messenger_stories: 'Messenger Stories'
+    table.enum.slot.CROSS-NETWORK: Cross-network
+    table.enum.slot.GUARANTEE: 'Search: Other'
+    table.enum.slot.SPECIAL: 'Search: Top'
+    table.goals.all: 'All targets'
+    table.goals.counter: Counter
+    table.goals.noResults: 'No results'
+    table.goals.select: 'Select goals'
+    table.goals.selected: target
+    table.goals.selected_GP: targets
+    table.goals.selected_GS: targets
+    table.groups.activities: 'Involvement rates'
+    table.groups.advisor: Advisor
+    table.groups.bidmanager: 'Bid management tool'
+    table.groups.calls: Calls
+    table.groups.conversion: Conversion
+    table.groups.ecommerce: Ecommerce
+    table.groups.expenses: 'Data from ad systems'
+    table.groups.other: 'Additional grouping'
+    table.groups.structure: 'Account structure'
+    table.noData: 'There is no data on specified parameters.'
+    table.noName: '<Name is unavailable>'
+    table.rows.total.accounts: 'Total ({type})'
+    table.rows.total.accountTypes.adwords: Ads
+    table.rows.total.accountTypes.direct: Direct
+    table.rows.total.accountTypes.facebook: Facebook
+    table.rows.total.accountTypes.vkontakte: Vkontakte
+    table.rows.total.all: Total
+    table.rows.total.network: 'Total (display network)'
+    table.rows.total.search: 'Total (search network)'
+    table.selectAll: 'Select all'
+NewFeature:
+    test.key: 'some test translations'
+Optimizer:
+    description: 'Create a new folder for optimization or select one from existing'
+    moderation.description: 'Your campaigns will be checked for connectivity to the optimizer in the near future. If successful, the optimizer will automatically start'
+    moderation.title: 'The folder is under review'
+    settings.button.accept: Apply
+    settings.button.off: 'Turn off'
+    settings.button.on: 'Turn on'
+    settings.campaigns.name: 'Campaign {item}'
+    settings.label.campaignsInFolder: 'Campaigns in the folder {count}'
+    settings.label.chooseFolder: 'Select a folder'
+    settings.label.chooseKPI: 'Select KPI'
+    settings.label.folderName: 'Name of a folder'
+    settings.label.goals: Targets
+    settings.label.limitation: Restriction
+    settings.notice: 'If you change these settings, they will be changed for the entire folder. If you do not want to change the settings for other companies, create a new one'
+    settings.placeholder.enter: Enter
+    settings.placeholder.enterName: 'Enter the name'
+    status.title.disabled: 'Turn off'
+    status.title.enabled: 'Turn on'
+    status.title.moderation: 'Turn on'
+    status.title.rejected: 'Turn off'
+    subtitle: 'Folder settings'
+    subtitle.tooltip: '<b>CPO</b> (Cost Per Order) – how much are you going to pay for one conversion (in USD)<br /><br /><b>CRR</b> ((Cost Revenue Ratio) — what share from the revenue you are willing to invest in advertising (в %)<br /><br /><b>ROI</b> (Return On Investment) — how much do you want to earn from ad investments (in %)'
+    title: 'The optimizer'
+    title.tooltip: 'The optimizer automatically updates bids in ad system to achieve your KPI.<br /><br />To connect, you must have an analytics system connected to eLama'
+PaymentWidget:
+    amount.label: Amount
+    amount.placeholder: Amount
+    bill.balance.paragraph: 'The balance will be refilled only with full payment of the invoice. If you need to credit another amount, create a new invoice.'
+    bill.email.label: 'It is send to'
+    bill.payment.paragraph: 'You can pay this invoice only from the current account of the legal entity.'
+    bill.ready.button: Done
+    bill.refill.link: 'Make another payment'
+    bill.saveAsPdf.link: 'Save .pdf'
+    bill.title: 'You have the invoice for'
+    cancel: Close
+    commission.tooltip: 'Commission = {commission}% + {fixedCommission} (fixed commission)'
+    contract.label: 'Select contract'
+    contract.new: 'New contract'
+    contract.placeholder: 'Select contract'
+    error.care: 'Customer Support'
+    error.close: Close
+    error.occurred: 'An error occurred'
+    error.repeat: Retry
+    error.tryAgain: 'Please try again or contact the'
+    errorAmountGtThanMax: 'Not more than'
+    errorAmountLtThanMin: 'Not less than'
+    fee: Fee
+    fetch.payment.data.error: 'Can not fetch data for payment. Please, try again'
+    loading: Loading...
+    min.deposit: Minimum
+    redirect.bottom: 'where you can make a payment'
+    redirect.top: 'You will be transferred to a partner website,'
+    submit: Pay
+    submit.withAmount: Pay
+    title: 'Refill eLama Balance'
+    to.pay: Total
+    vat.rate: VAT
+    vat.tooltip: 'VAT in your country = {vatRate}%'
+Profile:
+    BaseInfo.btn.cancel: Cancel
+    BaseInfo.btn.change: Change
+    BaseInfo.btn.change.email: 'Change email'
+    BaseInfo.btn.change.language: 'Change language'
+    BaseInfo.btn.change.name: 'Change name'
+    BaseInfo.btn.change.password: 'Change password'
+    BaseInfo.btn.change.phone: 'Change telephone number'
+    BaseInfo.btn.change.timezone: 'Change time zone'
+    BaseInfo.current.password: 'Old password'
+    BaseInfo.description.email: 'We will use this email for important notifications, invoices and customer support'
+    BaseInfo.description.phone: 'Customer Support will use this number'
+    BaseInfo.email: Email
+    BaseInfo.language: Language
+    BaseInfo.login: Login
+    BaseInfo.name: Name
+    BaseInfo.new.email: 'New email'
+    BaseInfo.new.name: 'New name'
+    BaseInfo.new.password: 'New password'
+    BaseInfo.new.phone: 'New telephone number'
+    BaseInfo.new.timezone: 'New time zone'
+    BaseInfo.phone: 'Telephone number'
+    BaseInfo.region: Region
+    BaseInfo.repeat.password: 'Confirm password'
+    BaseInfo.timezone: 'Time zone'
+    BaseInfo.userId: 'eLama ID'
+    Header.title: 'User profile'
+    Nav.base: Main
+    Nav.changePassword: 'Change password'
+    notification.change.success: 'Settings successfully saved'
+    tooltip.password.message1: 'Make sure your Caps Lock key is off'
+    tooltip.password.message2: 'Password must be at least 6 characters or more'
+    validation.email: 'Invalid email'
+    validation.max: 'Not less than {count} {count, plural, one {charаcter} few {characters} many {characters} other {characters}}'
+    validation.min: 'Not less than {count} {count, plural, one {character} few {characters} many {characters} other {characters}}'
+    validation.name: 'The name can only contain letters, space and hyphen'
+    validation.phone: 'Invalid phone number'
+    validation.repeat.password: 'The password doesn’t match the confirmation password'
+    validation.required: Required
+Refreshments:
+    lastUpdate: 'Last update:'
+    notification.error: 'Can''t update account {account} now. Try again later'
+    notification.success: 'Account {account} successfully updated. Please refresh page'
+    notification.warning: 'Account {account} updated partly'
+    refreshData: Refresh
+    title: Refresh
+    unknown: Unknown
+Reports:
+    account.connect.with.analytics: 'Connect with analytics system'
+    account.connect.with.ga: 'Connect with Google Analytics'
+    account.connect.with.ym: 'Connect with Yandex.Metrics'
+    account.fetch.progress: 'Collected for {progress}%'
+    account.last.update: Update
+    account.refresh: Update
+    account.refresh.message: 'Token is outdated.'
+    account.settings.confirm: Transfer
+    account.settings.delete: 'Delete account'
+    account.settings.move: 'Transfer to another project'
+    account.status1: 'Preparation for statistics collection'
+    account.status2: Collecting
+    account.status3: 'Preparation of data'
+    account.status4: Connected
+    accounts.modal.cancel: Cancel
+    accounts.modal.close: Close
+    accounts.modal.confirm.delete.add: 'All data on the source will be deleted. Are you sure you want to delete the source?'
+    accounts.modal.confirm.delete.analytics: 'Are you sure you want to delete analytics system?'
+    accounts.modal.delete: Delete
+    adwords.connect.confirm: Confirm
+    adwords.connect.loading.text: 'Uploading the data on accounts'
+    adwords.connect.title: 'Select account'
+    analyitcs.select.accounts.title: 'Select Google Analytics account'
+    analytics.cancel: Cancel
+    analytics.connect: Connect
+    analytics.connect.accounts.not.found: 'Google Analytics accounts not found'
+    analytics.select.client.id.title: 'Select client id'
+    analytics.select.placeholder: Select
+    analytics.select.properties: 'Select resource'
+    analytics.select.session.id.title: 'Select session id'
+    analytics.select.views.title: 'Select introduction'
+    analytics.title: 'Fill the parameters to finish the setting'
+    breadcrumbs.projects: 'All projects'
+    client.accounts.cancel: Decline
+    client.accounts.confirm: Confirm
+    client.accounts.currency: 'Account is in unsupported currency'
+    client.accounts.filter.empty: 'There are no accounts appropriate to filter'
+    client.accounts.filter.hint: 'Use the filter above to search on the list'
+    client.accounts.filter.limit: 'Only {value} results are shown'
+    client.accounts.loading: 'Receipt of clients accounts is on'
+    client.accounts.placeholder: 'Client account'
+    client.accounts.select: 'Select clients accounts'
+    client.accounts.update: 'Renew the list'
+    connectAgencyAccounts.selected.analyticsAccounts.value: '{accounts} {accounts, plural, one {accounts} few {account} many {accounts} other {accounts}}'
+    direct.connect.loading.text: 'Uploading the data on accounts'
+    error.account.notMoved: 'Failed to transfer {accountName} account'
+    error.clientAddAccounts.noAccounts: 'Failed to get clients accounts'
+    error.metrika.noCounters: 'There are no counters in your account'
+    hint.account.add: 'To get the first report, connect the data source.'
+    hint.account.created: 'Account is successfully connected.'
+    hint.account.finished: 'Statistics is collected. Now you can download the report template, move to Power BI and renew the report.<br />Graphs and indicators based on input data should appear.'
+    hint.account.finished.btn: 'Download template'
+    hint.account.not.found: 'Impossible to connect the account.'
+    hint.account.progress: 'While we are collecting statistics, read how to set up reports in Power BI. <br /> Data collection usually takes 15-30 minutes, but it all depends on the amount of information.'
+    hint.account.progress.btn: Read
+    hint.close: Close
+    metrika.connect: 'Connect with counter'
+    metrika.counter.site: Website
+    metrika.counter.status: Status
+    metrika.counter.status.Active: Active
+    metrika.counter.status.Deleted: Deleted
+    modal.cancel: Cancel
+    modal.close: Close
+    modal.confirm.delete: 'Are you sure you want to delete the project "{name}"?'
+    modal.delete: Delete
+    pagen.not.found: 'Page not found'
+    pbi.alert.text: 'With a large number of ads, loading data can lead to a decrease in Power BI performance'
+    pbi.data.btn.save: Save
+    pbi.data.checkbox: 'Download data about ads'
+    pbi.data.title: 'Settings of loading data in Power BI'
+    pbi.error.text: Error
+    pbi.error.title: 'Settings of loading data in Power BI'
+    pbi.form.copied: Copied!
+    pbi.login.btn: Copy
+    pbi.login.title: 'Login for Power BI connection'
+    pbi.login.tooltip: 'Copy the login'
+    pbi.password.btn: Copy
+    pbi.password.title: Password
+    pbi.password.tooltip: 'Copy the password'
+    pbi.template.text0: 'It helps to quickly assess the situation: find out the amount of expenses and traffic and compare these data with the previous period.'
+    pbi.template.text1: 'Learn key metrics with simple and clear graphics. You can view data for search or display networks.'
+    pbi.template.text2: 'Analyze cost, click, and conversion data for each campaign in search or display network.'
+    pbi.template.text3: 'We collect data and upload it to Power BI, and you create your own report based on it. Basic measures have already been added to the template.'
+    pbi.template.text4: 'Compare the efficiency of placement in blocks for each campaign in detail or on the basis of an overall schedule.'
+    pbi.template.text5: 'Select a period and see how spendings, clicks and conversions for your account or campaign have changed.'
+    pbi.template.text6: 'Estimate the changes in advertising revenue and the share of advertising costs if the Yandex.Direct and Metrics accounts are connected, and e-commerce is set up in Metric.'
+    pbi.template.title0: Director
+    pbi.template.title1: Client
+    pbi.template.title2: 'Marketing manager'
+    pbi.template.title3: Expert
+    pbi.template.title4: 'Under and below the search results'
+    pbi.template.title5: 'Comparison of indexes by date'
+    pbi.template.title6: e-commerce
+    pbi.templates.title: 'Report templates'
+    pbi.title: 'Power BI connection'
+    project.delete: Delete
+    project.edit.cancel: Cancel
+    project.edit.confirm: Confirm
+    project.edit.link: 'Click the link'
+    project.edit.text: 'Click to edit'
+    project.new.create: Create
+    project.new.name: 'Project name'
+    project.new.toggle: 'Create a project'
+    project.settings: 'Project setting'
+    projects.empty: 'There are no appropriate projects'
+    projects.loading: 'Project downloading...'
+    success.account.move: '{accountName} account is transferred'
+    success.connect.clientAddAccounts: 'Selected accounts are successfully connected'
+    tab.pbi.settings: 'Power BI templates'
+    tab.sources: 'Data sources'
+Sidebar:
+    accounts: Accounts
+    ad.groups: 'Ad groups'
+    adGroups: 'Ad groups'
+    ads: Ads
+    agency: 'My clients'
+    audiences: Audience
+    billing.admin: 'Billing admin panel'
+    calculator: 'Smart Bid Calculator'
+    campaigns: Campaigns
+    cross.mincing: Cross-mincing
+    cross.minus: 'Cross-account negative keys'
+    crossAuth.logout: 'Log out'
+    facebookTools.leadAds: 'Facebook lead ads'
+    fb.ads.moderation: 'Facebook premoderation'
+    feedbackLink: 'Feedback and Suggestions'
+    finance: Finance
+    import.campaigns: 'Import Yandex.Direct campaigns'
+    instruments: Tools
+    keyword.combinator: 'Keyword сombinator'
+    keywords: Keywords
+    lingvo.generator: 'Lingvo Generator'
+    logout: 'Log out'
+    managers.panel: 'Manager panel 2.0'
+    marketing.admin: 'Marketing admin panel'
+    placements: Placements
+    profile: 'User profile'
+    reports: Reports
+    statistics.logs: Statistics
+    statistics.refresh: 'Statistics retraining'
+    systems: 'Ad systems'
+    tariff.admin: 'Price admin panel'
+    tender.logs: 'Tender logs'
+    uploading: 'Unloading from&nbsp;Yandex Direct to&nbsp;Google Analytics'
+    words: 'Semantics selection'
+Statistics:
+    accounts: '{accounts} {accounts, plural, one {advertising account} few {advertising accounts} many {advertising accounts} other {advertising accounts}}'
+    analytics.google.properties: 'Resource:'
+    analytics.google.views: 'Introduction:'
+    analytics.metrika.counter: 'Counter:'
+    analytics.noAccounts: 'No connected accounts'
+    analytics.remove: Delete
+    analytics.status.off: 'Token is outdated'
+    analytics.status.on: Connected
+    clicks: Clicks
+    cost: Spend
+    impressions: Impressions
+Status:
+    active: 'On'
+    keyword.level: 'There are active rules on the phrase level'
+    status.off: 'Off'
+    suspended.text: 'The tool is temporarily paused'
+    title: 'Bid management tool'
+    unsupported.text: 'The tool is unavailable for that campaign type'
+TableElements:
+    campaign: Campaign
+    keyword: Phrase
+    keyword.level: 'There are active rules on the phrase level'
+    old.bidmanager.active: 'In the previous bid management tool'
+    status.off: 'Off'
+    status.on: 'On'
+    status.suspended: 'The tool is temporarily paused'
+    template.ad.first.page: 'First page'
+    template.ad.first.position: 'The first position'
+    template.ad.top.position: 'Above the search results'
+    template.adwords.fixbid: 'Fixed bid'
+    template.adwords.fixbid.net: 'Fixed bid'
+    template.campaignType.adwords: 'Display Network'
+    template.campaignType.direct: YAN
+    template.campaignType.search: Search
+    template.contextSystem.adwords: Ads
+    template.contextSystem.direct: Direct
+    template.direct.fixbid: 'Fixed bid'
+    template.direct.fixbid.net: 'Fixed bid'
+    template.direct.maxtraffic: 'Maximum traffic'
+    template.direct.total: '100% coverage'
+    template.direct.traffic100: 'Traffic volume 100'
+    template.direct.traffic100plus: 'Traffic volume 100+'
+    template.direct.traffic15: 'Traffic volume 15'
+    template.direct.traffic5: 'Traffic volume 5'
+    template.direct.traffic75: 'Traffic volume 75'
+TableTest:
+    for: for
+Tariff:
+    active.period: '{period} {period, plural, one {day} few {day} many {days} other {days} } left'
+    active.period.bonus: '+ {days} {days, plural, one {day} few {days} many {days} other {days} }'
+    active.period.bonus.tooltip: 'The plan is prolonged for free'
+    active.until: 'Active until '
+    activity: 'Is active {days} {days, plural, one {day} few {days} many {days} other {days} }'
+    advantage.bidmanager: 'Unlimited Bid Management Tool for Google Ads'
+    advantage.recomendation: 'Unlimited access to Advisor'
+    advantage.support: 'Priority support via all communication means (phone, e-mail, chat)'
+    agency.tariff: 'Plan {tariff} ({price} per month for agencies and their clients)'
+    autopayment.description.recommendation: 'We strongly recommend not to turn this option off.'
+    autopayment.description.text: 'If you turn this option off, the bid management tool for all campaigns will stop as soon as your Optimal Plan subscription expires. Bid management tool will be reactivated with previous settings after you repurchase the Optimal Plan.'
+    autopayment.description.title: 'Do you really want to turn automatic subscription renewal off?'
+    autopayment.interview.answer1: 'I want to control expenses and pay by myself'
+    autopayment.interview.answer2: 'I''m fine with free capabilities of Basic plan'
+    autopayment.interview.answer3: 'I don''t want to work with eLama'
+    autopayment.interview.answer4: 'I plan to increase my budget and to switch to Optimal for free'
+    autopayment.interview.answer5: 'Too expensive'
+    autopayment.interview.title: 'Why do you want to turn off the automatic extension?'
+    autopayment.tooltip: 'The function will allow to charge the payment from the eLama balance for the {tariff} plan automatically.'
+    budget: 'Budget {turnover} from {minTurnover}'
+    budget.more: 'More {minTurnover}'
+    button.add.balance: Pay
+    button.buy: 'Upgrade for {price} per month'
+    button.buy.tariff: 'Upgrade for {price} per month'
+    button.cancel: Cancel
+    button.close: Close
+    button.done: Done
+    button.off: 'Turn off'
+    code.basic: Basic
+    code.optimal: Optimal
+    condition: 'We will extend your plan for free, if your {link} from {startDate} till {endDate} is more than {minTurnover}'
+    condition.basic: 'We will switch you to subscripton plan for free {tariff}, if your {link} from {startDate} till {endDate} is more than {minTurnover}'
+    condition.description.offer: 'You can buy the plan in your profile in any convenient way.'
+    condition.description.text: 'We will extend plan {tariff} for {price}, if «Auto-recharge» function is enabled. If you switch off the function, you will get a free plan {oldTariff}.'
+    condition.description.tooltip: 'The sum of all transfers to advertising systems minus returns to the eLama balance for the period from {startDate} to {endDate}'
+    condition.done: 'Your payments for ad systems were more than {minTurnover}. Plan {tariff} extended for a month for {price}'
+    condition.done.basic: 'Your payments for ad systems were more than {minTurnover}. Plan {tariff} will be enabled for a month for {price}'
+    current.tariff: 'Current plan: {tariff}'
+    extended.tariff: 'Upgrade to {tariff}'
+    fee.clients: '{amount} {amount, plural, one {client} few {clients} other {clients}}'
+    fee.clients.button: 'List of clients'
+    fee.clients.from: '{from}+ {from, plural, one {client} few {clients} other {clients}}'
+    fee.clients.from.to: '{from} - {to} {to, plural, one {client} few {clients} other {clients}}'
+    fee.clients.title: 'Plan purchased by'
+    fee.info.button: 'Reward Program Details'
+    fee.info.text: '<p>Switch all your clients accounts to {tariff} plan, experience our automation tools and not only save valuable time and money but benefit from our special agency partnership offer.</p> <p>The more clients from your list use {tariff} plan — the greater reward you get. Receive your reward on a monthly basis.  The reward will be transferred to your eLama account or to the payment card.</p> <p>To switch your client to Optimal plan you need to:</p> <ul><li>log in as a client from your eLama agency profile;</li><li>refill the eLama balance;</li><li>buy Optimal plan.</li></ul> <p><Or:</p> <p>ask your clients to buy {tariff} plan in their eLama accounts.</p>'
+    fee.profit: '{sum} for each client'
+    fee.profit.potential: 'You will receive'
+    fee.profit.previous: 'You received'
+    fee.table.amount: 'Clients with {tariff} plan'
+    fee.table.reward: '% Reward'
+    fee.table.reward.total: 'Your Reward'
+    fee.title: 'Switch your clients plans to {tariff} and earn reward'
+    for.agency: 'Your Price'
+    label.automatic.prologation: 'Prolong automatically'
+    label.budget: 'ad budget'
+    label.price: Price
+    label.tariff: Plan
+    link.about: 'Learn more'
+    link.budget: 'What if my ad budget is smaller?'
+    link.manager: 'Learn more about Plans & Prices'
+    link.no.payment: 'What if I don’t pay my for my plan on time?'
+    more.info: 'Learn more about Plans & Prices'
+    my.tariff: 'My plan: {tariff}'
+    payment.congratulations: 'Congrats! <br> You are on {tariff} plan. <br>The sky is the limit!'
+    payment.done: 'You have connected the Optimal plan {tariff}. All tools are now available with no limits until {date}.'
+    payment.error: 'We couldn''t withdraw funds from your account. Try again or contact Customer Support.'
+    payment.notification: 'The cost of the {tariff} plan will be deducted from your balance.'
+    payment.notification.description: 'A few minutes after the payment, the Bid Management Tool will turn on for those campaigns and keywords for which it was automatically stopped.'
+    payment.warning: 'There are insufficient funds on your balance to subscribe to the plan.'
+    price: '{price} per month'
+    price.old: 'regular {price} per month'
+    reason.trial: 'Trial period'
+    tariff: 'Plan: {tariff}'
+    thanks: 'Say "Thanks"'
+    turnover.max: 'from {value}'
+    turnover.min: '{turnover}'
+    turnover.min.more: 'More than {minTurnover}'
+Template:
+    ad.first.page.description: 'The algorithm will place a bid (+ step) necessary to display an ad on first page of the search results, if it is less than the maximum bid set in the bid management tool. If it is more - puts the maximum bid.'
+    ad.first.page.name: 'First page'
+    ad.first.position.description: 'The algorithm will place a bid (+ step), which is necessary for displaying an ad by first position, if it is less than the maximum bid set in the bid management tool. If it is more, it will set the maximum bid.'
+    ad.first.position.name: 'First position'
+    ad.top.position.description: 'The algorithm will place a bid (+ step) necessary for displaying top of the search results if it is less than the maximum bid set in the bid management tool. If it is more, it will set the maximum bid.'
+    ad.top.position.name: 'Top of the first page'
+    adwords.fixbid.description: 'The algorithm will place a bid equal to the one set in the bid management tool.'
+    adwords.fixbid.name: 'Fix bid'
+    adwords.fixbid.net.description: 'The algorithm will place a bid equal to the one set in the bid management tool.'
+    adwords.fixbid.net.name: 'Fix bid'
+    alpha.template.warning: 'Soon you will be able to create and edit your own bid control algorithms. Now you can see what our algorithms look like in the new format. We will be glad if you share your feedback with us.'
+    bid: bid
+    bid.100.hint: 'The bid required to get 100% coverage in networks'
+    bid.first.page.hint: 'Bid required for your ad to be on first page in Google'
+    bid.first.position.hint: 'Bid required for your ad to be on first position in Google'
+    bid.top.hint: 'Bid required for your ad to be on top of page in Google'
+    cancel: Cancel
+    description.title: 'Template work description'
+    direct.bid.max.traffic.amount.hint: 'Bid required to get maximum traffic'
+    direct.bid.traffic.amount.hint: 'Bid required to get traffic {value}'
+    direct.fixbid.description: 'The algorithm puts a bid equal to the one set in the bid management tool.'
+    direct.fixbid.name: 'Fix bid'
+    direct.fixbid.net.description: 'The algorithm puts a bid equal to the one set in the bid management tool.'
+    direct.fixbid.net.name: 'Fix bid'
+    direct.maxtraffic.description: 'The algorithm searches for the maximum amount of traffic for which the price charged does not exceed the price charged in the bid management tool. If such a volume of traffic exists, the algorithm will place a bid corresponding to this amount of traffic + step. In this case, you can set a limit on the bid in % of the price charged. If such a volume does not exist, the algorithm will place a bid equal to the price charged in the bid management tool.'
+    direct.maxtraffic.name: 'Maximum traffic'
+    direct.total.description: 'The algorithm puts a bid (+ step) necessary to get 100% coverage if it is less than the maximum bid set in the bid management tool. If it is more - puts the maximum bid.'
+    direct.total.name: 'Coverage 100%'
+    direct.traffic100.description: 'The algorithm puts a bid (+ step) necessary to obtain a traffic volume of 100, if it is less than the maximum bid set in the bid management tool. If it is more, it puts the specified maximum bid.'
+    direct.traffic100.name: 'Traffic amount 100'
+    direct.traffic100plus.description: 'The algorithm will set the bid (+ step) necessary to get the maximum amount of traffic if it is less than the maximum bid set in the bid management tool. If it is larger, it will set the specified maximum bid.'
+    direct.traffic100plus.name: 'Traffic amount 100+'
+    direct.traffic15.description: 'The algorithm will set the bid (+ step) necessary to get the traffic volume 15, if it is less than the maximum bid set in the bid management tool. If it is more, it will set the specified maximum bid.'
+    direct.traffic15.name: 'Traffic amount 15'
+    direct.traffic5.description: 'The algorithm will set the bid (+ step) necessary to get the traffic volume 5, if it is less than the maximum bid set in the bid management tool. If it is more, it puts the specified maximum bid.'
+    direct.traffic5.name: 'Traffic amount 5'
+    direct.traffic75.description: 'The algorithm puts a bid (+ step), which is necessary to get the traffic volume 75, if it is less than the maximum bid set in the bid management tool. If it is more, it puts the specified maximum bid.'
+    direct.traffic75.name: 'Traffic amount 75'
+    else.block: Else
+    feedback.leave: 'Leave feedback'
+    first.page: 'first page'
+    first.position: 'first position'
+    for: for
+    for.traffic: 'for amount of traffic'
+    if.block: If
+    leave.feedback: 'Leave feedback'
+    limit.hint: 'How much % can the bid exceed the maximum price charged in the bid management tool'
+    max.bid: 'max. bid'
+    max.bid.hint: 'A bid that you set to determine the highest amount that you''re willing to pay for a keyword'
+    max.bid.limit: 'max. bid limit'
+    max.price: 'max. CPC bid'
+    max.price.hint: 'A bid that you set to determine the highest amount that you''re willing to pay for a click on your ad'
+    max.traffic: 'max. traffic'
+    min: minimum
+    min.hint: 'Selects the smallest of the 2 values specified in brackets separated by a semicolon'
+    onboarding.advanced.settings: 'You can specify additional settings for the selected algorithm'
+    onboarding.feedback: 'Please leave your comments and suggestions. This will help make the work with the tool more convenient.'
+    onboarding.intro: 'You can rename the template'
+    onboarding.two.way.second: '• save (changes will be applied to all campaigns and phrases for which the template is set up);'
+    onboarding.two.way.third: '• save as new (new template will appear in the list).'
+    onboarding.two.ways.first: 'The created template can be:'
+    price: CPC
+    price.hint: 'Average price that you will pay for a click to get {value}'
+    price.maxtraffic.hint: 'Average price that you will pay for click to get maximum traffic volume'
+    save: Save
+    save.as.new: 'Save as a new template'
+    save.changes: 'Save changes'
+    save.force: 'Save anyway'
+    set.bid: 'set a bid'
+    settings.update.cascade.both: 'Changes are applicable to {campaigns} {campaigns, plural, one {campaign} many {campaigns} other {campaigns}} и {keywords} {keywords, plural, one {keyword} many {keywords} other {keywords}}'
+    settings.update.cascade.campaigns: 'Changes are applicable to {campaigns} {campaigns, plural, one {campaign} few {campaigns}  many {campaigns} other  {campaigns}}'
+    settings.update.cascade.keywords: 'Changes are applicable to {keywords} {keywords, plural, one {keyword} other {keywords}}'
+    spoiler.title: 'How does this template work?'
+    step: Step
+    step.hint: 'How much will be added to the bid for your chosen traffic'
+    template: 'Template: {templateName}'
+    template.algo: Template
+    then.block: Then
+    top.first.page: 'top of page'
+    total: 'coverage 100%'
+TimeTargeting:
+    button.apply: Apply
+    button.close: Close
+    button.edit: Change
+    correctBids: 'Bid modifiers'
+    customSettings: 'Custom settings'
+    day.friday: FR
+    day.monday: MO
+    day.saturday: SA
+    day.sunday: SU
+    day.thursday: TH
+    day.tuesday: TU
+    day.wednesday: WE
+    error.BelowFortyBusinessHours: 'Impressions must be allowed at least 40 hours on weekdays'
+    error.campaignFetchError: 'Failed to get the campaign. Try again later.'
+    error.emptyCampaigns: 'Empty campaigns'
+    error.header: 'Service temporarily unavailable'
+    error.IntervalsPerDayLimitExceeded: 'The number of continuous ranges for one day can not be more than six'
+    error.subtitle: 'Please try again later'
+    error.ZeroHours: 'Scheduling cannot be empty'
+    notice.adwords: 'You can increase or decrease all campaign bids at specific hours. The adjustment can be from 10% to 1000%, where 100% is the current rate. A correction of 0 means that the advertisement is not shown.'
+    notice.clickToEdit: 'Click to configure the same scheduling.'
+    notice.direct: 'You can increase or decrease all campaign bids at specific hours. The adjustment can be from 0 to 200%, where 100% is the current rate. The adjustment step is 10%. A correction of 0 means that the advertisement is not shown.'
+    notice.doesntSame: 'There isn''t the same scheduling on selected campaigns.'
+    notify.fail: 'Scheduling wasn''t updated'
+    notify.success: 'Scheduling was updated'
+    schedule.fulltime: 'Always on'
+    schedule.off: 'Off'
+    schedule.weekends: Weekend
+    schedule.workdays: Workdays
+    schedule.worktime: 'Working hours'
+    timezone: Timezone
+    timezone.ads: 'You may set timezone for Google Ads only on accounts level.'
+    timezone.America/Argentina/Buenos_Aires: 'Buenos Aires (GMT -03:00)'
+    timezone.America/Denver: 'Denver (GMT -07:00)'
+    timezone.America/Los_Angeles: 'Los Angeles (GMT -08:00)'
+    timezone.America/Mexico_City: 'Mexico City (GMT -06:00)'
+    timezone.America/Santo_Domingo: 'Santo Domingo (GMT -04:00)'
+    timezone.America/Toronto: 'Toronto (GMT -05:00)'
+    timezone.Asia/Chita: 'Chita (GMT +09:00)'
+    timezone.Asia/Irkutsk: 'Irkutsk (GMT +08:00)'
+    timezone.Asia/Kamchatka: 'Kamchatka (GMT +12:00)'
+    timezone.Asia/Krasnoyarsk: 'Krasnoyarsk (GMT +07:00)'
+    timezone.Asia/Omsk: 'Omsk (GMT +06:00)'
+    timezone.Asia/Srednekolymsk: 'Srednekolymsk (GMT +11:00)'
+    timezone.Asia/Vladivostok: 'Vladivostok (GMT +10:00)'
+    timezone.Asia/Yekaterinburg: 'Yekaterinburg (GMT +05:00)'
+    timezone.Different: Different
+    timezone.Europe/Berlin: 'Berlin (GMT +01:00)'
+    timezone.Europe/Kaliningrad: 'Kaliningrad (GMT +02:00)'
+    timezone.Europe/London: 'London (GMT +00:00)'
+    timezone.Europe/Moscow: 'Moscow (GMT +03:00)'
+    timezone.Europe/Samara: 'Samara (GMT +04:00)'
+    title.campaigns: '{campaigns} {campaigns,plural, one {campaign} other {campaigns}}'
+    title.help: 'Time zone and working time of your advertising campaign in local time'
+    title.title: 'Ad scheduling'
+    unknown: Unknown
+ToolSelector:
+    argos.timetargeting.title: 'Set ad scheduling'
+    bidmanager.bulk.change.bid.title: 'Change bids of the bid management tool'
+    bidmanager.bulk.change.status.title: 'Change status of the bid management tool'
+    bidmanager.settings.title: 'Set the bid management tool'
+    selected: 'Selected:'
+    tools.header: Tools
+    utm.bulk.settings.title: 'Set UTM-tagging'
+TransferMoneyWidget:
+    adwords.transfer.duration: 'Money transfer to Google Ads account may take up to {time}'
+    adwords.transfer.time: '4 hours'
+    amount: Amount
+    button.close: Close
+    commission: 'Commission charge'
+    common.error.message: 'Payments are temporarily unavailable'
+    common.systems.success: 'Transfer of {amount} is complete! Please note, that your balance in ad. systems will require up to 20 minutes to be refreshed.'
+    direct.transfer.duration: 'Yandex can credit money to the balance up to {time}.'
+    direct.transfer.time: '20 minutes'
+    error.amount.gt.than.max: 'Not more than'
+    error.amount.input.gt.than.max: 'Insufficient balance'
+    error.amount.lt.than.min: 'Not less than'
+    facebook.transfer.duration: 'Money transfer to Facebook account may take up to {time}.'
+    facebook.transfer.time: '4 hours'
+    from.eLama: 'Transfer from eLama balance'
+    known.systems.done: Done
+    known.systems.success: 'Transfer of {amount} is {done}.'
+    min.max.payment: 'From {min} {max}'
+    not.enough.money: 'Insufficient balance'
+    refill: Payment
+    refill.google: 'Refill in Google Ads'
+    to.deposit: 'For credit'
+    to.max.amount: 'To {max}'
+    transfer: Transfer
+    vat: VAT
+    vat.is.not.charged: 'not charged'
+    vkontakte.transfer.duration: 'Vkontakte can credit money to the balance up to {time}.'
+    vkontakte.transfer.time: '20 minutes'
+Utm:
+    action.accept.button: Apply
+    action.accept.notification: 'Automatic UTM-tagging is applied'
+    action.delete.button.adwords: 'Delete UTM parameters from Google Ads'
+    action.delete.button.bulk: 'Delete UTM parameters from the selected campaigns'
+    action.delete.button.direct: 'Delete UTM parameters from Yandex.Direct'
+    action.delete.notification: 'Parameters will be deleted from ads. Automatic UTM-tagging is off'
+    action.delete.tooltip: 'Added UTM parameters will be deleted from ad campaign. The tool will be turned off.'
+    action.delete.tooltip.bulk: 'Added UTM parameters will be deleted from ad campaign. The tool will be turned off.'
+    action.off.button: 'Turn off'
+    action.off.notification: 'Automatic UTM-tagging is off'
+    action.on.button: 'Turn on'
+    action.on.notification: 'Automatic UTM-tagging is on'
+    additional.button.add: 'Add parameter'
+    additional.placeholder.name: 'Specifiy parameter name'
+    additional.placeholder.value: 'Specify parameter value'
+    bulk.campaigns.many: Campaign
+    bulk.campaigns.one: Campaign
+    bulk.campaigns.two: Campaign
+    bulk.placeholder.differentNames: 'Different campaign name'
+    bulk.placeholder.differentValues: 'Different campaign value'
+    bulk.placeholder.notAdd: 'This parameter will not be added'
+    bulk.selected: Selected
+    bulk.tooltip.not.supported.campaign.type: 'The tool is available only for campaigns of the type “Search network”, “Display network”, "Search Network with Display Select". If there are other types of campaigns among the selected, the tool will not be used for them.'
+    error.failed: 'Failed to apply changes. Try again later.'
+    error.unavailable: 'System is currently unavailable. Try again later.'
+    header: 'Automatic UTM-tagging'
+    header.tooltip.adwords: 'The tool automatically adds and updates UTM parameters in advertising campaigns.{delimiter}Read about in {quote}{link}{quote}.{delimiter}{boldstart}'
+    header.tooltip.bulk: 'The tool automatically adds and updates UTM parameters for new and existing ads. {delimiter} For more information about setup refer to {quote}{link}{quote}.{delimiter}{boldstart}'
+    header.tooltip.direct: 'The tool automatically adds and updates UTM parameters for new and existing ads. {delimiter} For more information about setup refer to {quote}{link}{quote}.{delimiter}{boldstart} Note!{boldend} The tool uses Direct API points.'
+    header.tooltip.here.adwords: Help
+    header.tooltip.here.bulk: Help
+    header.tooltip.here.direct: Help
+    notification.customParamsWarning.button: 'Return to default eLama settings'
+    notification.customParamsWarning.message: 'Some {link} eLama tools may not work correctly with your own parameters.'
+    notification.customParamsWarning.message.linktext: tools
+    status.off: 'Off'
+    status.on: 'On'
+    status.title: UTM-tagging
+    tags.utmCampaign.description: 'Identifies the name of ad campaign.'
+    tags.utmCampaign.label: 'Campaign name (utm_campaign)'
+    tags.utmCampaign.tooltip.adwords: '{squarebracketsstart}eLama-campaign-name{squarebracketsend} — dynamic eLama parameter that identifies the name of Google ad campaign. {link}'
+    tags.utmCampaign.tooltip.adwords.linktext: 'Learn more'
+    tags.utmCampaign.tooltip.direct: '{squarebracketsstart}eLama-campaign-name{squarebracketsend} — This is a dynamic eLama parameter, which transmits the name of the ad campaign specified in Yandex.Direct. {link}'
+    tags.utmCampaign.tooltip.direct.linktext: 'Learn more'
+    tags.utmContent.description: 'Identifies additional information.'
+    tags.utmContent.label: 'Campaign content (utm_content)'
+    tags.utmContent.tooltip.adwords: '{squarebracketsstart}eLama-link{squarebracketsend} — is a dynamic eLama parameter that identifies additional campaign information. {link}'
+    tags.utmContent.tooltip.adwords.linktext: 'Learn more'
+    tags.utmContent.tooltip.direct: '{squarebracketsstart}eLama-link{squarebracketsend} — is a dynamic eLama parameter that identifies additional campaign information. {link}'
+    tags.utmContent.tooltip.direct.linktext: 'Learn more'
+    tags.utmMedium.description: 'Identifies which kind of link was used (ex: cpc, social, display, email, etc)'
+    tags.utmMedium.label: 'Campaign medium (utm_medium)'
+    tags.utmMedium.tooltip.adwords: 'Traffic type. For example: {colon} {italicsstart}cpc, social, email, display etc. {italicsend}'
+    tags.utmMedium.tooltip.direct: 'Traffic type. For example: {colon} {italicsstart}cpc, social, email, display etc. {italicsend}'
+    tags.utmSource.description: 'Identifies where the traffic is coming from (for example: from Google or Facebook)'
+    tags.utmSource.label: 'Campaign source (utm_source)'
+    tags.utmSource.tooltip.adwords: 'The parameter identifies where the traffic is coming from. For example:{colon} {italicsstart} google, facebook, etc.{italicsend}'
+    tags.utmSource.tooltip.direct: 'The parameter identifies where the traffic is coming from. For example:{colon} {italicsstart} google, facebook, etc.{italicsend}'
+    tags.utmTerm.description: 'Identifies the keyword responsible for the click.'
+    tags.utmTerm.label: 'Campaign term (utm_term)'
+    tags.utmTerm.tooltip.adwords: 'Identifies the keyword that was responsible for generating click. For example{colon} {italicsstart}\{keyword\}, \{phrase_id\} , etc.{italicsend}'
+    tags.utmTerm.tooltip.direct: 'Identifies the keyword that was responsible for generating click. For example: {keyword}, {phrase_id}'
+    tooltip.not.supported.campaign.type: 'This tool is unavailable for this kind of campaign'

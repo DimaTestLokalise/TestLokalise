@@ -1,0 +1,2625 @@
+AccountBalanceWidget:
+    balance: 'Баланс:'
+    error: 'Баланс: Ошибка'
+    loading: 'Баланс: загружается...'
+Accounts:
+    button.close: Закрыть
+    EmptyAccountCampaigns.adwords.button: Перейти
+    EmptyAccountCampaigns.adwords.message: 'Перейдите в Google Ads и создайте кампанию там'
+    EmptyAccountCampaigns.adwords.title: 'У вас пока нет кампаний.'
+    EmptyAccountCampaigns.direct.button: Перейти
+    EmptyAccountCampaigns.direct.message: 'Перейдите в Яндекс.Директ и создайте кампанию там'
+    EmptyAccountCampaigns.direct.title: 'У вас пока нет кампаний.'
+    EmptyAccountCampaigns.facebook.button: Перейти
+    EmptyAccountCampaigns.facebook.message: 'Перейдите в Facebook и создайте кампанию там'
+    EmptyAccountCampaigns.facebook.title: 'У вас пока нет кампаний.'
+    label.login: Логин
+    label.password: Пароль
+    loginDetails.copied: 'Скопировано в буфер'
+    loginDetails.copy: Копировать
+    loginDetails.goToDirect: 'Перейти в Я.Директ'
+    loginDetails.hint: 'Скопировать в буфер'
+    loginDetails.title: 'Данные для входа в Яндекс.Директ'
+    loginDetails.warning: 'Яндекс предложит сменить пароль при первом входе в аккаунт, и указанный здесь пароль станет неактуальным'
+    menu.archive: Скрыть
+    menu.forward.access.google.ads: 'Получить прямой доступ к аккаунту'
+    menu.go.to.direct: 'Перейти в Яндекс.Директ'
+    menu.go.to.facebook: 'Перейти в Facebook'
+    menu.go.to.google.ads: 'Перейти в Google Ads'
+    menu.go.to.target.mail.ru: 'Перейти в MyTarget'
+    menu.go.to.vkontakte: 'Перейти во ВКонтакте'
+    menu.name.edit: Переименовать
+    menu.password.show: 'Показать пароль'
+    menu.unarchive: Показать
+    NameIdFilter.placeholder: 'Поиск по названию, ID'
+    password.description: 'Если восстановить пароль не получится, мы создадим для вас новый аккаунт в этой системе. Ваши кампании, их параметры, показатели эффективности и средства на балансе сохранятся.'
+    password.disclaimer: 'При первом входе в аккаунт Яндекс.Директ предложит вам изменить указанный пароль на новый. Новый пароль не отобразится в аккаунте eLama. Если вам понадобится восстановить пароль, сделайте это в сервисе Яндекс.Паспорт.'
+    password.link: 'Перейти в Яндекс.Паспорт для восстановления пароля'
+    password.title: 'Доступы к вашему аккаунту в Яндекс.Директ'
+    status.hidden: Скрыт
+    SystemCodeFilter.all: Все
+adGroups:
+    ad.action.archive: 'Архивировать объявление'
+    ad.action.delete: 'Удалить объявление'
+    ad.action.edit: 'Редактировать объявление'
+    ad.action.moderate: 'Отправить на модерацию'
+    ad.action.start: 'Запустить объявление'
+    ad.action.stop: 'Остановить объявление'
+    ad.action.unarchive: 'Разархивировать объявление'
+    ad.group.status.archive: 'В архиве'
+    ad.group.status.delete: 'В архиве'
+    ad.group.status.draft: Черновик
+    ad.group.status.moderation: 'На модерации'
+    ad.group.status.pending: Обновляется
+    ad.group.status.reject: 'Отклонена модератором'
+    ad.group.status.run: Активно
+    ad.group.status.spawning: Создается
+    ad.group.status.stop: Остановлено
+    common.empty: 'Список объявлений пуст'
+    common.reload: 'Попробуйте перезагрузить страницу'
+    error.banned: запрещен
+    error.constraint.chars: 'Может содержать только буквы, цифры, символы'
+    error.double.symbol: 'Двойной символ'
+    error.link: 'Проверьте правильность ссылки'
+    error.narrow.chars: 'Превышено количество "узких" символов'
+    error.space: Пробел
+    error.symbol: символа
+    error.symbols: символов
+    error.text.length: 'Не может превышать'
+    error.underline: 'Символ подчеркивания'
+    error.word.length: 'Слово не может превышать'
+    label.apply: Применить
+    label.cancel: Отмена
+    label.create: Создать
+    label.create.new.ad: 'Создать новое объявление'
+    label.display.link: 'Отображаемая ссылка'
+    label.group: 'Группа объявлений'
+    label.link: URL
+    label.rollup: 'Свернуть в слайдер'
+    label.show: 'Показать все'
+    label.text: Описание
+    label.title1: 'Заголовок 1'
+    label.title2: 'Заголовок 2'
+    placeholder.display.link: 'Введите отображаемую ссылку'
+    placeholder.link: 'Введите url'
+    placeholder.text: 'Введите описание'
+    placeholder.title: 'Введите заголовок'
+Advisor:
+    account: Аккаунт
+    alright: 'У вас все хорошо'
+    campaign: Кампания
+    effect: 'Ожидаемый эффект'
+    error: 'Произошла ошибка, мы уже работаем над ее исправлением ...'
+    onboarding.cancel: Отмена
+    onboarding.close: Закрыть
+    onboarding.next: 'Далее »'
+    onboarding.restart: 'Начать сначала'
+    onboarding.step: Шаг
+    open: Рекомендации
+    recommendation: Рекомендация
+    recommendation.adgroups.group: 'Группа объявлений № {id}'
+    recommendation.adgroups.groups: Группы
+    recommendation.adgroups.more: Еще
+    recommendation.ads.ad: 'Объявление № {id}'
+    recommendation.ads.ads: Объявления
+    recommendation.ads.combine: 'Группа объявлений «{groupName}», объявление № {id}'
+    recommendation.ads.more: Еще
+    recommendation.auction: Трафареты
+    recommendation.auction.tooltip: 'Эта рекомендация поможет показываться вашим объявлениям в разных {link} и получать больший объем трафика'
+    recommendation.auction.tooltip.help: трафаретах
+    recommendation.critical: Критично
+    recommendation.hide: Свернуть
+    recommendation.instruction: инструкция
+    recommendation.more: Подробнее
+    recommendation.tariff.restriction.buy.button.text: 'Купить Optimal за 499 ₽/мес.'
+    recommendation.tariff.restriction.message.description: 'Подключите тариф Optimal и получайте рекомендации без ограничений.'
+    recommendation.tariff.restriction.message.title: 'Ваш тариф — Basic. {delimiter} Вам доступно 3 рекомендации на рекламную кампанию.'
+    recommendation.video: видео
+    recommendation.warning: Важно
+    reload: 'Обновить список рекомендаций'
+    study: 'Пройти обучение'
+    title: Рекомендатор
+    title.tooltip: 'Рекомендатор анализирует рекламные кампании и советует, как сделать их более эффективными. Подробнее об инструменте читайте в {link}'
+    title.tooltip.help: Помощи
+    title.tooltip.short: 'Рекомендатор анализирует рекламные кампании и советует, как сделать их более эффективными.'
+Agency:
+    Accounts.accounts: '{accounts} {accounts, plural, one {аккаунт} few {аккаунта} many {аккаунтов} other {аккаунтов}}'
+    AddClient.add.client: 'Добавить клиента'
+    AddClient.restrictingLocales: 'Вы не можете добавить клиента из данной страны'
+    AdvertisingSystems.direct: 'Яндекс.Директ'
+    AdvertisingSystems.adwords: 'Google AdWords'
+    AdvertisingSystems.vkontakte: ВКонтакте
+    AdvertisingSystems.facebook: Facebook
+    AdvertisingSystems.all: Все
+    AdvertisingSystems.other: 'Другие системы'
+    AttachingOffer.add.client: 'Добавление клиента'
+    AttachingOffer.bind: Привязать
+    AttachingOffer.client.id: 'ID клиента'
+    AttachingOffer.client.login: 'Логин клиента в eLama'
+    AttachingOffer.client.login.direct: 'Логин представительского аккаунта Директа (если есть)'
+    AttachingOffer.client.mcc: 'ID MCC AdWords (если есть)'
+    AttachingOffer.notification.error: Ошибка
+    AttachingOffer.notification.error.advice: 'Обратитесь в Службу Заботы'
+    AttachingOffer.notification.error.description: 'Невозможно привязать клиента.'
+    AttachingOffer.notification.success.message: 'Ваша заявка успешно отправлена'
+    AttachingOffer.required.input: 'обязательное поле для заполнения'
+    ClientAttachingOffer.rejected: 'Спасибо, что сообщили об ошибке! Заявка отклонена. Агентству {agencyName} не предоставлен доступ на управление вашей рекламой.'
+    ClientAttachingOffer.rejectedError: 'Ой, что-то пошло не туда :('
+    ClientAttachingOffer.confirmed: 'Спасибо! Заявка успешно обработана! Вы стали клиентом агентства {agencyName}'
+    ClientAttachingOffer.confirmedError: 'Во время подтверждения заявки произошла ошибка.'
+    AttachingOfferPage.agent: 'Схема сотрудничества «Агент»'
+    AttachingOfferPage.agentCondition1: 'вы настраиваете и ведете рекламную кампанию клиента, и все взаимодействие с ним и eLama идет через вас;'
+    AttachingOfferPage.agentCondition2: 'кампания клиента не связана с вашей кампанией или кампанией ваших клиентов;'
+    AttachingOfferPage.agentCondition3: 'клиент не заказывал бесплатную базовую кампанию в eLama;'
+    AttachingOfferPage.agentCondition4: 'рекламу клиента не ведут сотрудники eLama.'
+    AttachingOfferPage.agentConditionDescription: 'Вам подойдет схема, если:'
+    AttachingOfferPage.agentDescription: '— для тех, кто сам ведет рекламу клиента'
+    AttachingOfferPage.agentDescriptionAfterCondition1: 'Для работы по такой схеме  необходимо вести рекламу минимум 3 клиентов. Минимальный суммарный оборот клиентов — {value}'
+    AttachingOfferPage.agentDescriptionAfterCondition2: 'После заполнения формы мы отправим клиенту уведомление о добавлении его аккаунта к вашему агентству.'
+    AttachingOfferPage.agentDescriptionAfterCondition3: 'Предупредите клиента, чтобы он подтвердил свое согласие, перейдя по ссылке из письма.'
+    AttachingOfferPage.agentDescriptionAfterCondition4: 'Когда клиент будет добавлен, он появится в разделе «Мои клиенты» — «Управляю».'
+    AttachingOfferPage.agentDescriptionAfterConditionMCC: 'Чтобы вы получали вознаграждение, управляющий аккаунт eLama (MCC) должен быть первым в списке имеющих доступ к аккаунту клиента. Если с клиентом уже связан другой управляющий аккаунт, отвяжите его и'
+    AttachingOfferPage.agentDescriptionAfterConditionMCCLink: 'добавьте агентский аккаунт eLama.'
+    AttachingOfferPage.DetailedTerms: 'Подробные условия'
+    AttachingOfferPage.header: 'Привязать клиента к агентству'
+    AttachingOfferPage.partner: 'Схема сотрудничества «Посредник»'
+    AttachingOfferPage.partnerCondition1: 'вы порекомендовали клиенту сервис eLama;'
+    AttachingOfferPage.partnerCondition2: 'клиент зарегистрировался и сообщил вам свой логин;'
+    AttachingOfferPage.partnerCondition3: 'аккаунт клиента создан менее 24 ч. назад.;'
+    AttachingOfferPage.partnerConditionDescription: 'Вам подойдет этот вариант, если:'
+    AttachingOfferPage.partnerDescription: '— для тех, кто пригласил клиента для самостоятельной работы в eLama'
+    AttachingOfferPage.partnerDescriptionAfterCondition1: 'В течение 6 месяцев с момента подключения клиента вы будете получать вознаграждение в размере {percent}% от его переводов в рекламные системы.'
+    AttachingOfferPage.partnerDescriptionAfterCondition2: 'Когда клиент будет добавлен, его логин появится в разделе «Мои клиенты» — «Привел».'
+    AttachingOfferPage.role.agent: 'Я — агент, сам веду рекламу клиента'
+    AttachingOfferPage.role.partner: 'Я — посредник, приглашаю клиентов работать в eLama'
+    BackPanel.back: Назад
+    Brief.agency: Агентство
+    Brief.agree: 'Я даю согласие на обработку моих персональных данных'
+    Brief.agreement: 'Я даю {link} на обработку моих персональных данных'
+    Brief.bankIdentificationCode: БИК
+    Brief.bankName: 'Название банка'
+    Brief.brazil: Бразилия
+    Brief.cardNumber: 'Номер карты'
+    Brief.closingDocumentsElectronicManagement: 'Через систему электронного документооборота'
+    Brief.closingDocumentsMyself: 'Буду забирать сам из офиса eLama (г. Санкт-Петербург, ул. Цветочная, д. 16П)'
+    Brief.closingDocumentsRussionPost: 'Почтой России'
+    Brief.contactDetails: 'Укажите данные о вашем агентстве'
+    Brief.contactDetailsPresentationTitle: 'Эти данные увидят ваши клиенты'
+    Brief.correspondentAccount: 'Корреспондентский счет'
+    Brief.dayOff: Выходной
+    Brief.diadoc: Диадок
+    Brief.email: 'Электронная почта'
+    Brief.error.agreement: 'Согласие необходимо для отправки формы'
+    Brief.error.email: 'Невалидный email'
+    Brief.error.invalid: 'Некорректное значение'
+    Brief.error.max: 'Максимум 200 символов'
+    Brief.error.min: 'Минимум 11 символов'
+    Brief.error.min.limit: 'Минимум {limit} символов'
+    Brief.error.notification: 'Ошибка отправки формы'
+    Brief.error.phone: 'Некорректный формат телефона'
+    Brief.error.required: 'Обязательное поле'
+    Brief.error.retry: 'Попробуйте еще раз или обратитесь в Службу Заботы'
+    Brief.error.webMoneyMin: 'Минимум 13 символов'
+    Brief.error.workSchedule: 'Некорректный график работы'
+    Brief.error.workTimes: 'Некорректные часы работы'
+    Brief.friday: Пятница
+    Brief.fullName: 'ФИО полностью'
+    Brief.fullTime: Круглосуточно
+    Brief.further: Далее
+    Brief.kazakhstan: Казахстан
+    Brief.legalAddress: 'Юридический адрес (индекс, населенный пункт, улица, номер дома)'
+    Brief.legalName: 'Юридическое название организации'
+    Brief.linkText: согласие
+    Brief.mailingAddressSameLegal: 'Почтовый адрес совпадает с юридическим'
+    Brief.monday: Понедельник
+    Brief.organisationName: 'Ваше имя или название агентства'
+    Brief.other: Другой
+    Brief.paymentAccount: 'Расчетный счет'
+    Brief.paymentAccountBankDetails: 'Банковские реквизиты'
+    Brief.paymentAccountClosingDocuments: 'Как вам удобнее обмениваться закрывающими документами?'
+    Brief.paymentAccountContactDetails: 'Заполните форму, чтобы мы могли заключить агентский договор'
+    Brief.phone: 'Номер телефона'
+    Brief.phoneAttachedToCard: 'Привязанный к карте'
+    Brief.phoneAttachedToWallet: 'Привязанный к кошельку'
+    Brief.position: Должность
+    Brief.postalAddress: 'Почтовый адрес (индекс, населенный пункт, улица, номер дома)'
+    Brief.registrationNumber: ОГРН/ОГРНИП
+    Brief.registrationReasonCode: КПП
+    Brief.russia: Россия
+    Brief.saturday: Суббота
+    Brief.sbis: СБИС
+    Brief.schedule: 'Режим работы'
+    Brief.selectSystem: 'Выберите систему'
+    Brief.send: 'Отправить форму'
+    Brief.sevenDays: Ежедневно
+    Brief.shortFriday: Пт
+    Brief.shortMonday: Пн
+    Brief.shortSaturday: Сб
+    Brief.shortSunday: Вс
+    Brief.shortThursday: Чт
+    Brief.shortTuesday: Вт
+    Brief.shortWednesday: Ср
+    Brief.signerName: 'ФИО подписанта'
+    Brief.sunday: Воскресенье
+    Brief.taxplayerNumber: ИНН
+    Brief.tooltip.commission: 'Получить вознаграждение можно через нашего партнера, Webflow Retail Partner LP. За перевод на карту или электронный кошелек удерживается комиссия в размере 15% от суммы вознаграждения.'
+    Brief.webMoneyNumber: 'Номер кошелька WebMoney'
+    Brief.weekdays: 'По будням'
+    Brief.withdrawMethodBankCard: 'На банковскую карту (Visa, MasterCard)'
+    Brief.withdrawMethodElama: 'На баланс eLama'
+    Brief.withdrawMethodPaymentAccount: 'На расчетный счет'
+    Brief.withdrawMethodTitle: 'Как вы хотите получать вознаграждение'
+    Brief.withdrawMethodWebMoney: WebMoney
+    Brief.withdrawMethodYandexMoney: Яндекс.Деньги
+    Brief.yandexMoneyNumber: 'Номер кошелька Яндекс.Деньги'
+    ClientList.delete: Удалить
+    ClientList.rename: Переименовать
+    ClientList.confirmDelete.text: 'Вы перестанете получать вознаграждение и управлять кампаниями этого клиента'
+    ClientList.confirmDelete.delete: 'Все равно удалить'
+    ClientList.confirmDelete.cancel: Отмена
+    ClientList.header.accounts: Аккаунты
+    ClientList.header.balance: 'Баланс eLama'
+    ClientList.header.clients: Клиенты
+    ClientList.header.tariff: Тариф
+    ClientList.header.date: 'Дата привязки'
+    ClientsList.error: 'не удалось получить баланс'
+    ClientStatus.claim.reward: 'Получаю вознаграждение'
+    ClientStatus.expired: 'Срок истек'
+    ControlsPanel.sort.by: 'Сортировать по'
+    DateSorting.dateAsc: 'дате добавления, сначала старые'
+    DateSorting.dateDesc: 'дате добавления, сначала новые'
+    DatesPeriod.period: 'Период вознаграждения:'
+    Document.title: 'Агентский кабинет'
+    EmptyClientsList.agency: 'У вас нет клиентов, которыми вы управляете'
+    EmptyClientsList.mediator: 'У вас нет привлеченных клиентов'
+    EmptyClientsList.orders: 'У вас отсутствуют заявки'
+    EmptyClientsList.outdated.mediator: 'У вас нет клиентов в архиве'
+    FillBrief.explanation: 'Чтобы добавить клиентов, нужно заполнить форму'
+    FillBrief.start: Начать
+    Header.title: 'Список клиентов'
+    Login.login: Войти
+    OrderItem.delete: Удалить
+    OrderItem.retry: Повторить
+    OrderStatus.approved: 'Ожидает подтверждения клиентом'
+    OrderStatus.rejected: Отклонено
+    Placeholder.loginAndId: 'Поиск по логину или ID'
+    Placeholder.nameAndId: 'Поиск по названию или ID'
+    ReconfirmationOffer.header: 'Переподтверждение оферты'
+    ReconfirmationOffer.offers.acceptButton: 'Принять и продолжить работу'
+    ReconfirmationOffer.offers.entity: 'Юридическое лицо или ИП'
+    ReconfirmationOffer.offers.entityAcceptOffer: 'Для продолжения работы необходимо принять условия новой'
+    ReconfirmationOffer.offers.entityAcceptOffer.link: оферты.
+    ReconfirmationOffer.offers.entityCheckBox: 'Я согласен с новой'
+    ReconfirmationOffer.offers.entityCheckBox.link: офертой.
+    ReconfirmationOffer.offers.entityDescription: 'Для агентств, которые работают по партнерской программе как юридическое лицо или как индивидуальный предприниматель.'
+    ReconfirmationOffer.offers.header: 'Примите новую оферту'
+    ReconfirmationOffer.offers.individual: 'Физическое лицо'
+    ReconfirmationOffer.offers.individualAcceptOffer: 'Примите новую оферту на сайте партнера'
+    ReconfirmationOffer.offers.individualDescription: 'Для агентств, которые работают по партнерской программе как физическое лицо.'
+    SignUpForm.accountLink: 'У вас уже есть аккаунт?'
+    SignUpForm.agree: 'Я даю согласие на обработку,'
+    SignUpForm.agreeLink: 'персональных данных,'
+    SignUpForm.email: 'Электронная почта,'
+    SignUpForm.legalEntity: 'Юридическое лицо'
+    SignUpForm.password: 'Пароль,'
+    SignUpForm.phone: 'Телефон,'
+    SignUpForm.privatePerson: 'Физическое лицо'
+    SignUpForm.submit: 'Зарегистрироваться,'
+    SignUpForm.username: 'Логин,'
+    Sorting.balanceAsc: 'балансу, сначала меньше'
+    Sorting.balanceDesc: 'балансу, сначала больше'
+    Sorting.dateAsc: 'дате добавления, сначала старые'
+    Sorting.dateDesc: 'дате добавления, сначала новые'
+    TabPanel.agency: Управляю
+    TabPanel.mediator: Привел
+    TabPanel.orders: Заявки
+    TabPanel.outdatedMediator: 'С истекшим сроком'
+    Tariff.buyOptimal: 'Купить Optimal'
+    Tariff.daysLeft: 'еще {days} {days, plural, one {день} few {дня} many {дней} other {дней}}'
+    Tariff.error: 'не удалось получить тариф'
+    Tariff.requestBuyDescription: 'Стоимость расширенного тарифа Optimal будет списана с баланса клиента.'
+    Tariff.requestBuyButton: 'Купить за $75'
+    Tariff.successBuyDescription: 'Вашему клиенту подключен тариф Optimal. Теперь доступны все инструменты без ограничений до {date}.'
+    Tariff.successBuyButton: Готово
+    Tariff.errorBuyDescription: 'Вашему клиенту не подключен расширенный тариф Optimal.'
+    Tariff.errorBuyButton: 'Попробовать снова'
+    Tariff.insufficientFunds: 'Недостаточно средств'
+    TypeSorting.all: 'Все клиенты'
+    TypeSorting.archive: 'Архив клиентов'
+    TypeSorting.mediator: 'Активные клиенты'
+BalanceWidget:
+    alert.fund.holding.care.service: 'Службу заботы'
+    alert.fund.holding.help.link: 'https://elama.ru/contacts/'
+    alert.fund.holding.message: 'У вас на балансе заблокировано {amount}. Обратитесь в <a href="{helpLink}" target="_blank">{careService}</a>'
+    alert.fund.holding.title: 'Средства заблокированы'
+    error: 'Баланс: Ошибка'
+    loading: Загружается
+    payment.success.done: 'зачислены на баланс'
+    payment.success.ready: Готово
+    refill: Пополнить
+Bell:
+  notifications.empty: 'У вас нет уведомлений'
+BidmanagerSettings:
+    advanced.settings: 'Расширенные настройки'
+    allowed.interval: 'Допустимые значения 0 до 10000'
+    apply: Применить
+    bid.adwords.boundaries: 'от 0.01 до 100'
+    bid.direct.boundaries: 'от 0.3 до 10 000'
+    bidmanager: Бид-менеджер
+    boundaries: 'от {lower} до {upper}'
+    campaigns: '{campaigns, plural, one {кампании} few {кампаний} many {кампаний} other {кампаний}}'
+    different: Разные
+    disabled: 'Бид-менеджер выключен для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    disabled.error: 'Не удалось выключить бид-менеджер для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    disabled.error.keywords: 'Не удалось выключить бид-менеджер для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    disabled.keywords: 'Бид-менеджер выключен для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    edit.template: 'Редактировать шаблон'
+    elama.templates: 'Шаблоны eLama'
+    enable: Включить
+    enabled: 'Бид-менеджер включен для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    enabled.error: 'Не удалось включить бид-менеджер для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    enabled.error.keywords: 'Не удалось включить бид-менеджер для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    enabled.keywords: 'Бид-менеджер включен для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    enter.value: Введите
+    general.error: 'Не удалось применить настройки бид-менеджера для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    general.error.keywords: 'Не удалось применить настройки бид-менеджера для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    header.tooltip.text: 'eLama автоматически обновляет ставки в рекламной системе, это помогает экономить время и получать необходимый объем трафика. Чтобы настроить инструмент, выберите один из шаблонов и укажите максимальную цену, которую вы готовы платить за клик. <br/><a href="{helpLink}" target="_blank">Подробнее</a>'
+    keywords: '{keywords, plural, one {ключевого слова} few {ключевых слов} many {ключевых слов} other {ключевых слов}}'
+    lim: огр.
+    load.error: 'Ошибка при загрузке данных. Повторите запрос позже.'
+    max.bid: 'Макс. ставка'
+    max.bid.max.price.text: 'Не превышать ставку более чем на'
+    max.bid.max.price.tooltip.text: 'В некоторых случаях ставка может в разы превышать списываемую цену, и отдельные клики могут быть очень дорогими. Чтобы избежать этого, советуем ограничить ставку, которую бид-менеджер отправляет в Директ.'
+    of.price: '% от списываемой цены'
+    own.templates: 'Мои шаблоны'
+    price: 'Макс. спис. цена'
+    select: Выберите
+    settings.update.error: 'Не удалось применить настройки бид-менеджера'
+    settings.update.error.long: 'Не удалось применить настройки бид-менеджера для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    settings.update.error.long.keywords: 'Не удалось применить настройки бид-менеджера для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    settings.update.success: 'Настройки бид-менеджера применены для'
+    settings.update.success.long: 'Настройки бид-менеджера применены для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    settings.update.success.long.keywords: 'Настройки бид-менеджера применены для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    setup: 'Настроить бид-менеджер'
+    status.update.error: 'Не удалось изменить статус бид-менеджера'
+    status.update.success: 'Статус бид-менеджера изменен для'
+    status.update.warning: 'Статус бид-менеджера изменен для'
+    status.update.warning.continues: 'не удалось изменить статус для'
+    step: Шаг
+    step.adwords.boundaries: 'от 0.01 до 100'
+    step.direct.boundaries: 'от 0.1 до 1000'
+    step.percent.boundaries: 'от 1 до 100'
+    step.tooltip.text: 'На сколько больше или меньше, чем стоимость этой позиции, вы готовы платить за переходы по рекламе (в {currency} или процентах). Минимальное значение — {minValue} {currency} или 0.01%'
+    stop: Остановить
+    suspended: 'Бид-менеджер приостановлен для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    suspended.keywords: 'Бид-менеджер приостановлен для {keywords} {keywords, plural, one {ключевого слова} few {ключевых слов} other {ключевых слов}}'
+    template: Шаблон
+    template.ad.first.page: 'Первая страница'
+    template.ad.first.position: 'Первая позиция'
+    template.ad.top.position: 'Вверху первой страницы'
+    template.adwords.fixbid: 'Фиксированная ставка'
+    template.adwords.fixbid.net: 'Фиксированная ставка'
+    template.direct.fixbid: 'Фиксированная ставка'
+    template.direct.fixbid.net: 'Фиксированная ставка'
+    template.direct.maxtraffic: 'Максимальный трафик'
+    template.direct.total: 'Охват 100%'
+    template.direct.traffic100: 'Объем трафика 100'
+    template.direct.traffic100plus: 'Объем трафика 100+'
+    template.direct.traffic15: 'Объем трафика 15'
+    template.direct.traffic5: 'Объем трафика 5'
+    template.direct.traffic75: 'Объем трафика 75'
+    templateSettingNotification: 'При редактировании этих настроек мы создаем новый шаблон, который вы сможете использовать для других кампаний и фраз. В скором времени интерфейс редактирования расширенных настроек будет доступен в разделе "Редактирование шаблона".'
+    templateSettingOnboardingCloseButton: Хорошо
+    templateSettingOnboardingText: 'Изменения в «Расширенных настройках» теперь сохраняются в виде шаблона, который можно использовать для других кампаний и фраз. <br/> <br/> Если вы работали с расширенными настройками, в меню уже появился раздел «Мои шаблоны». В скором времени интерфейс редактирования расширенных настроек будет доступен в разделе «Редактирование шаблона».'
+    unavailable: Недоступен
+    wrong.type: 'Выбранные кампании имеют разный или неподходящий тип.'
+    template.name.copy: 'Копия'
+    new.template.settings.moved.title: '«Расширенные настройки» перенесены'
+    new.template.settings.moved.content: 'Теперь указать шаг и задать дополнительное ограничение для Максимального трафика можно в настройках шаблона. Чтобы внести изменения, перейдите в раздел «Редактировать шаблон».'
+    net.adwords: AdWords
+    net.direct: Директ
+    net.facebook: Facebook
+    net.vkontakte: ВКонтакте
+    campaign_type.SEARCH: Поиск
+    campaign_type.NETWORK: Сеть
+    campaign_type.MIXED: Поиск/Сеть
+    campaign_type.UNKNOWN: Неизвестно
+    header.actionButton: 'Подключить Оптимизатор'
+    onboarding.switchOptimizer.title: 'Вам доступен новый инструмент'
+    onboarding.switchOptimizer.content: 'Оптимизатор — это умный подход к управлению ставками. Инструмент поможет получить максимум конверсий, не превышая заданную стоимость.<br /><br />Перейдите в инструмент, чтобы начать настройку.'
+    onboarding.switchOptimizer.button.ok: 'Понятно'
+BillingAdminPanel:
+    accounting.id: 'Номер счёта'
+    amount: Сумма
+    amount.placeholder: 'Введите сумму'
+    balance.fetching.error: 'Ошибка, баланс пользователя не получен'
+    btn.cancel: Отменить
+    comment.agency.payback: 'Агентское вознаграждение'
+    comment.another.acc.transfer: 'Перевод с другого аккаунта'
+    comment.fb.commission.payback: 'Возврат части комиссии за Facebook'
+    comment.input.placeholder: 'ID или логин аккаунта'
+    comment.others: Другое
+    comment.too.long: 'Слишком длинный комментарий, максимум -- 255 символов'
+    commission: 'Сумма комиссии отдельно'
+    confirm.fund.holding: 'Точно заблокировать?'
+    confirm.send.money.to.user: 'Вы уверены, что хотите вознаградить этого пользователя?'
+    date.time: 'Дата / Время'
+    default.service.tax.cancellation.reason: 'Запрос от пользователя на отмену сервисного сбора'
+    fetch.fund.holding.list.error: 'Ошибка получения списка блокировок балансов пользователей'
+    fetch.payments.data.error: 'Ошибка получения данных по входящим платежам'
+    fetch.service.tax.list.error: 'Ошибка получения списка кандидатов на сервисный сбор'
+    fine: Оштрафовать
+    fine.confirm: 'Точно оштрафовать?'
+    fine.user.title: 'Оштрафовать пользователя'
+    fund.holding.amount: Сумма
+    fund.holding.cancellation.error: 'Ошибка отмены блокировки средств'
+    fund.holding.cancellation.reason: 'Укажите причину отмены блокировки баланса'
+    fund.holding.cancellation.success: 'Блокировка успешно отменена'
+    fund.holding.date: Дата
+    fund.holding.initiator: 'Кто заблокировал'
+    fund.holding.reason: Причина
+    fund.holding.reason.arbitration: Арбитражник
+    fund.holding.reason.debt: Должник
+    fund.holding.reason.other: 'Другая причина'
+    fund.holding.reason.refund: 'Ожидание возврата'
+    fund.holding.reason.swindle: Мошенник
+    fund.holding.reason.too.long: 'Не более 255 символов'
+    fund.holding.submit: Заблокировать
+    fund.holding.submit.error: 'Не удалось заблокировать средства!'
+    fund.holding.success: 'Средства успешно заблокированы'
+    fund.holding.title: 'Заблокировать средства пользователя'
+    fund.holding.user: Пользователь
+    fund.holding.user.id.submit: 'Заблокировать средства'
+    pay: Оплатить
+    payment.confirm: 'Вы уверены, что хотите подтвердить этот платёж?'
+    payment.status: 'Статус платежа'
+    payment.status.cancelled: Отменён
+    payment.status.not.payed: 'Не оплачен'
+    payment.status.partly.payed: 'Частично оплачен'
+    payment.status.payed: Оплачен
+    payment.status.unknown: Неизвестно
+    payment.submit: 'Да, подтвердить'
+    payments.confirmation.error: 'Ошибка подтверждения платежа'
+    payments.list.empty: 'Ничего не найдено'
+    punish: Наказать
+    send.money.to.user.error: 'Ошибка, не удалось вознаградить пользователя'
+    send.money.to.user.submit: Одарить
+    send.money.to.user.success: 'Пользователь успешно вознаграждён!'
+    send.money.to.user.title: 'Подарить деньги пользователю'
+    send.money.user.id.submit: Вознаградить
+    service.charge.title: 'Списать средства за услугу'
+    service.tax.cancellation.confirm: 'Товарищ! Предже чем отменить, убедись, что акт не создан!'
+    service.tax.cancellation.error: 'Ошибка отмены сервисного сбора'
+    service.tax.cancellation.submit: 'Да, акт не создан, отменяю'
+    service.tax.cancellation.success: 'Сервисный сбор успешно отменён'
+    service.tax.date: 'Дата списания'
+    service.tax.sum: 'Сумма списания'
+    services.fetching.error: 'Ошибка получения списка услуг'
+    services.help2start: 'Help 2 Start'
+    services.ppc.world: 'Реклама на PPC'
+    services.toelama: 'Услуги ИО'
+    services.toelamapackage: 'Пакет Елама'
+    tab.fee: 'Списать c баланса'
+    tab.fine: Оштрафовать
+    tab.fund.holding: 'Блокировка баланса'
+    tab.fund.holding.list: 'Отмена блокировок'
+    tab.incoming.payments: 'Входящие платежи'
+    tab.send.money.to.user: 'Начислить пользователю'
+    tab.service.charge: 'Списание за услуги'
+    tab.service.tax.list: 'Сервисный сбор'
+    title.fund.holding.list: 'Список блокировок балансов пользователей'
+    title.incoming.payments: 'Управление входящими платежами'
+    title.service.tax.list: 'Список сервисных сборов'
+    unhold.funds: 'Разблокировать средства'
+    user.balance: 'Баланс пользователя'
+    user.fetching.error: 'Ошибка при получении информации о пользователе'
+    user.id: 'ID пользователя'
+    user.id.login: 'ID пользователя, логин'
+    user.login: 'Логин пользователя'
+    user.not.punished: 'Ошибка, пользователь не наказан'
+    user.punished: 'Пользователь успешно наказан!'
+    vat: 'Сумма НДС отдельно'
+    withdraw: Списать
+    withdraw.from.balance: 'Списать с баланса'
+    withdrawal.amount: 'Сколько списать'
+    withdrawal.error: 'Ошибка, не смогли списать деньги'
+    withdrawal.ground: 'Укажите причину'
+    withdrawal.ground.placeholder: 'Введите причину списания'
+    withdrawal.success: 'С пользователя списано {amount} {currency}'
+BriefWidget:
+    step.one: 'Заполнить бриф'
+    step.two: 'Пополните баланс на {price} {currency}'
+    widget.title: 'Чтобы мы начали настройку кампании'
+    success.title: 'Ваша заявка на создание кампании получена'
+    success.text: 'В течение 4 рабочих часов мы свяжемся с вами, чтобы обсудить детали'
+BulkChangeBid:
+    bid.change: 'Изменить ставки бид-менеджера'
+    bid.decrease.full: 'Уменьшить ставку'
+    bid.decrease.short: 'Уменьшить на'
+    bid.increase.full: 'Увеличить ставку'
+    bid.increase.short: 'Увеличить на'
+    bid.limit.lower: 'Нижний предел ставки'
+    bid.limit.upper: 'Верхний предел ставки'
+    bid.update.error: 'Не удалось изменить ставки'
+    bid.update.error.long: 'Не удалось изменить ставки, т.к. на выбранных кампаниях не настроен бид-менеджер'
+    bid.update.success: 'Ставки были обновлены для'
+    bid.update.warning: 'Ставки обновлены для'
+    bid.update.warning.continues: 'не удалось обновить для'
+    campaign: кампании
+    campaigns: кампаний
+    keyword: 'ключевого слова'
+    keywords: 'ключевых слов'
+    optionally: необязательно
+    toolbox.apply: Применить
+BulkStatus:
+    apply: Применить
+    campaigns: '{campaigns} {campaigns,plural, one {кампании} other {кампаний}}'
+    choose.action: 'Выберите действие'
+    disabled: 'Бид-менеджер выключен для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    disabled.error: 'Не удалось выключить бид-менеджер для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    enabled: 'Бид-менеджер включен для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    enabled.error: 'Не удалось включить бид-менеджер для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    status.update.error: 'Не удалось применить изменения статуса'
+    status.update.success: 'Статус был изменен для'
+    status.update.warning: 'Статус изменен для'
+    status.update.warning.continues: 'Не удалось изменить статус для'
+    suspended: 'Бид-менеджер приостановлен для {campaigns} {campaigns, plural, one {кампании} other {кампаний}}'
+    title: 'Изменить статус бид-менеджера'
+    turn.off: 'Выключить биддер'
+    turn.on: 'Включить биддер'
+CampaignBalanceWidget:
+    balance: Баланс
+    error: 'Баланс: Ошибка'
+CampaignInfo:
+    status.active: Активно
+    status.archived: 'В архиве'
+    status.draft: 'На модерации'
+    status.ended: Остановлена
+    status.paused: Приостановлена
+CampaignInfoCard:
+    button.goToDirect: 'Перейти в Яндекс.Директ'
+    button.goToGoogleAds: 'Перейти в Google Ads'
+    button.setupTimeTargeting: 'Настроить расписание показов'
+    campaignType.application: ПРИЛОЖЕНИЯ
+    campaignType.cpmBanner: МЕДИЙНАЯ
+    campaignType.dynamic: ДИНАМИЧЕСКАЯ
+    campaignType.mixed: 'ПОИСК + СЕТЬ'
+    campaignType.mobile: МОБИЛЬНАЯ
+    campaignType.network: СЕТЬ
+    campaignType.search: ПОИСК
+    campaignType.shopping: ТОРГОВАЯ
+    campaignType.unknown: 'НЕИЗВЕСТНЫЙ ТИП'
+    directCopy.error: 'Не удалось скачать файл'
+    display.campaignId: '№ {id}'
+    error.campaignDataFetchError: 'Не удалось получить все данные о кампании. Попробуйте позже.'
+    error.campaignFetchError: 'Не удалось получить кампанию. Попробуйте позже.'
+    error.campaignNotFound: 'Кампания {id} не найдена.'
+    menuitem.copyDirect: 'Скачать файл в формате для Google Ads'
+    menuitem.customerCare: 'Перейти в мониторинг бид-менеджера'
+CampaignInfoStatus:
+    action.archive: Архивировать
+    action.enabled: Включить
+    action.moderate: 'Отправить на модерацию'
+    action.paused: Остановить
+    action.removed: Удалить
+    action.resume: Включить
+    action.suspend: Остановить
+    action.unarchive: Разархивировать
+    camp.delete.cancel: Отмена
+    camp.delete.force: 'Все равно удалить'
+    camp.delete.warn: 'Удаленные кампании нельзя восстановить'
+    error.campaignFetchError: 'Не удалось получить кампанию. Попробуйте позже.'
+    error.campaignNotFound: 'Кампания {id} не найдена.'
+    message.statusFetchError: 'Не удалось получить статус, попробуйте позже'
+    message.statusNotUpdated: 'Не удалось обновить статус кампании'
+    message.statusUpdated: 'Статус кампании обновлен'
+    message.updating: Обновление
+    status.activating: Активизация
+    status.active: 'Идут показы'
+    status.archived: 'В архиве'
+    status.converted: Сконвертирована
+    status.deleted: Удалена
+    status.draft: Черновик
+    status.ended: Закончилась
+    status.moderation: 'На модерации'
+    status.noFunds: 'Нет средств'
+    status.paused: Остановлена
+    status.rejected: 'Отклонена модерацией'
+    status.unknown: Неизвестно
+CarrotQuest:
+    dialogs_history: 'История диалогов'
+    dialogs_zerodata: 'Диалогов нет. Вы еще с нами не общались'
+    enter_email: 'Введите email'
+    enter_message: 'Введите сообщение и нажмите Enter'
+    enter_phone: 'Введите телефонный номер'
+    leave_email: 'You can leave your email and we will continue this conversation through email:'
+    messenger_collapsed_text: 'Спросите меня...'
+    messenger_offline_message: 'Нет операторов онлайн. Задайте вопрос и мы поможем вам в рабочее время,'
+    messenger_welcome_message: 'Задайте вопрос, мы с радостью Вам поможем.'
+    new_message: 'Новое сообщение'
+    thanks: Спасибо
+Common:
+    adwords.audience.warning: 'Инструмент задает ставки только для ключевых фраз. Ставки для аудиторий можно указать в Google Ads'
+    after.payment.warning: 'Управление ставками возобновится после оплаты.'
+    alpha.version: Альфа-версия
+    basic.warning: '- Basic. Чтобы использовать инструмент без ограничений, подключите тариф Optimal.'
+    bidmanager.suspended: 'Бид-менеджер приостановлен'
+    bidmanager.welcome: 'Добро пожаловать в новый бид-менеджер!'
+    Calendar.RightMenu.compare: 'Сравнить периоды'
+    Calendar.RightMenu.custom: 'Свой диапазон'
+    Calendar.RightMenu.last30: 'За 30 дней'
+    Calendar.RightMenu.last7: 'За неделю'
+    Calendar.RightMenu.thisMonth: 'Этот месяц'
+    Calendar.RightMenu.thisWeek: 'Эта неделя'
+    Calendar.RightMenu.yesterday: Вчера
+    campaigns: '{campaigns, plural, one {кампания} few {кампании} many {кампании} other {кампаний}}'
+    check.keywords: Посмотреть
+    controls.apply: Применить
+    controls.cancel: Отмена
+    controls.close: Закрыть
+    countries.ALB: Албания
+    countries.ARE: ОАЭ
+    countries.ARG: Аргентина
+    countries.ARM: Армения
+    countries.AUS: Австралия
+    countries.AUT: Австрия
+    countries.AZE: Азербайджан
+    countries.BEL: Бельгия
+    countries.BGR: Болгария
+    countries.BLR: Беларусь
+    countries.BRA: Бразилия
+    countries.CAN: Канада
+    countries.CHE: Швейцария
+    countries.CHL: Чили
+    countries.CHN: Китай
+    countries.CYP: Кипр
+    countries.CZE: 'Чешская республика'
+    countries.DEU: Германия
+    countries.DNK: Дания
+    countries.ESP: Испания
+    countries.EST: Эстония
+    countries.FIN: Финляндия
+    countries.FRA: Франция
+    countries.GBR: Великобритания
+    countries.GEO: Грузия
+    countries.GRC: Греция
+    countries.HRV: Хорватия
+    countries.HUN: Венгрия
+    countries.IDN: Индонезия
+    countries.IND: Индия
+    countries.IRL: Ирландия
+    countries.ISL: Исландия
+    countries.ISR: Израиль
+    countries.ITA: Италия
+    countries.JPN: Япония
+    countries.KAZ: Казахстан
+    countries.KEN: Кения
+    countries.KGZ: Киргизия
+    countries.KOR: 'Южная Корея'
+    countries.LTU: Литва
+    countries.LUX: Люксембург
+    countries.LVA: Латвия
+    countries.MDA: Молдова
+    countries.MEX: Мексика
+    countries.MKD: Македония
+    countries.MLT: Мальта
+    countries.MYS: Малазия
+    countries.NLD: Нидерланды
+    countries.NOR: Норвегия
+    countries.NZL: 'Новая Зеландия'
+    countries.PAK: Пакистан
+    countries.PER: Перу
+    countries.PHL: Филлипины
+    countries.POL: Польша
+    countries.PRT: Португалия
+    countries.ROU: Румыния
+    countries.RUS: Россия
+    countries.SGP: Сингапур
+    countries.SRB: Сербия
+    countries.SVK: Словакия
+    countries.SVN: Словения
+    countries.SWE: Швеция
+    countries.THA: Таиланд
+    countries.TJK: Таджикистан
+    countries.TKM: Туркменистан
+    countries.TUR: Турция
+    countries.UKR: Украина
+    countries.USA: США
+    countries.UZB: Узбекистан
+    countries.VNM: Вьетнам
+    countries.ZAF: 'Южная Африка'
+    direct.audience.warning: 'Инструмент задает ставки только для ключевых фраз. Ставки для аудиторий можно указать в Яндекс.Директе'
+    disable: Отключить
+    FileLoader.added: Файл успешно добавлен
+    FileLoader.drag.or.click: Перетащите в область или нажмите
+    FiltersPopup.apply: Применить
+    good: Хорошо
+    hint.header: 'Делитесь отзывами'
+    hint.popup.first: 'Если вы настроите бид-менеджер в новом интерфейсе, в старом он отключится для соответствующей кампании. В любой момент вы можете включить его снова в прежнем интерфейсе — настройки не удалятся.'
+    hint.popup.second: 'Поделитесь отзывами и предложениями через форму обратной связи: будем рады любым идеям!'
+    keywords: '{keywords, plural, one {ключевое слово} few {ключевых слова} many {ключевых слова} other {ключевых слов}}'
+    keywords.warning: 'В кампании есть активные правила бид-менеджера для отдельных ключевых фраз.'
+    languages.eng: Английский
+    languages.pt_BR: Португальский
+    languages.rus: Русский
+    mass.operations.header: 'Массовые операции'
+    mass.operations.popup: 'Массовые операции стали проще: вы можете быстро поменять шаблоны и\или максимальную ставку сразу в нескольких кампаниях.'
+    new.rules.header: Шаблоны
+    new.rules.popup.first: 'Теперь правила бид-менеджера — это шаблоны, которые вы можете настраивать для кампаний или ключевых слов. Сейчас они соответствуют правилам в прежней версии инструмента.'
+    new.rules.popup.second: 'В дальнейшем у вас появится возможность самостоятельно редактировать и создавать собственные шаблоны.'
+    next: Дальше
+    nice.popup.first: 'Мы постарались учесть ваши пожелания и сделать бид-менеджер удобнее и функциональнее, чем прежняя версия.'
+    nice.popup.second: 'Хотя он находится в разработке, уже сейчас вы можете использовать новые возможности, которых в скором времени станет еще больше.'
+    nice.popup.third: 'Надеемся, они вам понравятся :)'
+    old.keyword.warning.body.first: 'Инструмент для этой кампании уже настроен в прежней версии личного кабинета.'
+    old.keyword.warning.body.second: 'Чтобы задать настройки в новом бид-менеджере, отключите его в прежнем кабинете.'
+    old.keyword.warning.header: 'Нельзя настроить бид-менеджер для ключевых слов.'
+    old.warning: 'В кампании работает прежняя версия бид-менеджера. Если вы включите инструмент в новом интерфейсе, в старом он отключится. В любой момент вы можете включить старый бид-менеджер в прежнем интерфейсе — настройки не удалятся.'
+    Paginator.from: из
+    Paginator.itemsPerPage: 'Число строк'
+    schedule.header: 'Расписание показов'
+    schedule.popup: 'Мы сделали расписание показов отдельной настройкой, чтобы вы могли его настраивать независимо от бид-менеджера. В скором времени в нем появится возможность корректировки ставок по времени.'
+    selected: 'Выбрано:'
+    Site.title: 'Моя реклама'
+    start: 'Начать знакомство'
+    statistics.header: 'Управление из статистики'
+    statistics.popup: 'А в статистике отображаются настройки бид-менеджера: выбранный шаблон и максимальная ставка, которую можно изменить прямо  из таблицы, основываясь на данных статистики.'
+    systems.adwords: 'Google Ads'
+    systems.calltouch: CallTouch
+    systems.calltracking: Calltracking
+    systems.direct: Яндекс.Директ
+    systems.facebook: Facebook
+    systems.google: 'Google Ads (Руб.)'
+    systems.targetMailRu: myTarget
+    systems.toelama: 'eLama ИО'
+    systems.toelamapackage: 'eLama Пакеты'
+    systems.vkontakte: ВКонтакте
+    systems.yadisplay: Яндекс.Дисплей
+    systems.yagla: Yagla
+    systems.yamarket: Яндекс.Маркет
+    systems.yanavigator: Яндекс.Навигатор
+    systems.yaspravochnik: Яндекс.Справочник
+    testKey: тест тест
+    newTestKey: Новый тестовый ключ
+    throw.money: 'Купить Optimal за 499₽/ мес.'
+    your.plan: 'Ваш тариф'
+ConnectSystem:
+    accounts.empty: 'Список аккаунтов пуст'
+    add.campaign.copy: 'Копировать из другого<br/>аккаунта {systemName}'
+    add.campaign.free: 'Заказать <b>бесплатное</b> создание кампании у нас'
+    add.campaign.singly: 'Самостоятельно создать<br/>кампанию в {systemName}'
+    analytics.calltouch.account-name: 'Название аккаунта'
+    analytics.calltouch.id: 'Идентификатор сайта'
+    analytics.calltouch.title: 'Заполните параметры, чтобы завершить настройку'
+    analytics.calltouch.token: 'Токен доступа'
+    analytics.calltouch.token.error: 'Токен должен состоять из 45 символов без пробелов'
+    analytics.calltouch.token.tooltip: 'Уникальный токен доступа в Calltouch для отправки API-запроса в Calltouch. Получить его можно в разделе Настройки => API личного кабинета Calltouch.'
+    analytics.elama-accounts.calltouch.title: 'Связать с рекламным аккаунтом'
+    analytics.elama-accounts.google-analytics.title: 'Связать с рекламным аккаунтом'
+    analytics.elama-accounts.title: 'Связать с рекламным аккаунтом'
+    analytics.elama-accounts.title.remove: Удалить
+    analytics.elama-accounts.title.selected: Выбрано
+    analytics.elama-accounts.yandex-metrika.title: 'Выберите аккаунт для привязки счетчика (только Яндекс.Директ)'
+    analytics.google-analytics.select.accounts: 'Аккаунт Google Analytics'
+    analytics.google-analytics.select.properties: 'Ресурсы и приложения'
+    analytics.google-analytics.select.views: Представления
+    analytics.google-analytics.title: 'Заполните параметры, чтобы завершить настройку'
+    analytics.help: Помощи
+    analytics.notification: 'Для корректного связывания данных между системами необходимо, чтобы для ваших кампаний была настроена Автоматическая UTM-разметка eLama. О процессе настройки читайте в {link}.'
+    analytics.select: Выберите
+    analytics.yandex-metrika.title: 'Заполните параметры, чтобы завершить настройку'
+    button.add: Добавить
+    button.cancel: Отмена
+    button.cancel.request: 'Отменить заявку'
+    button.close: Закрыть
+    button.connect: Подключить
+    button.link.up: Привязать
+    button.back.to.accounts: 'К списку аккаунтов'
+    button.connect.account: 'Подключить аккаунт'
+    button.done: Готово
+    button.return: Вернуться
+    button.send.request: 'Отправить заявку'
+    button.link.account: 'Привязать аккаунт'
+    button.create.contract: 'Создать договор'
+    calltouch.description: 'Введите свой логин в Calltouch. Если у вас нет аккаунта в Calltouch, {registerLink}'
+    calltouch.name: Calltouch
+    calltracking.description: 'Введите адрес сайта, для которого вы будете использовать Calltracking.ru'
+    calltracking.name: Calltracking
+    care.service: 'Службу Заботы'
+    direct.name: Яндекс.Директ
+    error.analytics.noAccounts: 'Google Analytics аккаунты не найдены'
+    error.analytics.noProperties: 'Не удалось получить "Ресурсы" для вашего аккаунта. Повторите попытку или обратитесь в службу Заботы.'
+    error.analytics.notReceived.Accounts: 'Не удалось получить Google Analytics аккаунты'
+    error.analytics.noValidAccounts: 'Нет подходящих аккаунтов'
+    error.analytics.noViews: 'Не удалось получить "Представления" для вашего аккаунта. Повторите попытку или обратитесь в службу Заботы.'
+    error.connect.analytics: 'Не удалось привязать Google Analytics. Повторите попытку или обратитесь в службу Заботы.'
+    error.connect.callTouch: 'Не удалось привязать CallTouch. Повторите попытку или обратитесь в службу Заботы.'
+    error.connect.metrika: 'Не удалось привязать Yandex Metrika. Повторите попытку или обратитесь в службу Заботы.'
+    error.metrika.noAccounts: 'Yandex Metrika аккаунты не найдены'
+    error.metrika.noCounters: 'Yandex Metrika счётчики не найдены'
+    error.metrika.notReceived.countersAndAccounts: 'Не удалось получить Yandex Metrika счетчики или аккаунты'
+    error.noAddAccounts: 'Нет аккаунтов'
+    facebook.name: Facebook
+    fb.field.intro: 'Для подключения аккаунта Facebook, мы должны предварительно проверить рекламные материала на соответствие {rulesLink}'
+    fb.field.intro.rulesLink: правилам Facebook
+    fb.field.label.subject: Тематика
+    fb.field.subject.auto: Авто
+    fb.field.subject.commerce: 'Электронная коммерция'
+    fb.field.subject.community: 'Общественные организации'
+    fb.field.subject.construction: 'Строительство и недвижимость'
+    fb.field.subject.culture: 'Культура и искусство'
+    fb.field.subject.education: Образование
+    fb.field.subject.entertainment: 'Развлечения и медиа'
+    fb.field.subject.fashion: 'Мода и индустрия красоты'
+    fb.field.subject.finance: Финансы
+    fb.field.subject.food: 'Еда и рестораны'
+    fb.field.subject.games: Игры
+    fb.field.subject.it: 'IT, Технологии'
+    fb.field.subject.media: СМИ
+    fb.field.subject.medicine: Медицина
+    fb.field.subject.other: Другое
+    fb.field.subject.politics: Политика
+    fb.field.subject.power: Энергетика
+    fb.field.subject.retail: Ритейл
+    fb.field.subject.services: 'Профессиональные услуги'
+    fb.field.subject.sport: Спорт
+    fb.field.subject.telecom: Телеком
+    fb.field.subject.tourism: 'Путешествия и туризм'
+    fb.field.subject.transport: Транспорт
+    field.ad.label: 'Пример объявления'
+    field.email.label: Email
+    field.email.placeholder: example@mail.ru
+    field.image.label: 'Изображение в объявлении'
+    field.login.label: Логин
+    field.site.label: Сайт
+    field.site.placeholder: example.com
+    field.social.label: 'Страница компании в Facebook или Instagram'
+    field.vk.placeholder: 'https://vk.com/id000'
+    form.error: 'Вы уже создали аккаунт {systemName} или отправили заявку. Чтобы создали дополнительный аккаунт {systemName}, напишите нам на {email}'
+    form.error.simple: 'Чтобы создать дополнительный аккаунт, напишите нам на {email}'
+    ga.name: 'Google Analytics'
+    google.ads.form.description: 'Укажите свой email, в течение 4 рабочих часов мы создадим для вас новый аккаунт Google Ads и отправим вам приглашение'
+    google.ads.name: 'Google Ads'
+    google.ads.advantage.1: 'Пополнение баланса через {system}'
+    google.ads.advantage.2: 'Вы cможете скопировать свои кампании в этот аккаунт'
+    google.ads.advantage.3: 'Вы сохраните свою статистику и историю работы'
+    import.error: 'Ошибка при подключении'
+    import.error.already.exists: 'Аккаунт уже добавлен в eLama'
+    import.error.customer.not.found: 'Невозможно подключить аккаунт'
+    import.error.invalid.currency: 'Валюта {currency}'
+    import.error.is.mcc: 'Управляющий аккаунт Google'
+    import.error.not.ads.user: 'Невозможно подключить аккаунт'
+    import.error.read.only.access: 'Ошибка при подключении'
+    import.success: 'Успешно подключен'
+    import.tooltip: 'Возможные причины: Вы не являетесь администратором этого аккаунта, аккаунт создан недавно, не завершена настройка аккаунта или аккаунт уже  добавлен в eLama. Повторите попытку позже или напишите на почту {email}'
+    import.tooltip.customer.not.found: 'Возможно, ваш аккаунт заблокирован, создание аккаунта еще не закончено (не добавлены платежные или другие данные), аккаунт не существует или аккаунт был создан недавно (повторите попытку через 5 минут). Если проблему не удается решить, напишите на почту {email}'
+    import.tooltip.invalid.currency: 'Сейчас мы поддерживаем только аккаунты в долларах США.'
+    import.tooltip.invalid.currency.agency: 'Сейчас мы поддерживаем только аккаунты в Российских рублях и долларах США.'
+    import.tooltip.is.mcc: 'Вы не можете подключить управляющий аккаунт {link}. Для подключения выберите обычный рекламный аккаунт в Google Ads.'
+    import.tooltip.not.ads.user: 'Возможные причины: аккаунт Google Ads не существует. {email}'
+    import.tooltip.read.only.access: 'Аккаунт еще не создан или у вас недостаточно прав для внесения изменений. Возможно, вы не являетесь администратором этого аккаунта.'
+    label.connect: 'Подключение {systemName}'
+    label.connect.unavailable: 'Подключение {systemName} недоступно'
+    label.connect.unavailable.facebook: 'Подключение Facebook доступно для юр.лиц'
+    label.created: 'Аккаунт {systemName} создан'
+    label.created.description: 'Мы автоматически создали для вас новый аккаунт {systemName}. Перенесите в него свои кампании или создайте новые.'
+    label.created.notification: 'Вы можете работать с сервисом только на аккаунтах, созданных через eLama.'
+    label.currency: 'Валюта'
+    link.contract: 'создайте договор'
+    link.email.question: 'Не пришло письмо?'
+    link.empty.accounts: 'Не видите нужный аккаунт?'
+    link.label: 'по ссылке'
+    link.register: зарегистрируйтесь
+    mcc: '«Центра клиентов Google»'
+    metrika.name: 'Yandex metrika'
+    my.target.description: 'Введите email и мы создадим вам аккаунт в MyTarget. Используйте email, который ранее не был подключен к MyTarget.'
+    my.target.name: 'My Target'
+    notification.cancel.request: 'Заявка на подключение системы отменена'
+    notification.done: 'Заявка на подключение {systemName} отправлена'
+    notification.error.cancel: 'Ошибка при отмене заявки'
+    notification.error.connect: 'Ошибка при подключении'
+    notification.error.email: 'Неверный формат email'
+    notification.error.empty: 'Обязательное поля для заполнения'
+    notification.error.field: 'Поле заполнено не верно'
+    notification.error.format: 'Неверный формат файла. Допустимые расширения для файла - gif, jpg, jpeg, png'
+    notification.error.image: 'Загрузите картинку'
+    notification.error.link: 'Введите ссылку на сайт'
+    notification.error.server: 'Ошибка сервера'
+    notification.mail: 'Сообщите нам на {email}'
+    notification.success.connect: 'Успешно подключен'
+    notification.warning.waiting: 'Заявка на подключение аккаунта будет обработана в течение 4-х рабочих часов'
+    notification.warning.waiting.request: 'В течение 4 рабочих часов вы получите письмо от {systemName} с ссылкой на доступ к аккаунту.'
+    success.connect.analytics: 'Google Analytics успешно привязана'
+    success.connect.callTouch: 'CallTouch успешно привязан'
+    success.connect.metrika: 'Yandex Metrika успешно привязана'
+    terms.agreement: 'Я соглашаюсь с {conditions}'
+    terms.agreement.compliance: согласие
+    terms.agreement.conditions: 'условиями использования'
+    terms.create.account: 'создайте его'
+    terms.create.text: 'Если у вас нет аккаунта, {link}'
+    terms.description: 'Вы перейдете в Google. <br/> Разрешите приложению eLama доступ к вашему аккаунту'
+    terms.disclaimer: 'eLama не передает информацию третьим лицам. <br/>Закрыть доступ к аккаунту можно в любой момент'
+    terms.limitation: 'Подключаемый аккаунт должен быть неактивным (не было показов) в течениие последних 90 дней'
+    terms.support: 'Сейчас мы поддерживаем только аккаунты в долларах США'
+    terms.support.currency: 'Аккаунт должен быть в валютах: Российские рубли или Доллары США.'
+    terms.title: 'Условия подключения аккаунта'
+    text.ul.contract: 'Работа с {systemName} через eLama временно доступна только для юридических лиц и ИП. Пожалуйста, {contractLink}, совершите оплату с данного юридического лица и отправьте запрос на подключение аккаунта {systemName} повторно. Обращаем внимание, что вам будет создан новый аккаунт. О том, как перенести рекламные кампании, вы можете ознакомиться {faq}.'
+    text.ul.mail: 'Если вы работаете с eLama как физическое лицо и хотите подключить аккаунт {systemName}, напишите нам на {email} для индивидуального рассмотрения заявки.'
+    text.ul.contract.facebook: 'Создайте договор на юридическое лицо, и пополните баланс eLama c этого договора. После оплаты отправьте заявку на подключения аккаунта повторно. Обращаем внимание, что вам будет создан новый аккаунт. Инструкцию по переносу рекламных кампаний доступна {faq}.'
+    title.ad: Реклама
+    title.ad.question: 'Что вы планируете рекламировать'
+    title.analytics: Аналитика
+    title.customers.selector: 'Выберите аккаунт, который нужно привязать'
+    title.system.selector: 'Выберите способ подключения {system}'
+    title.link.account: 'Привязать свой аккаунт'
+    title.create.account: 'Создать новый аккаунт {system}'
+    vk.form.description: 'Введите адрес страницы пользователя «ВКонтакте», от лица которого будете управлять кампаниями.  Обращаем внимание, что вам будет создан новый рекламный кабинет. Если у вас нет страницы во «ВКонтакте», {registerLink}'
+    vk.name: ВКонтакте
+    yagla.description: 'Введите свой логин в Yagla. Если у вас нет аккаунта в Yagla, {registerLink}'
+    yagla.name: Yagla
+    offer.checkbox: 'Нажимая кнопку "Привязать аккаунт" я принимаю {offer} и даю своё {agreement} на обработку моих персональных данных'
+    offer: 'оферту'
+    agreement: 'согласие'
+    currency.RUB: 'Российский рубль'
+    currency.USD: 'Американский доллар'
+ContactsDropdown:
+    affiliate.department: 'Отдел партнерской программы'
+    agency: Агентство
+    care.service: 'Служба Заботы'
+    contacts: Контакты
+    faq: 'Частые вопросы'
+    GeoIpId.all: Россия
+    GeoIpId.mow: Москва
+    GeoIpId.spb: Санкт-Петербург
+    GeoIpId.Sweden: Швеция
+    GeoIpId.US: США
+    Header.agency: 'Агентство: {name}'
+    Header.general: 'Служба Заботы'
+    Header.manager: 'Менеджер: {name}'
+    personal.manager: 'Персональный менеджер'
+    Phones.additionalCode: ' доб. {code}'
+    Title.agency: 'Отдел партнерской программы'
+    Title.general: Контакты
+    Title.manager: 'Персональный менеджер'
+    Weekday.FR: Пт
+    Weekday.MO: Пн
+    Weekday.SA: Сб
+    Weekday.SU: Вс
+    Weekday.TH: Чт
+    Weekday.TU: Вт
+    Weekday.WE: Ср
+DailyBudget:
+    budget.adWordsValidationBounds: 'от 0.01$'
+    budget.adWordsValidationText: 'Укажите сумму не менее 0.01$'
+    budget.applyButton: Задать
+    budget.directValidationBounds: 'от 300 руб'
+    budget.directValidationText: 'Укажите сумму не менее 300 руб.'
+    budget.resetButton: Сбросить
+    budget.title: 'Дневной бюджет'
+    budget.titleWithCurrency: 'Дневной бюджет, {currency}'
+    budget.unableToUpdateBudget: 'Не удалось обновить суточный бюджет кампании'
+    budget.updateRetriesLeft: 'Превышен суточный лимит обновления бюджета'
+    budget.updateSuccessful: 'Дневной бюджет успешно обновлен'
+    budget.validationBounds: 'от {value}{currency}'
+    budget.validationError: 'Укажите сумму не менее {value}{currency}'
+    displayMode: 'Режим показа'
+    displayMode.distributed: Распределенный
+    displayMode.standard: Стандартный
+    displayMode.tooltipText: '<b>Стандартный</b> - реклама показывается без остановок, пока не закончится дневной бюджет <br/><br/> <b>Распределенный</b> - бюджет растягивается на весь день. Реклама может приостанавливаться, если бюджета не хватает для непрерывных показов'
+    error.campaignFetchError: 'Не удалось получить кампанию. Попробуйте позже.'
+    input.placeholder: 'Не задан'
+FacebookTools:
+    bot.telegram.connectionPage.breadcrumbs.current: 'Telegram-бот для Facebook'
+    bot.telegram.connectionPage.title: 'Лиды и отчеты из Facebook в одном telegram-боте'
+    bot.telegram.connectionPage.fallback: '<ul><li>открыть телеграмм</li><li>в поле поиска написать @eLama_test_bot</li><li>нажать на кнопку "Start"</li><li>ввести и отправить сообщение боту с текстом: {command}</li></ul>'
+    bot.telegram.connectionPage.connected: '<ul><li>открыть телеграмм</li><li>в поле поиска написать @eLama_test_bot</li></ul>'
+    bot.telegram.connectionPage.text: 'eLama начинает бета-тестирование новой функции для рекламодателей Facebook. Теперь вы можете получать базовые отчеты по рекламным аккаунтам и лиды в Telegram-боте. Для подключения, нажмите на кнопку "Подключить Telegram-бот" и начните общение с ботом в интерфейсе Telegram.<br>Инструмент находится на этапе бета-тестирования и мы будем рады вашей обратной связи. Если у вас возникли проблемы или пожелания по улучшению инструмента - пишите на почту <a href="mailto:a.zhelenkov@elama.ru">a.zhelenkov@elama.ru</a> или в <a href="https://t.me/volgocitizen">Telegram</a>'
+    bot.telegram.connect: Подключиться к Telegram-боту
+    lead.actions.settings: Настройка
+    lead.breadcrumbs.account: Аккаунт
+    lead.breadcrumbs.all: Инструменты
+    lead.breadcrumbs.current: 'Импорт лидов'
+    lead.campaigns.empty: 'Нет данных по указанным параметрам'
+    lead.card.status.label: 'Импорт лидов'
+    lead.card.status.off: выкл
+    lead.card.status.on: вкл
+    lead.export.label: 'Скачать в'
+    lead.filter.by: 'Фильтровать по'
+    lead.filters.label.search: 'Поиск по фильтрам и названию'
+    lead.filters.reset: 'Сбросить фильтры'
+    lead.nav.campaigns: Лиды
+    lead.nav.statistic: 'Статистика по кампаниям'
+    lead.settings.explain.email: 'Можно несколько'
+    lead.settings.frequency.never: Никогда
+    lead.settings.frequency.daytime: 'Раз в день, в'
+    lead.settings.frequency.hours: '{hours, plural, one {час} few {часа} many {часов} other {часов}}'
+    lead.settings.frequency.now: Сразу
+    lead.settings.frequency.oneat: 'Раз в'
+    lead.settings.frequency.weekday: 'Раз в неделю, в'
+    lead.settings.frequency.weekday.friday: Пт
+    lead.settings.frequency.weekday.monday: Пн
+    lead.settings.frequency.weekday.saturday: Сб
+    lead.settings.frequency.weekday.sunday: Вс
+    lead.settings.frequency.weekday.thursday: Чт
+    lead.settings.frequency.weekday.tuesday: Вт
+    lead.settings.frequency.weekday.wednesday: Ср
+    lead.settings.label.email: 'Адрес электронной почты'
+    lead.settings.label.frequency: 'Получать уведомления'
+    lead.settings.label.subject: 'Тема письма'
+    lead.settings.save: Сохранить
+    lead.settings.save_error: 'Произошла ошибка при сохранении настроек...'
+    lead.settings.save_success: Сохранено
+    lead.settings.title: 'Уведомления о новых лидах'
+    lead.settings.validation.email: 'Неправильный формат email'
+    lead.settings.validation.email_last: 'Неправильный формат email. Последняя запись не будет добавлена'
+    lead.sync.accept.label: 'Я даю согласие на синхронизацию данных между моими аккаунтами в Facebook и eLama'
+    lead.sync.btn.connect_facebook: 'Подключить Facebook'
+    lead.sync.btn.connect_tools: 'Подключить инструмент'
+    lead.sync.tools.connect_error: 'Произошла ошибка при подключении инструмента...'
+    lead.sync.tools.connect_success: 'Инструмент подключен'
+    lead.sync.waiting.text: 'Ваша заявка на подключение Facebook аккаунта находится в обработке. Мы сообщим о результатах проверки на почту.'
+    lead.syncLabel: 'Синхронизация Facebook Lead Ads'
+    lead.syncPromo: 'Оперативно обрабатывайте заявки без ручной выгрузки лидов из рекламного кабинета Facebook'
+    lead.syncStepOne: 'Подключите аккаунт Facebook и создайте кампанию типа Lead Ads'
+    lead.syncStepThree: 'Автоматически получайте данные о заявках клиентов на почту и в личный кабинет eLama'
+    lead.syncStepTwo: 'Подключите инструмент синхронизации и подтвердите получение заявок на почту'
+    lead.table.headers.account: Аккаунт
+    lead.table.headers.ad: Объявление
+    lead.table.headers.ad_group: 'Группа объявлений'
+    lead.table.headers.campaign: Кампания
+    lead.table.headers.date: Дата
+    lead.table.headers.email: 'Эл. почта'
+    lead.table.headers.form: Форма
+    lead.table.headers.name: Имя
+    lead.table.headers.phone: Телефон
+    lead.table.headers.status: Статус
+    lead.table.headers.time: Время
+    lead.syncWarning.almostDone.title: Почти готово
+    lead.syncWarning.almostDone.text.: 'Чтобы мы могли отправлять вам информацию о лидах на почту и в личный кабинет, нашему приложению необходим доступ к бизнес-страницам. Приложение использует доступ только для получения лидов. Мы нашли страницы, к которым у нас нет доступа. Если вы хотите получать лиды с этих страниц - откройте доступ для приложения:'
+    lead.syncWarning.pagesWithoutAccess.title: Предоставьте доступ к странице кампании в Facebook
+    lead.syncWarning.pagesWithoutAccess.text: 'Чтобы мы могли отправлять вам информацию о лидах на почту и в личный кабинет, нашему приложению необходим доступ к бизнес-страницам. Приложение использует доступ только для получения лидов. Мы нашли страницы, к которым у нас нет доступа. Если вы хотите получать лиды с этих страниц - откройте доступ для приложения:'
+    lead.syncWarning.pagesList: Список страниц
+    lead.syncWarning.goto.facebook: Перейти в Facebook
+    lead.syncWarning.goto.demo: Как предоставить доступ?
+    lead.syncWarning.toggle: Проблемы
+    lead.syncWarning.problems: '{problems, plural, one {Проблема} few {Проблемы} many {Проблем} other {Проблемы}}'
+    mod.ad.accept: Принять
+    mod.ad.reject.button: 'Снять с публикации'
+    mod.ad.reject.label.comment: 'Добавьте комментарий'
+    mod.ad.reject.label.reason: 'Укажите причину'
+    mod.ad.reject.reason.ad_forbidden_goods: 'Реклама запрещенных товаров'
+    mod.ad.reject.reason.bad_quality: 'Низкое качество рекламных материалов'
+    mod.ad.reject.reason.before_after: 'Реклама до и после'
+    mod.ad.reject.reason.cheating: 'Обман пользователя'
+    mod.ad.reject.reason.errors_in_text: 'Ошибки в словах'
+    mod.ad.reject.reason.forbidden_finance_tools: 'Запрещенные финансовые инструменты'
+    mod.ad.reject.reason.idealized_pic: 'Идеализированное изображение людей'
+    mod.ad.reject.reason.page_not_working: 'Нерабочая целевая страница'
+    mod.ad.reject.reason.personilized_ad: 'Персонализированная реклама'
+    mod.ad.reject.reason.sensations: 'Сенсационные материалы'
+    mod.ad.reject.reason.sexual_content: 'Материалы сексуального характера'
+    mod.ad.reject.reason.too_much_text: 'Много текста на картинке'
+    mod.ad.reject.reason.using_fb_brand: 'Использование бренда Facebook'
+    mod.ad.reject.text.ad_forbidden_goods: 'Facebook запрещает рекламировать ряд товаров и услуг, попадающих под ограничения законодательства или политик социальной сети. Подробнее о списке запрещенных к рекламе товаров можно прочитать тут: https://www.facebook.com/policies/ads/restricted_content'
+    mod.ad.reject.text.bad_quality: 'Реклама не должна содержать материалы, содержащие ссылки на внешние целевые страницы, которые работают неожиданным или деструктивным образом. К этой категории относятся: вводящее пользователей в заблуждение позиционирование рекламы, например сенсационные заголовки и привлечение людей на целевые страницы с минимумом оригинальных материалов, заполненные в основном посторонними или низкокачественными рекламными материалами. Подробнее о правилах Facebook: https://www.facebook.com/policies/ads/prohibited_content/low_quality_or_disruptive_experiences'
+    mod.ad.reject.text.before_after: 'В рекламе не должно быть изображений «до» и «после», а также изображений неожиданных или невероятных результатов. Материалы в рекламе, продвигающей диету и продукты для похудения, не должны провоцировать у человека низкую самооценку. Реклама продуктов для похудения и здорового образа жизни должна быть таргетирована на людей старше 18 лет. Подробнее о правилах Facebook:  https://www.facebook.com/policies/ads/prohibited_content/personal_health'
+    mod.ad.reject.text.cheating: 'В рекламе нельзя демонстрировать изображения, которые показывают несуществующие функции. Подробнее о правилах Facebook: https://www.facebook.com/policies/ads/prohibited_content/non_existent_functionality'
+    mod.ad.reject.text.errors_in_text: 'Реклама не должна содержать ненормативной лексики или грамматических и пунктуационных ошибок. Символы, цифры и буквы следует использовать должным образом, не пытаясь ввести в заблуждение нас или другие системы контроля в ходе проверки рекламы. Подробнее о правилах Facebook: https://www.facebook.com/policies/ads/prohibited_content/grammar'
+    mod.ad.reject.text.forbidden_finance_tools: 'Реклама не должна продвигать финансовые продукты и услуги, которые часто ассоциируются с мошенническими схемами: бинарные опционы, первичное размещение токенов, криптовалюту и т. д. Подробнее о запрещенных инструментах можно прочитать тут: https://www.facebook.com/business/news/new-ads-policy-improving-integrity-and-security-of-financial-product-and-services-ads'
+    mod.ad.reject.text.idealized_pic: 'В рекламе не должно быть изображений «до» и «после», а также изображений неожиданных или невероятных результатов. Материалы в рекламе, продвигающей диету и продукты для похудения, не должны провоцировать у человека низкую самооценку. Реклама продуктов для похудения и здорового образа жизни должна быть таргетирована на людей старше 18 лет. Подробнее о правилах Facebook: https://www.facebook.com/policies/ads/prohibited_content/personal_health'
+    mod.ad.reject.text.page_not_working: 'Реклама не должна перенаправлять людей на неработающие целевые страницы. Сюда также относятся материалы на целевых страницах, не позволяющие человеку покинуть их. Подробнее о правилах Facebook:  https://www.facebook.com/policies/ads/prohibited_content/non_functional_landing_page'
+    mod.ad.reject.text.personilized_ad: 'Реклама не должна содержать материалы, которые ссылаются на личные характеристики или подразумевают их. Сюда относятся прямое или косвенное упоминание или указание расы, этнического происхождения, религии, убеждений, возраста, сексуальной ориентации или поведения, гендерной идентичности, инвалидности, медицинского состояния (включая физическое или психическое здоровье), финансового состояния, участия в профсоюзе, уголовного прошлого или имени. Подробнее о правилах Facebook:  https://www.facebook.com/policies/ads/prohibited_content/personal_attributes'
+    mod.ad.reject.text.sensations: 'Реклама не должна содержать шокирующие, сенсационные материалы или материалы, в которых проявляется неуважение к людям или рассказывается о насилии. Подробнее о правилах Facebook: https://www.facebook.com/policies/ads/prohibited_content/sensational_content'
+    mod.ad.reject.text.sexual_content: 'Реклама не должна содержать материалов для взрослых. Кроме того, реклама не должна содержать изображения обнаженных частей тела, людей в непристойных позах, а также действий, являющихся чрезмерно откровенными или провокационными. Прочитать подробнее о правилах и примерах запрещенных материалов можно тут: https://www.facebook.com/policies/ads/prohibited_content/adult_content'
+    mod.ad.reject.text.too_much_text: 'Facebook рекомендует, чтобы текст на картинке занимал не больше 20% площади. Измените креатив и повторно включите объявление. Чтобы подробнее узнать о требованиях Facebook, перейдите в справку - https://www.facebook.com/business/help/980593475366490). Чтобы проверить количество текста на вашем изображении, воспользуйтесь инструментом Facebook: https://www.facebook.com/ads/tools/text_overlay'
+    mod.ad.reject.text.using_fb_brand: 'Facebook запрещает использовать бренды компании в рекламных материалах. Подробнее об этом правиле можно прочитать тут: https://www.facebook.com/policies/ads/use_of_brand_assets/brand_reference. Уберите упоминание брендов Facebook из рекламных материалов и запустите объявление снова.'
+    mod.ad.reject.title: 'Снятие с публикации'
+    mod.control.refresh: Обновить
+    mod.control.total: Всего
+    mod.filter.control.reset: 'Сбросить фильтры'
+    mod.filter.field.search: 'Поиск по объявлениям'
+    mod.filter.field.user: Пользователь
+Filterama:
+    Toolbox.close: Закрыть
+    Toolbox.errorMessage: '<b>Ошибка загрузки данных!</b><br/> Мы уже знаем о неполадке, попробуйте перезагрузить страницу'
+FilteramaFilters:
+    button.apply: Применить
+    filter.accountInfo.FilterStatus.ALL: Все
+    filter.accountInfo.FilterStatus.ARCHIVED: Скрытые
+    filter.accountInfo.FilterStatus.NOT_ARCHIVED: 'Все, кроме скрытых'
+    filter.accounts.byName: 'Поиск по названию, ID'
+    filter.byBidderStatus: 'Статус Бид-Менеджера'
+    filter.byName: 'Поиск по названию'
+    filter.campaignInfo.bidmanagerStatus.active: Включен
+    filter.campaignInfo.bidmanagerStatus.off: Выключен
+    filter.campaignInfo.bidmanagerStatus.oldOn: 'Включен в старом'
+    filter.campaignInfo.bidmanagerStatus.suspended: Приостановлен
+    filter.campaignInfo.campaignType.APPLICATION: Приложения
+    filter.campaignInfo.campaignType.DYNAMIC: Динамическая
+    filter.campaignInfo.campaignType.MIXED: 'Поиск + Сеть'
+    filter.campaignInfo.campaignType.MOBILE: Мобильная
+    filter.campaignInfo.campaignType.NETWORK: Сеть
+    filter.campaignInfo.campaignType.SEARCH: Поиск
+    filter.campaignInfo.campaignType.SHOPPING: Торговая
+    filter.campaignInfo.FilterStatusName.ALL: Все
+    filter.campaignInfo.FilterStatusName.ARCHIVED: 'В архиве'
+    filter.campaignInfo.FilterStatusName.NOT_ARCHIVED: 'Все, кроме удаленных'
+    filter.campaignInfo.StatusName.ACTIVE: 'Идут показы'
+    filter.campaignInfo.StatusName.CONVERTED: Сконвертирована
+    filter.campaignInfo.StatusName.DELETED: Удалена
+    filter.campaignInfo.StatusName.DRAFT: Черновик
+    filter.campaignInfo.StatusName.ENDED: Закончилась
+    filter.campaignInfo.StatusName.MODERATION: 'На модерации'
+    filter.campaignInfo.StatusName.NO_FUNDS: 'Нет средств'
+    filter.campaignInfo.StatusName.PAUSED: Остановлена
+    filter.campaignInfo.StatusName.REJECTED: 'Отклонена модерацией'
+    filter.campaignInfo.StatusName.UNKNOWN: Неизвестно
+    filter.campaignStatus: 'Статус кампании'
+    filter.campaignType: 'Тип кампании'
+    selectFilter: 'Выберите фильтр'
+FinancePage:
+    accept.acceptance: 'Я ознакомился с условиями {link}, согласен с ними'
+    accept.acceptance.link: договора
+    accept.personal.data: 'Я даю {link} на обработку моих персональных данных'
+    accept.personal.data.link: согласие
+    act.number: 'Акт №'
+    add.contract: 'Добавить договор'
+    breadcrumbs.contract.form: 'Добавление договора'
+    breadcrumbs.contract.form.edit: 'Редактирование договора'
+    breadcrumbs.finance: Финансы
+    contracts.filter.empty: 'У вас нет договоров с заданными параметрами фильтра.'
+    contracts.list.empty: 'У вас еще нет договоров для пополнения баланса. Создайте свой первый договор, нажав на кнопку "Добавить договор".'
+    create.contract.error: 'Произошла ошибка при добавлении договора'
+    create.contract.success: 'Договор успешно добавлен'
+    delivery.type.general: 'Самостоятельно из офиса eLama'
+    delivery.type.none: 'Мне не нужны оригиналы'
+    delivery.type.post: 'Почтой России'
+    delivery.type.postKz: Почтой
+    deposit.from.akbFucher: 'АКБ «ФЬЮЧЕР»'
+    deposit.from.akbKranBank: 'АКБ «Кранбанк»'
+    deposit.from.alfaClick: Альфа-Клик
+    deposit.from.bankAVB: 'Банк АВБ'
+    deposit.from.bankGorod: 'Банк Город'
+    deposit.from.bankInteza: 'Банк Интеза'
+    deposit.from.bogorodskiBank: 'Банк «Богородский»'
+    deposit.from.easyPay: EasyPay
+    deposit.from.fleksBank: ФлексБанк
+    deposit.from.handyBank: HandyBank
+    deposit.from.individualElamaBill: 'Счет на eLama (Физ. лицо)'
+    deposit.from.individualEntrepreneurElamaBill: 'Счет на eLama (ИП)'
+    deposit.from.individualEntrepreneurReklamaVInterneteBill: 'Счет на «Реклама в Интернете» (ИП)'
+    deposit.from.intBankCard: 'Кредитная карта'
+    deposit.from.kostromacelkombank: Костромаселькомбанк
+    deposit.from.kztBankCard: 'KZT Банковская карта'
+    deposit.from.legalEntityElamaBill: 'Счет на eLama (Юр. лицо)'
+    deposit.from.legalEntityReklamaVInterneteBill: 'Счет на «Реклама в Интернете» (Юр. лицо)'
+    deposit.from.lipeckiOblastnoiBank: 'Липецкий областной банк'
+    deposit.from.mailMoney: Деньги@Mail.Ru
+    deposit.from.megafon: Мегафон
+    deposit.from.mezhTopEnergoBank: Межтопэнергобанк
+    deposit.from.mts: МТС
+    deposit.from.MutualSettlement: Взаиморасчет
+    deposit.from.NSBank: '«НС Банк»'
+    deposit.from.obrazovanieBank: 'Банк «Образование»'
+    deposit.from.promSvyazBank: Промсвязьбанк
+    deposit.from.qiwi: 'QIWI Кошелек'
+    deposit.from.rurBankCard: 'RUB Банковская карта'
+    deposit.from.rurEvroset: 'RUB Евросеть'
+    deposit.from.rurSvyaznoi: 'RUB Связной'
+    deposit.from.rurTeleMoney: 'RUB TeleMoney'
+    deposit.from.russkiTrastoviBank: 'Русский Трастовый Банк'
+    deposit.from.sberbankOnline: 'Сбербанк онлайн'
+    deposit.from.tatFondBank: Татфондбанк
+    deposit.from.vestInterBank: Вестинтербанк
+    deposit.from.vtb24: ВТБ24
+    deposit.from.walletOne: 'Единый Кошелек'
+    deposit.from.webmoneyMutualSettlement: 'Webmoney (взаиморасчет)'
+    deposit.from.webmoneyr: 'Webmoney R'
+    deposit.from.webmoneyu: 'Webmoney U'
+    deposit.from.webmoneyz: 'Webmoney Z'
+    deposit.from.yandexMoney: Яндекс.Деньги
+    deposit.from.yandexMoneyMutualSettlement: 'Яндекс.Деньги (взаиморасчет)'
+    docs.list.empty: 'Нет закрывающих документов'
+    download: Скачать
+    dropdown.act: Акт
+    dropdown.details: 'Детализацию акта'
+    dropdown.invoice: Счет-фактуру
+    edit.contract.error: 'Произошла ошибка при редактировании договора'
+    edit.contract.success: 'Договор успешно отредактирован'
+    fetch.acts.error: 'Ошибка получения закрывающих документов. Попробуйте позже'
+    fetch.bill.error: 'Ошибка получения счета'
+    fetch.contract.error: 'Произошла ошибка при получении договора'
+    fetch.history.error: 'Ошибка получения истории операций. Попробуйте позже'
+    form.delimiter.headline.bank: Банк
+    form.delimiter.headline.contacts: 'Контактная информация'
+    form.delimiter.headline.delivery.switcher: 'Как вы будете забирать документы'
+    form.header.edit.contract: 'Редактировать договор'
+    form.header.new.contract: 'Новый договор'
+    form.input.address: Адрес
+    form.input.bank.account.id: 'Расчетный счет'
+    form.input.bank.id: БИК
+    form.input.bank.name: 'Наименование банка'
+    form.input.contact.person.name: 'Контактное лицо'
+    form.input.correspondent.account.id: 'Корреспондентский счет'
+    form.input.email: Email
+    form.input.first.name: Имя
+    form.input.last.name: Фамилия
+    form.input.legal.address: 'Юридический адрес'
+    form.input.legal.name: 'Юридическое название организации'
+    form.input.locality: 'Населенный пункт'
+    form.input.phone: 'Контактный телефон'
+    form.input.postcode: Индекс
+    form.input.recipient: Получатель
+    form.input.region: Регион
+    form.input.second.name: Отчество
+    form.input.tax.id: ИНН
+    form.input.tax.idKz: БИН
+    form.input.tax.service.code: КПП
+    form.type.individual: 'Физическое лицо'
+    form.type.legal.entity: 'Юридическое лицо'
+    form.type.pe: 'Индивидуальный предприниматель'
+    history.list.empty: 'Нет данных по истории операций'
+    history.total.tooltip: '<b>Поступления / Списания</b> баланса eLama<br/><br/>Суммы посчитаны с учетом выбранных фильтров, в том числе по выбранному периоду. Мы не учитываем счета, которые ждут оплаты.'
+    history.item.forcePayment.title: Ускорить зачисление
+    history.item.forcePayment.tooltip: Ускорить зачисление средств на баланс можно только со второго перевода в eLama.
+    history.item.forcePayment.maxFilesRestriction: Максимальный размер файлов — 3.5 МБ
+    history.item.forcePayment.error: Произошла ошибка загрузки файлов
+    legal.deposit.bill: Счет
+    legal.deposit.oldBill: 'Счет устарел'
+    list.item.archive.error: 'Ошибка архивирования договора'
+    list.item.archive.success: 'Договор отправлен в архив'
+    list.item.control.archive: 'Перенести в архив'
+    list.item.control.edit: Редактировать
+    list.item.control.print: Распечатать
+    list.item.control.unarchive: Разархивировать
+    list.item.unarchive.error: 'Ошибка при извлечении договора из архива'
+    list.item.unarchive.success: 'Договор извлечен из архива'
+    month.apr: Апрель
+    month.aug: Август
+    month.dec: Декабрь
+    month.feb: Февраль
+    month.jan: Январь
+    month.jul: Июль
+    month.jun: Июнь
+    month.mar: Март
+    month.may: Май
+    month.nov: Ноябрь
+    month.oct: Октябрь
+    month.sep: Сентябрь
+    personal.data.notification: 'Мы используем эту информацию при формировании и отправке закрывающих документов. Проверьте, что вы внесли верные данные.'
+    purpose.agency.payback: 'Агентское вознаграждение'
+    purpose.default.deposit: Пополнение
+    purpose.default.withdrawal: Списание
+    purpose.help2start: 'Help to Start'
+    purpose.individual.payment: 'Пополнение счета eLama'
+    purpose.legal.payment: 'Пополнение счета eLama'
+    purpose.credit: 'Пополнение счета eLama (постоплата)'
+    purpose.package: 'Пакет'
+    purpose.partner.comission: 'Рекламный пакет'
+    purpose.planpackage: 'Оплата тарифа'
+    purpose.ppc.world: 'Услуги ppc.world'
+    purpose.refund: 'Возврат средств'
+    purpose.service.tax: 'Сервисный сбор'
+    purpose.toelama: eLama
+    purpose.toelamapackage: 'Пакет услуг в eLama'
+    purpose.transfer.adwords: 'Перевод на аккаунт Google Ads'
+    purpose.transfer.begun: 'Перевод на аккаунт Бегун'
+    purpose.transfer.calltouch: 'Перевод на аккаунт Calltouch'
+    purpose.transfer.calltracking: 'Перевод на аккаунт Calltracking'
+    purpose.transfer.direct: 'Перевод на аккаунт Яндекс.Директ'
+    purpose.transfer.facebook: 'Перевод на аккаунт Facebook'
+    purpose.transfer.google: 'Перевод на аккаунт Google'
+    purpose.transfer.soloway: 'Перевод на аккаунт Soloway'
+    purpose.transfer.targetMailRu: 'Перевод на аккаунт My Target'
+    purpose.transfer.vkontakte: 'Перевод на аккаунт Вконтакте'
+    purpose.transfer.yabayan: 'Перевод на аккаунт Яндекс.Баян'
+    purpose.transfer.yacall: 'Перевод на аккаунт Яндекс Целевой звонок'
+    purpose.transfer.yadisplay: 'Платеж в Яндекс.Дисплей'
+    purpose.transfer.yagla: 'Перевод на акканут Yagla'
+    purpose.transfer.yamarket: 'Перевод на акканут Яндекс.Маркет'
+    purpose.transfer.yarealty: 'Платеж в Яндекс.Недвижимость'
+    purpose.transfer.yaspravochnik: Яндекс.Справочник
+    purpose.violation.fee: 'Штраф за нарушение условий оферты'
+    purpose.withdraw: Списание
+    save.contract: 'Сохранить договор'
+    state.active: Активные
+    state.all: 'Все договоры'
+    state.archive: 'В архиве'
+    status.deposit.created: 'Ждёт оплаты'
+    status.deposit.processed: 'Оплачен'
+    status.transfer.created: 'Ждёт подтверждения'
+    status.transfer.processed: 'Подтверждён'
+    status.done: Начислено
+    status.paid: Оплачено
+    status.credit: 'Оплатить до {date}'
+    status.outdated: 'Оплатить до {date} (просрочен)'
+    tab.archive: 'Архив оферт'
+    tab.contracts: Договоры
+    tab.docs: 'Закрывающие документы'
+    tab.history: 'История операций'
+    tab.plan: 'Мой тариф'
+    tax.invoice: 'Счет-фактура №'
+    tools.add.contract: 'Добавить договор'
+    type.all: 'Все договоры'
+    type.individual: 'Физическое лицо'
+    type.legal.entity: 'Юридическое лицо'
+    type.pe: ИП
+    vat: НДС
+ForecastPeriodWidget:
+    almost.gone: 'Средства на балансе скоро закончатся'
+    few.days: 'Средства закончатся приблизительно через {days} {days, plural, one {день} few {дня} many {дней} other {дней} }'
+    long.time: 'Средств на балансе хватит на длительный срок'
+    nothing.left: 'Средства на балансе закончились'
+LangSwitcher:
+    add.key: Добавить
+    current.language: 'Текущий язык'
+Layout:
+    ErrorPage: 'Новый личный кабинет временно недоступен.<br/> Мы знаем о проблеме и уже решаем ее.<br/> Обновите страницу или попробуйте позже.'
+    ErrorPage.title: 'Что-то пошло не так'
+    ErrorPage.message: 'Попробуйте перезагрузить страницу. Если ошибка<br /> повторится, напишите на <a href="mailto:{email}">{email}</a>'
+    ErrorPage.button.back: 'Вернуться назад'
+    ErrorPage.button.main: 'На главную'
+    ErrorPage.button.reload: 'Перезагрузить страницу'
+    NoAccessPage.message: 'У вас недостаточно прав для просмотра этой страницы'
+    NoAccessPage.title: 'Ошибка доступа'
+    PageNotFound.message: 'Она была перенесена, удалена или ее никогда<br /> не существовало'
+    PageNotFound.title: 'Страница не найдена'
+MainMenu:
+    copy.message: 'Id скопирован в буфер обмена'
+    copy.user.id: 'Копировать id'
+    LINK_TO_ELAMA_OLD: 'В старый кабинет'
+    MainMenu.Item.about: 'О проекте'
+    MainMenu.Item.aboutService: 'О сервисе'
+    MainMenu.Item.acquaintance: 'Знакомство&nbsp;с&nbsp;интерфейсом'
+    MainMenu.Item.agency: Агентство
+    MainMenu.Item.blog: Блог
+    MainMenu.Item.contacts: Контакты
+    MainMenu.Item.faq: 'Частые вопросы'
+    MainMenu.Item.finance: Финансы
+    MainMenu.Item.help: Помощь
+    MainMenu.Item.helpAllCategories: 'Все разделы'
+    MainMenu.Item.my: 'Моя eLama'
+    MainMenu.Item.partners: Партнерам
+    MainMenu.Item.services: Услуги
+    MainMenu.Item.statisticLogs: 'Логи статистики'
+    MainMenu.Item.webinars: Вебинары
+My:
+    BreadCrumb.account: Аккаунт
+    BreadCrumb.adGroup: Группа
+    BreadCrumb.adwords: 'Google Ads'
+    BreadCrumb.allAccounts: 'Все аккаунты'
+    BreadCrumb.analytics: 'Google Analytics'
+    BreadCrumb.campaign: Кампания
+    BreadCrumb.connection: Подключение
+    BreadCrumb.connection.ad-adwords: 'Google Ads'
+    BreadCrumb.connection.ad-calltouch: CallTouch
+    BreadCrumb.connection.ad-calltracking: Calltracking
+    BreadCrumb.connection.ad-direct: Яндекс.Директ
+    BreadCrumb.connection.ad-facebook: Facebook
+    BreadCrumb.connection.ad-mytarget: 'My Target'
+    BreadCrumb.connection.ad-targetMailRu: 'My Target'
+    BreadCrumb.connection.ad-vk: Вконтакте
+    BreadCrumb.connection.ad-vkontakte: Вконтакте
+    BreadCrumb.connection.ad-yagla: Yagla
+    BreadCrumb.connection.adwords: 'Google Ads'
+    BreadCrumb.connection.analytics: 'Google Analytics'
+    BreadCrumb.connection.calltouch: Calltouch
+    BreadCrumb.connection.ga: 'Google Analytics'
+    BreadCrumb.connection.metrika: 'Yandex Metrika'
+    BreadCrumb.connection.ym: 'Yandex Metrika'
+    BreadCrumb.connection.external-account: 'Google Ads'
+    Filters.addButton: Добавить
+    Filters.AdGroupsLink: 'Перейти к группам объявлений'
+    Filters.linkGoTo: 'Перейти к кампаниям'
+    Footer.copyright: '© 2008—2019 eLama. Все права защищены.'
+    Footer.copyright.link: 'Политика в отношении обработки персональных данных'
+    Footer.email: Почта
+    Footer.requisites: Реквизиты
+    Footer.skype.presentation: 'Записаться на Skype-презентацию'
+    Nav.btnHome.tooltipText: 'Сделать разделом по умолчанию'
+    Nav.cards.accounts: Аккаунты
+    Nav.cards.adGroups: 'Группы объявлений'
+    Nav.cards.audiences: Аудитории
+    Nav.cards.campaigns: Кампании
+    Nav.cards.keywords: 'Ключевые слова'
+    Nav.connectSystems: 'Настройки аналитики'
+    Nav.statistics.accounts: 'Статистика по аккаунтам'
+    Nav.statistics.adGroups: 'Статистика по группам объявлений'
+    Nav.statistics.ads: 'Статистика по объявлениям'
+    Nav.statistics.audiences: 'Статистика по аудиториям'
+    Nav.statistics.campaigns: 'Статистика по кампаниям'
+    Nav.statistics.keywords: 'Статистика по ключевым словам'
+    Nav.statistics.placements: 'Статистика по площадкам'
+    Pages.Accounts.EmptyDefaultFilterResult.button: 'Добавить аккаунт'
+    Pages.Accounts.EmptyDefaultFilterResult.message: 'Чтобы начать работу, добавьте аккаунт или разархивируйте старые'
+    Pages.Accounts.EmptyDefaultFilterResult.title: 'У вас нет активных аккаунтов'
+    Pages.Accounts.EmptyFilterResult.button: 'Отменить фильтр'
+    Pages.Accounts.EmptyFilterResult.message: 'Попробуйте изменить условия поиска или фильтра'
+    Pages.Accounts.EmptyFilterResult.no.accounts: 'У вас пока нет кампаний'
+    Pages.Accounts.EmptyFilterResult.title: 'Ничего не найдено.'
+    Pages.Accounts.NoAccountsResult.button: 'Добавить аккаунт'
+    Pages.Accounts.NoAccountsResult.message: 'Чтобы начать работу, добавьте аккаунт'
+    Pages.Accounts.NoAccountsResult.title: 'У вас нет аккаунтов'
+    Toolbox.addCampaign.copy.yandex: 'Копировать из другого <br /> аккаунта Яндекс.Директ'
+    Toolbox.addCampaign.free: '<b>Бесплатно</b> создадим и <br /> настроим кампанию'
+    Toolbox.addCampaign.singly.google: 'Самостоятельно создать <br /> кампанию в Google Ads'
+    Toolbox.addCampaign.copy.google: 'Копировать из другого <br /> аккаунта в Google Ads'
+    Toolbox.addCampaign.singly.yandex: 'Самостоятельно создать <br /> кампанию в Яндекс.Директе'
+    Toolbox.action.google: '<b>Акция!</b><br />Дарим 2000 бонусов'
+    WelcomeMessage.text: 'Для начала работы необходимо создать аккаунты, связанные с нашей системой. Аккаунт в Яндекс.Директе мы уже создали. Вы можете автоматически перенести свои кампании с другого аккаунта Директа или создать новые.<br /><br /> Если хотите добавить аккаунты других систем, нажмите “Добавить“.'
+    WelcomeMessage.direct.text1: 'Чтобы работать с eLama,'
+    WelcomeMessage.direct.add: 'добавьте'
+    WelcomeMessage.direct.text2: 'аккаунты рекламных систем.<br />Аккаунт Яндекс.Директа мы уже создали. Нажмите на название, чтобы начать с ним работать.'
+    WelcomeMessage.action: '<b>Акция!</b>'
+    WelcomeMessage.action.start: 'Запускайте'
+    WelcomeMessage.action.text: 'кампании в Google Ads через eLama и получите 2 000 бонусов на рекламу. <a href={actionLink} target="_blank">Подробнее</a>'
+    WelcomeMessage.title: 'Добро пожаловать в eLama!'
+MyTable:
+    accountRelations.confirm: Подтвердить
+    accountRelations.group.calls: Звонки
+    accountRelations.group.conversions: Конверсия
+    accountRelations.group.ecommerce: 'Электронная коммерция'
+    accountRelations.group.involvement: 'Показатели вовлеченности'
+    accountRelations.hide: Закрыть
+    accountRelations.title: 'Источники данных для'
+    accountRelations.empty: '{connect} к рекламному аккаунту {login} системы аналитики, чтобы анализировать статистику по конверсиям, звонкам и электронной торговле'
+    accountRelations.empty.connect: Подключите
+    breadcrumbs.noName: '<Название недоступно>'
+    breadcrumbs.rootLink: 'Все аккаунты'
+    calendar.apply: Применить
+    chart.addField: 'Добавить показатель'
+    chart.fields.avg_click_cost: 'Средняя цена клика'
+    chart.fields.avg_depth: 'Глубина просмотра'
+    chart.fields.avg_revenue: 'Средний чек'
+    chart.fields.avg_traffic_volume: 'Средний объём трафика'
+    chart.fields.bounces_percent: 'Отказы %'
+    chart.fields.clicks: Клики
+    chart.fields.conversion_cost: 'Цена конверсии'
+    chart.fields.conversions: Конверсии
+    chart.fields.conversions_percent: 'Коэффициент конверсий'
+    chart.fields.cost: Расходы
+    chart.fields.ctr_percent: 'CTR %'
+    chart.fields.drr: ДРР
+    chart.fields.impressions: Показы
+    chart.fields.product_adds_to_cart: 'Добавления в корзину'
+    chart.fields.product_detail_views: 'Просмотры товаров'
+    chart.fields.revenue: Доход
+    chart.fields.roi: ROI
+    chart.fields.sessions: Сессии
+    chart.fields.special_percent: '% показов над рез-ми поиска'
+    chart.fields.uniq_target_call: 'Уникально-целевые звонки'
+    chart.fields.uniq_target_callback: 'Уникально-целевые обратные звонки'
+    chart.grouping.day: 'По дням'
+    chart.grouping.month: 'По месяцам'
+    chart.grouping.week: 'По неделям'
+    chart.noData: 'Нет данных для отображения'
+    chart.noResults: 'Нет результатов'
+    chartLegend.grouping.DESKTOP: ПК
+    chartLegend.grouping.MOBILE: Смартфоны
+    chartLegend.grouping.OTHER: Другие
+    chartLegend.grouping.TABLET: Планшеты
+    chartLegend.total: Итого
+    chartTooltip.fields.avg_click_cost: 'Средняя цена клика'
+    chartTooltip.fields.avg_depth: 'Глубина просмотра'
+    chartTooltip.fields.avg_revenue: 'Средний чек'
+    chartTooltip.fields.avg_traffic_volume: 'Средний объём трафика'
+    chartTooltip.fields.bounces_percent: 'Отказы %'
+    chartTooltip.fields.clicks: Клики
+    chartTooltip.fields.conversion_cost: 'Цена конверсии'
+    chartTooltip.fields.conversions: Конверсии
+    chartTooltip.fields.conversions_percent: 'Коэффициент конверсий'
+    chartTooltip.fields.cost: Расходы
+    chartTooltip.fields.ctr_percent: 'CTR %'
+    chartTooltip.fields.drr: ДРР
+    chartTooltip.fields.impressions: Показы
+    chartTooltip.fields.product_adds_to_cart: 'Добавления в корзину'
+    chartTooltip.fields.product_detail_views: 'Просмотры товаров'
+    chartTooltip.fields.revenue: Доход
+    chartTooltip.fields.roi: ROI
+    chartTooltip.fields.sessions: Сессии
+    chartTooltip.fields.special_percent: '% показов над рез-ми поиска'
+    chartTooltip.fields.uniq_target_call: 'Уникально-целевые звонки'
+    chartTooltip.fields.uniq_target_callback: 'Уникально-целевые обратные звонки'
+    chartTooltip.grouping.DESKTOP: ПК
+    chartTooltip.grouping.MOBILE: Смартфоны
+    chartTooltip.grouping.OTHER: Другие
+    chartTooltip.grouping.TABLET: Планшеты
+    chartTooltip.total: Итого
+    chartTooltip.week: Неделя
+    datepicker.ranges.30: '30 дней'
+    datepicker.ranges.7: '7 дней'
+    datepicker.ranges.yesterday: Вчера
+    error.authLoad: 'Ошибка доступа к данным'
+    error.hide: Закрыть
+    error.noAccountsMessage: 'Добавьте аккаунт и повторите попытку'
+    error.noAccountsTitle: 'У вас нет подходящих аккаунтов'
+    error.noAccountsWithStatMessage: 'Повторите попытку позже'
+    error.noAccountsWithStatTitle: 'Статистика по аккаунту еще не загружена'
+    error.noResponseLoad: "Не удалось\nполучить данные"
+    error.noResponseMessage: 'Повторите попытку или обратитесь в службу Заботы'
+    error.noResponseTitle: 'Не удалось получить данные'
+    error.refresh: Обновить
+    error.reload: 'Перезагрузить страницу'
+    error.retry: Повторить
+    error.unrecoverableMessage: 'Попробуйте перезагрузить страницу'
+    error.unrecoverableTitle: 'Произошла ошибка'
+    filter.accountType.adwords: AdWords
+    filter.accountType.ALL: 'Все аккаунты'
+    filter.accountType.direct: Директ
+    filter.accountType.facebook: Facebook
+    filter.accountType.vkontakte: ВКонтакте
+    filter.addAccount: Добавить
+    filter.segment: Сегментировать
+    filter.apply: Применить
+    filter.columnConfig.apply: Применить
+    filter.columnConfig.columnGroups.accounts: Аккаунты
+    filter.columnConfig.columnGroups.activities: 'Показатели вовлеченности'
+    filter.columnConfig.columnGroups.adGroups: 'Группы объявлений'
+    filter.columnConfig.columnGroups.advisor: Рекомендатор
+    filter.columnConfig.columnGroups.audiences: Аудитории
+    filter.columnConfig.columnGroups.bidmanager: Бид-менеджер
+    filter.columnConfig.columnGroups.calls: Звонки
+    filter.columnConfig.columnGroups.campaigns: Кампании
+    filter.columnConfig.columnGroups.conversion: Конверсия
+    filter.columnConfig.columnGroups.ecommerce: 'Электронная коммерция'
+    filter.columnConfig.columnGroups.expenses: 'Данные из рекламных систем'
+    filter.columnConfig.columnGroups.keywords: 'Ключевые слова'
+    filter.columnConfig.columnGroups.segments: 'Сегменты'
+    filter.columnConfig.columnGroups.structure: 'Структура аккаунта'
+    filter.columnConfig.columns.account_status: 'Статус аккаунта'
+    filter.columnConfig.columns.accounts: Аккаунт
+    filter.columnConfig.columns.ACCOUNT_RELATIONS: Настройка связей аккаунта
+    filter.columnConfig.columns.ad_activity_status: 'Статус активности объявления'
+    filter.columnConfig.columns.ad_group_id: ID
+    filter.columnConfig.columns.ad_group_activity_status: 'Статус активности группы объявлений'
+    filter.columnConfig.columns.ad_group_name: 'Группа объявлений'
+    filter.columnConfig.columns.ad_network_type: 'Тип площадки'
+    filter.columnConfig.columns.ad_id: ID
+    filter.columnConfig.columns.ad_title: 'Заголовок объявления'
+    filter.columnConfig.columns.audience_id: ID
+    filter.columnConfig.columns.audience_name: Аудитория
+    filter.columnConfig.columns.avg_click_cost: 'Средняя цена клика'
+    filter.columnConfig.columns.avg_depth: 'Глубина просмотра'
+    filter.columnConfig.columns.avg_revenue: 'Средний чек'
+    filter.columnConfig.columns.avg_traffic_volume: 'Средний объём трафика'
+    filter.columnConfig.columns.bidmanager_bid: 'Макс. ставка'
+    filter.columnConfig.columns.bidmanager_is_active: Статус
+    filter.columnConfig.columns.bidmanager_level: Уровень
+    filter.columnConfig.columns.bidmanager_template_id: Шаблон
+    filter.columnConfig.columns.bounces_percent: Отказы
+    filter.columnConfig.columns.campaign_id: ID
+    filter.columnConfig.columns.campaign_name: Кампания
+    filter.columnConfig.columns.campaign_type: 'Тип кампании'
+    filter.columnConfig.columns.CHECKBOX: Выбор
+    filter.columnConfig.columns.clicks: Клики
+    filter.columnConfig.columns.conversion_cost: 'Цена конверсии'
+    filter.columnConfig.columns.conversions: Конверсии
+    filter.columnConfig.columns.conversions_percent: 'Коэффициент конверсий'
+    filter.columnConfig.columns.cost: Расходы
+    filter.columnConfig.columns.ctr_percent: CTR
+    filter.columnConfig.columns.date: Дата
+    filter.columnConfig.columns.device_unified: Устройство
+    filter.columnConfig.columns.drr: ДРР
+    filter.columnConfig.columns.elama_status: 'Статус активности кампании'
+    filter.columnConfig.columns.impressions: Показы
+    filter.columnConfig.columns.keyword_activity_status: 'Статус активности ключевого слова'
+    filter.columnConfig.columns.keyword_text: 'Ключевое слово'
+    filter.columnConfig.columns.keyword_text_no_minus: 'Ключевое слово'
+    filter.columnConfig.columns.month: Месяц
+    filter.columnConfig.columns.number_recommendations: Количество
+    filter.columnConfig.columns.product_adds_to_cart: 'Добавления в корзину'
+    filter.columnConfig.columns.product_detail_views: 'Просмотры товаров'
+    filter.columnConfig.columns.revenue: Доход
+    filter.columnConfig.columns.roi: ROI
+    filter.columnConfig.columns.sessions: Сессии
+    filter.columnConfig.columns.slot_origin: Блок показа
+    filter.columnConfig.columns.sources: 'Тип рекламной системы'
+    filter.columnConfig.columns.special_percent: '% показов над рез-ми поиска'
+    filter.columnConfig.columns.uniq_target_call: 'Уникально-целевые звонки'
+    filter.columnConfig.columns.uniq_target_callback: 'Уникально-целевые обратные звонки'
+    filter.columnConfig.configure: 'Метрики и сегменты'
+    filter.columnConfig.hide: Закрыть
+    filter.columnConfig.savedConfig: 'Мой набор столбцов'
+    filter.columnConfig.title: 'Метрики и сегменты для'
+    filter.columnConfig.titleAggregation.accounts: аккаунтов
+    filter.columnConfig.titleAggregation.adGroups: 'групп объявлений'
+    filter.columnConfig.titleAggregation.ads: объявлений
+    filter.columnConfig.titleAggregation.audiences: аудиторий
+    filter.columnConfig.titleAggregation.campaigns: кампаний
+    filter.columnConfig.titleAggregation.keywords: 'ключевых слов'
+    filter.columnConfig.titleAggregation.placements: площадок
+    filter.condition.active.CONTAINS: ' содержит '
+    filter.condition.active.EQUALS: ' = '
+    filter.condition.active.GT: ' > '
+    filter.condition.active.IN: ': '
+    filter.condition.active.LT: ' < '
+    filter.condition.active.NOT_CONTAINS: ' не содержит '
+    filter.condition.active.NOT_EQUALS: ' не равно '
+    filter.condition.active.NOT_IN: ' не '
+    filter.condition.select.CONTAINS: Содержит
+    filter.condition.select.EQUALS: '='
+    filter.condition.select.GT: '>'
+    filter.condition.select.LT: '<'
+    filter.condition.select.NOT_CONTAINS: 'Не содержит'
+    filter.condition.select.NOT_EQUALS: 'Не равно'
+    filter.enum.bidmanager_is_active.active: Включен
+    filter.enum.bidmanager_is_active.off: Выключен
+    filter.enum.bidmanager_is_active.oldOn: 'Включен в старом'
+    filter.enum.bidmanager_is_active.suspended: Приостановлен
+    filter.enum.bidmanager_level.campaign: Кампания
+    filter.enum.bidmanager_level.keyword: Фраза
+    filter.enum.bidmanager_level.off: Выключен
+    filter.enum.bidmanager_level.oldOn: 'Включен в старом'
+    filter.enum.bidmanager_level.suspended: Приостановлен
+    filter.enum.campaign_type.MIXED: Поиск/Сеть
+    filter.enum.campaign_type.NETWORK: Сеть
+    filter.enum.campaign_type.SEARCH: Поиск
+    filter.enum.ad_network_type.Search: Поиск
+    'filter.enum.ad_network_type.Ad display': Сеть
+    'filter.enum.ad_network_type.Youtube search': 'Поиск Youtube'
+    'filter.enum.ad_network_type.Youtube videos': 'Видео Youtube'
+    filter.enum.ad_network_type.Unknown: Другое
+    filter.enum.ad_network_type.Cross-network: Cross-network
+    filter.enum.ad_network_type.audience_network: 'Audience Network'
+    filter.enum.ad_network_type.facebook: Facebook
+    filter.enum.ad_network_type.messenger: Messenger
+    filter.enum.ad_network_type.instagram: Instagram
+    filter.enum.device_unified.DESKTOP: ПК
+    filter.enum.device_unified.MOBILE: Смартфоны
+    filter.enum.device_unified.TABLET: Планшеты
+    filter.enum.device_unified.TV: TV
+    filter.enum.device_unified.OTHER: Другие
+    filter.enum.slot_origin.SPECIAL: Над результатами поиска
+    filter.enum.slot_origin.GUARANTEE: Остальные показы
+    filter.enum.slot_origin.CROSS-NETWORK: Cross-network
+    filter.fields.ad_group_id: ID
+    filter.fields.ad_group_name: Название
+    filter.fields.ad_id: ID
+    filter.fields.ad_title: Название
+    filter.fields.audience_id: ID
+    filter.fields.audience_name: Название
+    filter.fields.avg_click_cost: 'Средняя цена клика'
+    filter.fields.avg_depth: 'Глубина просмотра'
+    filter.fields.avg_revenue: 'Средний чек'
+    filter.fields.avg_traffic_volume: 'Средний объём трафика'
+    filter.fields.bidmanager_bid: 'Макс. ставка бид-менеджера'
+    filter.fields.bidmanager_is_active: 'Статус бид-менеджера'
+    filter.fields.bidmanager_level: 'Уровень настройки бид-менеджера'
+    filter.fields.bidmanager_template_id: 'Шаблон бид-менеджера'
+    filter.fields.bounces_percent: Отказы
+    filter.fields.campaign_id: ID
+    filter.fields.campaign_name: Название
+    filter.fields.campaign_type: Тип
+    filter.fields.clicks: Клики
+    filter.fields.conversion_cost: 'Цена конверсии'
+    filter.fields.conversions: Конверсии
+    filter.fields.conversions_percent: 'Коэффициент конверсий'
+    filter.fields.cost: Расходы
+    filter.fields.ctr_percent: CTR
+    filter.fields.drr: ДРР
+    filter.fields.impressions: Показы
+    filter.fields.keyword_text: Название
+    filter.fields.keyword_text_no_minus: Название
+    filter.fields.leadcost: 'Стоимость лида'
+    filter.fields.leadgen: Лиды
+    filter.fields.placement: Название
+    filter.fields.product_adds_to_cart: 'Добавления в корзину'
+    filter.fields.product_detail_views: 'Просмотры товаров'
+    filter.fields.revenue: Доход
+    filter.fields.roi: ROI
+    filter.fields.sessions: Сессии
+    filter.fields.special_percent: '% показов над рез-ми поиска'
+    filter.fields.uniq_target_call: 'Уникально-целевые звонки'
+    filter.fields.uniq_target_callback: 'Уникально-целевые обратные звонки'
+    filter.fields.ad_network_type: 'Тип площадки'
+    filter.fields.device_unified: Устройство
+    filter.fields.slot: 'Блок показа'
+    filter.noResults: 'Нет результатов'
+    filter.segment.guarantee: Гарантия
+    filter.segment.network: Сеть
+    filter.segment.none: 'Без сегмента'
+    filter.segment.search: Поиск
+    filter.segment.special: Спецразмещение
+    filter.set: 'Задать фильтры'
+    filter.status.accounts.adwords: AdWords
+    filter.status.accounts.all: 'Все аккаунты'
+    filter.status.accounts.direct: Директ
+    filter.status.accounts.facebook: Facebook
+    filter.status.accounts.vkontakte: ВКонтакте
+    filter.status.campaigns.all: 'Все кампании'
+    filter.status.campaigns.archived: 'В архиве'
+    filter.status.campaigns.nonDeleted: 'Все, кроме удаленных'
+    filter.vat: НДС
+    pagination.outOf: из
+    pagination.rows: 'Строк на странице:'
+    selection.link: 'Перейти к кампаниям'
+    selection.selected: '{displayLength, plural, one {Выбран} other {Выбрано}}: {displayLength} {displayLength, plural, one {аккаунт} few {аккаунта} other {аккаунтов}}'
+    sidebar.accounts: Аккаунты
+    sidebar.adGroups: 'Группы объявлений'
+    sidebar.ads: Объявления
+    sidebar.audiences: Аудитории
+    sidebar.campaigns: Кампании
+    sidebar.keywords: 'Ключевые слова'
+    sidebar.placements: Площадки
+    table.aggregationColumns.accounts: Аккаунт
+    table.aggregationColumns.ad_group_name: 'Группа объявлений'
+    table.aggregationColumns.campaign_name: 'Рекламная кампания'
+    table.columns.accounts: Аккаунт
+    table.columns.ad_group_id: ID
+    table.columns.ad_group_name: 'Группа объявлений'
+    table.columns.ad_network_type: 'Тип площадки'
+    table.columns.ad_id: ID
+    table.columns.ad_title: Объявление
+    table.columns.audience_id: ID
+    table.columns.audience_name: Аудитория
+    table.columns.avg_click_cost: "Средняя\nцена клика"
+    table.columns.avg_depth: "Глубина\nпросмотра"
+    table.columns.avg_revenue: "Средний\nчек"
+    table.columns.avg_traffic_volume: "Средний\nобъем трафика"
+    table.columns.bidmanager_bid: 'Макс. ставка'
+    table.columns.bidmanager_is_active: Статус
+    table.columns.bidmanager_level: Уровень
+    table.columns.bidmanager_template_id: Шаблон
+    table.columns.bounces_percent: Отказы
+    table.columns.campaign_id: ID
+    table.columns.campaign_name: Кампания
+    table.columns.campaign_type: Тип
+    table.columns.clicks: Клики
+    table.columns.COMPARE_DIFF: Изменение
+    table.columns.COMPARE_DIFF_RELATIVE: 'Изменение, %'
+    table.columns.conversion_cost: 'Цена конверсии'
+    table.columns.conversions: Конверсии
+    table.columns.conversions_percent: "Коэффициент\nконверсий"
+    table.columns.cost: Расходы
+    table.columns.ctr_percent: CTR
+    table.columns.date: Дата
+    table.columns.device_unified: Устройство
+    table.columns.drr: ДРР
+    table.columns.impressions: Показы
+    table.columns.keyword_text: 'Ключевые слова'
+    table.columns.keyword_text_no_minus: 'Ключевые слова'
+    table.columns.leadcost: 'Стоимость лида'
+    table.columns.leadgen: Лиды
+    table.columns.month: Месяц
+    table.columns.number_recommendations: Количество
+    table.columns.placement: Площадка
+    table.columns.product_adds_to_cart: "Добавления\nв корзину"
+    table.columns.product_detail_views: "Просмотры\nтоваров"
+    table.columns.revenue: Доход
+    table.columns.roi: ROI
+    table.columns.sessions: Сессии
+    table.columns.slot: Блок показа
+    table.columns.slot_origin: Блок показа
+    table.columns.special_percent: "% показов над\nрез-ми поиска"
+    table.columns.uniq_target_call: "Уникально-целевые\nзвонки"
+    table.columns.uniq_target_callback: "Уникально-целевые\nобратные звонки"
+    table.connectAnalytics: 'Подключить систему аналитики'
+    table.deselectAll: 'Снять выделение'
+    'table.enum.ad_network_type.Ad display': Сеть
+    table.enum.ad_network_type.audience_network: 'Audience Network'
+    table.enum.ad_network_type.facebook: Facebook
+    table.enum.ad_network_type.instagram: Instagram
+    table.enum.ad_network_type.messenger: Messenger
+    table.enum.ad_network_type.Search: Поиск
+    table.enum.campaign_type.CONVERSIONS: Конверсии
+    table.enum.campaign_type.CPM_BANNER_CAMPAIGN: "Медийная\nкампания"
+    table.enum.campaign_type.DYNAMIC_TEXT_CAMPAIGN: "Динамические\nобъявления"
+    table.enum.campaign_type.LEAD_GENERATION: 'Генерация лидов'
+    table.enum.campaign_type.LINK_CLICKS: Трафик
+    table.enum.campaign_type.MIXED: "Поиск\nСеть"
+    table.enum.campaign_type.MOBILE_APP_CAMPAIGN: "Мобильные\nприложения"
+    table.enum.campaign_type.NETWORK: Сеть
+    table.enum.campaign_type.POST_ENGAGEMENT: Вовлеченность
+    table.enum.campaign_type.SEARCH: Поиск
+    table.enum.campaign_type.UNKNOWN: —
+    table.enum.device_unified.DESKTOP: ПК
+    table.enum.device_unified.MOBILE: Смартфоны
+    table.enum.device_unified.TV: TV
+    table.enum.device_unified.OTHER: Другие
+    table.enum.device_unified.TABLET: Планшеты
+    table.enum.slot_origin.SPECIAL: Над результатами поиска
+    table.enum.slot_origin.GUARANTEE: Остальные показы
+    table.enum.slot_origin.messenger_inbox: Messenger Входящие
+    table.enum.slot_origin.messenger_stories: Messenger Истории
+    table.enum.slot_origin.instagram_feed: Instagram Лента
+    table.enum.slot_origin.instagram_stories: Instagram Истории
+    table.enum.slot_origin.facebook_marketplace: Marketplace
+    table.enum.slot_origin.facebook_suggested_video: Рекомендуемые видео
+    table.enum.slot_origin.facebook_instant_article: Моментальные статьи
+    table.enum.slot_origin.facebook_instream_video: Видеореклама In-Stream
+    table.enum.slot_origin.facebook_stories: Facebook Истории
+    table.enum.slot_origin.facebook_feed: Facebook Ленты
+    table.enum.slot_origin.facebook_right_hand_column: Правый столбец
+    table.enum.slot_origin.audience_network_rewarded_video: Видео с бонусами
+    table.enum.slot_origin.audience_network_an_classic: Native, Banner and Interstitial
+    table.enum.slot_origin.audience_network_instream_video: Видеореклама In-Stream
+    'table.enum.slot_origin.Google search: Top': 'Поиск Google: над результатами поиска'
+    'table.enum.slot_origin.Google search: Other': 'Поиск Google: остальные показы'
+    'table.enum.slot_origin.Search partners: Top': 'Поисковые партнеры: над результатами поиска'
+    'table.enum.slot_origin.Search partners: Other': 'Поисковые партнеры: остальные показы'
+    table.enum.slot_origin.PREMIUMBLOCK: Над результатами поиска
+    table.enum.slot_origin.premium: Над результатами поиска
+    table.enum.slot_origin.other: Остальные показы
+    table.enum.slot_origin.none: '-'
+    table.goals.all: 'Все цели'
+    table.goals.counter: Счетчик
+    table.goals.noResults: 'Нет результатов'
+    table.goals.select: 'Выбрать цели'
+    table.goals.selected: '{goalsSelected} {goalsSelected, plural, one {цель} few {цели} other {целей}}'
+    table.groups.activities: 'Показатели вовлеченности'
+    table.groups.advisor: Рекомендатор
+    table.groups.bidmanager: Бид-менеджер
+    table.groups.calls: Звонки
+    table.groups.conversion: Конверсия
+    table.groups.ecommerce: 'Электронная коммерция'
+    table.groups.expenses: 'Данные из рекламных систем'
+    table.groups.segments: 'Сегменты'
+    table.groups.structure: 'Структура аккаунта'
+    table.noData: 'Нет данных по указанным параметрам.'
+    table.noName: '<Название недоступно>'
+    table.rows.total.accounts: 'Итого ({type})'
+    table.rows.total.accountTypes.adwords: AdWords
+    table.rows.total.accountTypes.direct: Директ
+    table.rows.total.accountTypes.facebook: Facebook
+    table.rows.total.accountTypes.vkontakte: ВКонтакте
+    table.rows.total.all: Итого
+    table.rows.total.network: 'Итого (сеть)'
+    table.rows.total.search: 'Итого (поиск)'
+    table.selectAll: 'Выбрать все на странице'
+Optimizer:
+    confirmModal.disabled.confirmText: 'Выключить Оптимизатор'
+    confirmModal.disabled.cancelText: 'Закрыть'
+    confirmModal.disabled.text: 'Выключите Оптимизатор, чтобы вернуться в Бид-менеджер.<br /><br />Для кампаний может работать только один из инструментов.'
+    description: 'Создайте новую папку для оптимизации или выберите одну из существующих'
+    error.unavailable: 'Сервис временно не доступен. Попробуйте позже.'
+    goals.filter.noResults: 'Нет результатов'
+    goals.filter.select: 'Выберите цели'
+    goals.filter.selected: '{goalsSelected} {goalsSelected, plural, one {цель} few {цели} other {целей}}'
+    moderation.description: 'Ваши кампании будут проверены на возможность подключения к оптимизатору в ближайшее время. В случае успешной проверки оптимизатор автоматически запустится'
+    moderation.title: 'Папка на модерации'
+    settings.button.accept: Применить
+    settings.button.off: Выключить
+    settings.button.on: Включить
+    settings.campaigns.name: 'Кампания {item}'
+    settings.delete.error: 'Не удалось выключить оптимизатор'
+    settings.delete.success: 'Оптимизатор выключен'
+    settings.folder.create: 'Создать новую папку'
+    settings.helper.limitation: 'от {from} до {to}'
+    settings.label.campaignsInFolder: 'Кампаний в папке {count}'
+    settings.label.chooseFolder: 'Выберите папку'
+    settings.label.chooseKPI: 'Выберите KPI'
+    settings.label.folderName: 'Название папки'
+    settings.label.goals: Цели
+    settings.label.limitation: Ограничение
+    settings.notice: 'Если вы измените эти настройки, то они поменяются для всей папки. Если вы не хотите менять настройки для остальных компаний — создайте новую'
+    settings.placeholder.enter: Введите
+    settings.placeholder.enterName: 'Введите название'
+    settings.placeholder.KPI: KPI
+    settings.update.error: 'Папку не удалось отправить на модерацию'
+    settings.update.success: 'Папка отправлена на модерацию'
+    status.title.disabled: Выкл
+    status.title.enabled: Вкл
+    status.title.moderation: На проверке
+    status.title.rejected: Выкл
+    subtitle: 'Настройки папки'
+    subtitle.tooltip: '<b>CPO</b> (Cost Per Order) – сколько вы готовы платить за 1 конверсию (в руб)<br /><br /><b>ДРР</b> (Доля Рекламных Расходов) — какую долю от выручки вы готовы вкладывать в рекламу (в %)<br /><br /><b>ROI</b> (Return On Investment) — сколько вы хотите зарабатывать с рекламных вложений (в %)'
+    title: Оптимизатор
+    title.tooltip: 'Оптимизатор автоматически обновляет ставки в рекламной системе для достижения ваших KPI.<br /><br />Для подключения у вас должна быть подключена система аналитики в eLama'
+    title.actionButton: 'Вернуться в бид-менеджер'
+PaymentWidget:
+    amount.label: 'Сумма,'
+    amount.placeholder: Сумма
+    bill.balance.paragraph: 'Баланс будет пополнен только при полной оплате счета. Если нужно зачислить другую сумму, выставьте новый счет.'
+    bill.email.label: 'Он отправлен на'
+    bill.email.short: 'Эл. почта'
+    bill.forward.link: Переслать
+    bill.forward.success: 'Письмо со счетом переслано на {email}'
+    bill.open.link: Распечатать
+    bill.payment.paragraph: 'Оплатить этот счет можно только с расчетного счета ИП или юрлица.'
+    bill.ready.button: Готово
+    bill.refill.link: 'Пополнить еще раз'
+    bill.saveAsPdf.link: 'Сохранить .pdf'
+    bill.title: 'Вам выставлен счет на'
+    cancel: Закрыть
+    commission.tooltip: 'Комиссия = {commission}% + {fixedCommission} (фиксированная комиссия)'
+    contract.label: 'Выберите договор'
+    contract.new: 'Новый договор'
+    contract.placeholder: 'Выберите договор'
+    error.care: 'службу заботы'
+    error.close: Закрыть
+    error.occurred: 'Произошла ошибка'
+    error.repeat: Повторить
+    error.tryAgain: 'Повторите попытку или обратитесь в'
+    errorAmountGtThanMax: 'Не более'
+    errorAmountLtThanMin: 'Не менее'
+    fee: Комиссия
+    fetch.payment.data.error: 'Ошибка получения данных для оплаты, попробуйте позже'
+    loading: Загружается...
+    min.deposit: 'Минимальная сумма пополнения'
+    redirect.bottom: 'где сможете пополнить баланс'
+    redirect.top: 'Сейчас вы перейдете на сайт партнера,'
+    submit: Пополнить
+    submit.withAmount: 'Пополнить на'
+    title: 'Пополнение баланса eLama'
+    to.pay: Итого
+    vat.rate: НДС
+    vat.tooltip: 'НДС в вашей стране = {vatRate}%'
+DocumentsUploadWidget:
+    title: Загрузите платежный документ в электронном виде для ускорения зачисления средств на баланс
+    title.success: Мы получили ваши документы.</br>Средства поступят к вам на счет в течение четырех рабочих часов.
+    condition1: — Загрузите файл в формате jpeg, png или pdf. Максимальный размер файлов 3.5 МБ;
+    condition2: — Номер договора, плательщик, номер и сумма счета должны совпадать в выставленном счете и в платежном документе;
+    condition3: — На платежном документе должна быть отметка банка об исполнении и дата списания средств со счета. Отметки банка, как правило, выглядят как синяя печать с текстом «оплачено», «проведено», «исполнено»;
+    condition4: — Счет на сумму от 50 000 руб. мы можем подтвердить только по будням с 10:00 до 19:00 по Москве.
+    button.ok: Хорошо
+    button.accept: Отправить
+    button.cancel: Закрыть
+Profile:
+    BaseInfo.btn.cancel: Отменить
+    BaseInfo.btn.change: Изменить
+    BaseInfo.btn.change.email: 'Изменить почту'
+    BaseInfo.btn.change.language: 'Изменить язык'
+    BaseInfo.btn.change.name: 'Изменить имя'
+    BaseInfo.btn.change.password: 'Изменить пароль'
+    BaseInfo.btn.change.phone: 'Изменить номер'
+    BaseInfo.btn.change.timezone: 'Изменить часовой пояс'
+    BaseInfo.current.password: 'Старый пароль'
+    BaseInfo.description.email: 'На этот адрес приходят важные уведомления, ответы Службы Заботы и платежные документы'
+    BaseInfo.description.phone: 'Нужен для связи со Службой Заботы'
+    BaseInfo.email: 'Эл. адрес'
+    BaseInfo.language: Язык
+    BaseInfo.login: 'Логин для входа'
+    BaseInfo.name: Имя
+    BaseInfo.new.email: 'Новый эл. адрес'
+    BaseInfo.new.name: 'Новое имя'
+    BaseInfo.new.password: 'Новый пароль'
+    BaseInfo.new.phone: 'Новый номер'
+    BaseInfo.new.timezone: 'Новый часовой пояс'
+    BaseInfo.phone: 'Номер телефона'
+    BaseInfo.region: Регион
+    BaseInfo.repeat.password: 'Повторите пароль'
+    BaseInfo.timezone: 'Часовой пояc'
+    BaseInfo.userId: 'eLama ID'
+    Header.title: Профиль
+    Nav.base: Основное
+    Nav.changePassword: 'Смена пароля'
+    notification.change.failure: 'Не удалось сохранить настройки'
+    notification.change.success: 'Настройки сохранены'
+    tooltip.password.message1: 'Убедитесь, что не включен Caps Lock'
+    tooltip.password.message2: 'Пароль должен быть не менее 6 символов'
+    validation.email: 'Неверный формат электронного адреса'
+    validation.max: 'Не больше {count} {count, plural, one {символа} few {символов} many {символов} other {символов}}'
+    validation.min: 'Не меньше {count} {count, plural, one {символа} few {символов} many {символов} other {символов}}'
+    validation.name: 'Имя может содержать только буквы, пробел и дефис'
+    validation.phone: 'Неверный формат номера телефона'
+    validation.repeat.password: 'Пароли не совпадают'
+    validation.required: 'Необходимо для заполнения'
+Refreshments:
+    forceUpdate: 'Обновить принудительно'
+    lastUpdate: 'Последнее обновление данных:'
+    notification.error: 'Не удалось обновить данные аккаунта {account} вовремя. Попробуйте позже'
+    notification.success: 'Данные аккаунта {account} успешно обновлены. Обновите страницу'
+    notification.warning: 'Данные аккаунта {account} частично обновлены'
+    refreshData: 'Обновить данные'
+    title: 'Обновление данных'
+    unknown: Неизвестно
+Reports:
+    accordion.howCreateReport.text: '1. Выберите рекламные аккаунты, которые хотите добавить в&nbsp;отчет. Сохраните настройки <br> 2. Установите Power BI&nbsp;и&nbsp;скачайте один из&nbsp;шаблонов <br> 3. Загрузите данные вашего отчета в&nbsp;шаблон Power BI <br> <a href="{helpLink}" target="_blank">Подробнее</a>'
+    accordion.howLongStatisticCollected.text: 'В альфа&nbsp;— версии eLama отчетов мы&nbsp;собираем данные по&nbsp;вашим рекламным и&nbsp;аналитическим аккаунтам за&nbsp;14&nbsp;дней. Более подробную информацию о&nbsp;периоде сбора и&nbsp;хранения данных вы&nbsp;можете найти в&nbsp;разделе <a href="{helpLink}" target="_blank">"Помощь"</a>.'
+    accordion.howConnectAccount.SS.text: 'Чтобы использовать в&nbsp;отчёте новый рекламный или аналитический аккаунт, <a href="{helpLink}" target="_blank">добавьте</a> его в&nbsp;ваш личный кабинет на&nbsp;вкладке "Аккаунты".'
+    accordion.howConnectAccount.SA.text: 'Чтобы использовать в&nbsp;отчёте новый рекламный или аналитический аккаунт, <a href="{helpLink}" target="_blank">добавьте</a> его в&nbsp;личный кабинет вашего клиента на&nbsp;вкладке "Аккаунты".'
+    accordion.howCreateReport.title: 'Как создать отчёт?'
+    accordion.howLongStatisticCollected.title: 'За какой период собирается статистика?'
+    accordion.howConnectAccount.title: 'Как подключить новый аккаунт в отчеты?'
+    account.connect.with.analytics: 'Связать с системой аналитики'
+    account.connect.with.ga: 'Связать с Google Analytics'
+    account.connect.with.ym: 'Связать с Яндекс.Метрика'
+    account.fetch.progress: 'Собрано на {progress}%'
+    account.last.update: Обновление
+    account.refresh: Обновить
+    account.refresh.message: 'Токен устарел.'
+    account.settings.confirm: Переместить
+    account.settings.delete: 'Удалить аккаунт'
+    account.settings.move: 'Переместить в другой отчет'
+    account.status1: 'Подготовка к сбору статистики'
+    account.status2: Собирается
+    account.status3: 'Подготовка данных'
+    account.status4: Подключен
+    account.status5: Удален
+    account.status.blocked: Заблокирован
+    accounts.modal.cancel: Отмена
+    accounts.modal.close: Закрыть
+    accounts.modal.confirm.delete.add: 'Все данные по источнику будут удалены. Вы уверены, что хотите удалить источник?'
+    accounts.modal.confirm.delete.analytics: 'Вы уверены, что хотите удалить систему аналитику?'
+    accounts.modal.delete: Удалить
+    adwords.connect.confirm: Подтвердить
+    adwords.connect.loading.text: 'Загружаем данные об аккаунтах'
+    adwords.connect.title: 'Выберите аккаунт'
+    agency.clients.allClientsHaveProjects: 'Отчеты созданы для всех клиентов вашего агентства'
+    agency.clients.createProject: 'Добавить отчет'
+    agency.clients.filterInput: 'Поиск по названию, ID'
+    agency.clients.noClients.link: 'Как добавить клиента?'
+    agency.clients.noClients.text: 'У вашего агентства нет клиентов для создания отчета.'
+    agency.clients.noMatches: 'Ничего не найдено'
+    agency.clients.title: 'Выберите клиента'
+    analyitcs.select.accounts.title: 'Выберите аккаунт Google Analytics'
+    analytics.cancel: Отмена
+    analytics.connect: Подключить
+    analytics.connect.accounts.not.found: 'Google Analytics аккаунты не найдены'
+    analytics.select.client.id.title: 'Выберите client id'
+    analytics.select.placeholder: Выберите
+    analytics.select.properties: 'Выберите ресурс'
+    analytics.select.session.id.title: 'Выберите session id'
+    analytics.select.views.title: 'Выберите представление'
+    analytics.title: 'Заполните параметры, чтобы завершить настройку'
+    breadcrumbs.projects: 'Все отчеты'
+    client.accounts.cancel: Отменить
+    client.accounts.confirm: Подтвердить
+    client.accounts.currency: 'Аккаунт в неподдерживаемой валюте'
+    client.accounts.filter.empty: 'Нет соответствующих фильтру аккаунтов'
+    client.accounts.filter.hint: 'Используйте фильтр выше для поиска по списку'
+    client.accounts.filter.limit: 'Показано только {value} результатов'
+    client.accounts.loading: 'Идет получение клиентских аккаунтов'
+    client.accounts.placeholder: 'Клиентский аккаунт'
+    client.accounts.select: 'Выберите клиентские аккаунты'
+    client.accounts.update: 'Обновить список'
+    connectAgencyAccounts.btn.add: Сохранить
+    connectAgencyAccounts.recommendation.title: Рекомендации
+    connectAgencyAccounts.selected.adAccounts.title: 'Выбрано рекламных аккаунтов'
+    connectAgencyAccounts.selected.adAccounts.value: '{accounts} {accounts, plural, one {аккаунт} few {аккаунта} many {аккаунтов} other {аккаунтов}}'
+    connectAgencyAccounts.selected.analyticsAccounts.title: 'Аналитических аккаунтов'
+    connectAgencyAccounts.selected.analyticsAccounts.value: '{accounts} {accounts, plural, one {аккаунт} few {аккаунта} many {аккаунтов} other {аккаунтов}}'
+    connectAgencyAccounts.title: 'Название отчета'
+    direct.connect.loading.text: 'Загружаем данные об аккаунтах'
+    error.account.notActivated: 'Не удалось возобновить сбор данных'
+    error.account.notDeleted: 'Не удалось удалить аккаунт'
+    error.account.notMoved: 'Не удалось переместить аккаунт {accountName}'
+    error.adwords.noAccounts: 'Google Adwords аккаунты не найдены'
+    error.analytics.noAccounts: 'Google Analytucs аккаунты не найдены'
+    error.analytics.noDimensions: 'Не удалось получить "Специальные параметры и показатели" для вашего аккаунта. Повторите попытку или обратитесь в службу Заботы.'
+    error.analytics.noProperties: 'Не удалось получить "Ресурсы" для вашего аккаунта. Повторите попытку или обратитесь в службу Заботы.'
+    error.analytics.notReceived.Accounts: 'Не удалось получить Google Analytics аккаунты'
+    error.analytics.noViews: 'Не удалось получить "Представления" для вашего аккаунта. Повторите попытку или обратитесь в службу Заботы.'
+    error.clientAddAccounts.noAccounts: 'Не удалось получить клиентские аккаунты'
+    error.connect.adwords: 'Не удалось подключить Google Adwords аккаунт. Повторите попытку или обратитесь в службу Заботы.'
+    error.connect.analytics: 'Не удалось привязать Google Analytics. Повторите попытку или обратитесь в службу Заботы.'
+    error.connect.clientAddAccounts: 'Не удалось подключить рекламные аккаунты. Повторите попытку или обратитесь в службу Заботы.'
+    error.connect.direct: 'Не удалось подключить Yandex Direct аккаунт. Повторите попытку или обратитесь в службу Заботы.'
+    error.connect.metrika: 'Не удалось привязать Yandex Metrika. Повторите попытку или обратитесь в службу Заботы.'
+    error.direct.noAccounts: 'Yandex Direct аккаунты не найдены'
+    error.hide: Закрыть
+    error.metrika.counters: 'Не удалось получить счетчики'
+    error.metrika.noAccounts: 'Yandex Metrika аккаунты не найдены'
+    error.metrika.noCounters: 'Yandex Metrika счётчики не найдены'
+    error.metrika.notReceived.accounts: 'Не удалось получить Yandex Metrika аккаунты'
+    error.metrika.notReceived.counters: 'Не удалось получить Yandex Metrika счетчики'
+    error.noResponse.text: 'Повторите попытку или обратитесь в службу Заботы'
+    error.noResponse.title: 'Не удалось получить данные'
+    error.project.notLoaded: 'Не удалось получить отчет'
+    error.project.notRenamed: 'Не удалось переименовать отчет'
+    error.projects.notCreated: 'Не удалось создать отчет'
+    error.projects.notDeleted: 'Не удалось удалить отчет'
+    error.refresh: Обновить
+    error.reload: 'Перезагрузить страницу'
+    error.retry: Повторить
+    error.unrecoverable.message: 'Попробуйте перезагрузить страницу'
+    error.unrecoverable.title: 'Произошла ошибка'
+    hint.account.add: 'Чтобы получить первый отчет, подключите источник данных.'
+    hint.account.created: 'Аккаунт успешно подключен.'
+    hint.account.finished: 'Статистика собрана. Теперь вы можете скачать шаблон отчета, перейти в Power BI и обновить отчет.<br />В нем должны появиться графики и показатели на основе полученных данных.'
+    hint.account.finished.btn: 'Скачать шаблон'
+    hint.account.not.found: 'Невозможно подключить аккаунт.'
+    hint.account.progress: 'Пока мы собираем статистику, почитайте, как настроить отчеты в Power BI.<br />Сбор данных обычно занимает 15-30 минут, но все зависит от объема информации.'
+    hint.account.progress.btn: Читать
+    hint.close: Закрыть
+    metrika.connect: 'Привязать счетчик'
+    metrika.counter.site: Сайт
+    metrika.counter.status: Статус
+    metrika.counter.status.Active: активен
+    metrika.counter.status.Deleted: удален
+    modal.cancel: Отмена
+    modal.confirm.delete: 'Вы уверены, что хотите удалить отчет "{name}"?'
+    modal.delete: Удалить
+    pagen.not.found: 'Страница не найдена'
+    pbi.alert.text: 'При большом количестве объявлений, загрузка данных о них может привести к снижению производительности Power BI'
+    pbi.data.btn.save: Сохранить
+    pbi.data.checkbox: 'Загружать данные об объявлениях'
+    pbi.data.title: 'Настройки загрузки данных в Power BI'
+    pbi.download.button: Скачать
+    pbi.download.text: 'Скачайте Power BI с официального сайта Microsoft'
+    pbi.error.text: Ошибка
+    pbi.error.title: 'Настройки загрузки данных в Power BI'
+    pbi.form.copied: Скопировано!
+    pbi.form.notice: 'Логин и пароль в шаблонах в Power BI не совпадает с логином и паролем в eLama'
+    pbi.login.btn: Скопировать
+    pbi.login.title: 'Логин для подключения Power BI'
+    pbi.login.tooltip: 'Скопировать логин'
+    pbi.password.btn: Скопировать
+    pbi.password.title: Пароль
+    pbi.password.tooltip: 'Скопировать пароль'
+    pbi.template.text.expert: 'Мы собираем данные и загружаем их в Power BI, а вы создаете на их основе собственный отчет. Основные метрики уже добавлены в шаблон.'
+    pbi.template.text.head: 'Шаблон содержит визуализации и метрики по ключевым показателям рекламы. Он позволяет быстро формировать отчетность для клиента. Кроме того, в шаблоне есть более детальная статистика по кампаниям, типам устройств и типам сети. А понятные визуализации упростят ежедневный мониторинг и помогут оперативно реагировать на изменения показателей.'
+    pbi.template.text.headEcommerce: 'Помимо статистики рекламных систем, шаблон содержит данные из электронной коммерции UA : revenue, ROMI, ДРР, количество просмотров карточек товара, добавлений в корзину и транзакций.'
+    pbi.template.title.expert: Эксперту
+    pbi.template.title.head: 'Специалисту по рекламе'
+    pbi.template.title.headEcommerce: 'Специалисту по рекламе. E-commerce'
+    pbi.templates.title: 'Шаблоны отчетов'
+    pbi.title: 'Подключение Power BI'
+    project.credentials.title: 'Настройка доступа для'
+    project.delete: Удалить
+    project.edit.cancel: Отмена
+    project.edit.confirm: Подтвердить
+    project.edit.link: 'Перейти по ссылке'
+    project.edit.text: 'Кликните, чтобы отредактировать'
+    project.inactiveNote: 'Сбор данных отчета {projectName} был приостановлен по причине отсутствия активности. Хотите продолжить работу с отчетом?'
+    project.new.create: Создать
+    project.new.name: 'Название отчета'
+    project.new.toggle: 'Создать отчет'
+    project.resumeDataCollection: 'Возобновить сбор данных'
+    project.settings: 'Настройки отчета'
+    project.showCredentials: 'Настройка доступа'
+    project.status.loading: 'Данные собираются'
+    project.status.ready: 'Данные собраны'
+    projects.empty: 'Нет подходящих отчетов'
+    projects.filter.input: 'Поиск по названию, ID'
+    projects.filter.noMatches: 'Ничего не найдено'
+    projects.filter.reset: 'Сбросить фильтр'
+    projects.loading: 'Загрузка отчетов...'
+    success.account.move: 'Аккаунт {accountName} перемещен'
+    success.connect.adwords: 'Аккаунт успешно подключен'
+    success.connect.analytics: 'Google Analytics успешно привязана'
+    success.connect.clientAddAccounts: 'Выбранные аккаунты успешно подключенны'
+    success.connect.direct: 'Аккаунт успешно подключен'
+    success.connect.metrika: 'Yandex Metrika успешно привязана'
+    tab.accounts: Аккаунты
+    tab.pbiSettings: 'Шаблоны Power BI'
+    tab.projects: Отчеты
+    table.column.accounts.ad: 'Рекламные аккаунты'
+    table.column.accounts.analytics: 'Аналитические аккаунты'
+    table.column.connectedAdAccounts: Подключено
+    table.column.connectedAdAccounts.value: '{accounts} {accounts, plural, one {рекламный аккаунт} few {рекламных аккаунта} many {рекламных аккаунтов} other {рекламных аккаунтов}}'
+    table.column.connectedAnalytics: 'Аналитические системы'
+    table.column.resources: Ресурс
+    table.column.statuses: Статус
+    table.column.views: Представление
+Sidebar:
+    accounts: Аккаунты
+    accounts.admin: 'Админка аккаунтов'
+    users.admin: 'Админка пользователей'
+    alerts.admin: 'Уведомления'
+    ad.groups: 'Группы объявлений'
+    ads: Объявления
+    agency: 'Мои клиенты'
+    argos.refresh: 'Обновление рекламных материалов'
+    audiences: Аудитории
+    billing.admin: 'Админка биллинга'
+    calculator: 'Калькулятор искренней ставки'
+    campaigns: Кампании
+    cross.minus: Кросс-минусация
+    crossAuth.logout: Выйти
+    facebookTools.leadAds: 'Импорт лидов из Facebook'
+    facebookTools.botConnection: 'Подключение к Telegram-боту'
+    fb.ads.moderation: 'Премодерация Facebook'
+    feedbackLink: 'Отзывы и предложения'
+    finance: Финансы
+    import.campaigns: 'Копирование кампаний Яндекс.Директ'
+    instruments: Инструменты
+    keyword.combinator: 'Комбинатор ключевых слов'
+    keywords: 'Ключевые слова'
+    lingvo.generator: Лингвогенератор
+    logout: Выйти
+    managers.panel: 'Управлятор 2.0'
+    marketing.admin: 'Админка маркетинга'
+    placements: Площадки
+    profile: Профиль
+    reports: 'Отчеты BI'
+    statistics.logs: 'Логи статистики'
+    statistics.refresh: 'Пересбор статистики'
+    systems: Системы
+    tariff.admin: 'Админка тарифов'
+    tender.logs: 'Логи тендерной'
+    translations.admin: Переводы
+    uploading: 'Выгрузка из&nbsp;Яндекс.Директ в&nbsp;Google Analytics'
+    words: 'Подбор семантики'
+    bidmanager.migration: 'Перенос настроек старого бид-менеджера'
+Statistics:
+    accounts: '{accounts} {accounts, plural, one {рекламный аккаунт} few {рекламных аккаунта} many {рекламных аккаунтов} other {рекламных аккаунтов}}'
+    analytics.google.properties: 'Ресурс:'
+    analytics.google.views: 'Представление:'
+    analytics.metrika.counter: 'Счетчик:'
+    analytics.remove: Удалить
+    analytics.status.off: 'Токен устарел'
+    analytics.status.on: Подключен
+    analytics.noAccounts: Нет данных по системам аналитики
+    clicks: Клики
+    cost: Расходы
+    impressions: Показы
+Status:
+    active: вкл
+    keyword.level: 'Есть активные правила на уровне фраз'
+    status.off: выкл
+    suspended.text: 'Инструмент временно приостановлен'
+    title: Бид-менеджер
+    unsupported.text: 'Для данного типа кампаний инструмент недоступен'
+TableElements:
+    campaign: Кампания
+    keyword: Фраза
+    keyword.level: 'Есть активные правила на уровне фраз'
+    old.bidmanager.active: 'В старом бид-менеджере'
+    status.off: Выкл
+    status.on: Вкл
+    status.suspended: 'Инструмент временно приостановлен'
+    template.ad.first.page: 'Первая страница'
+    template.ad.first.position: 'Первая позиция'
+    template.ad.top.position: 'Вверху первой страницы'
+    template.adwords.fixbid: 'Фиксированная ставка'
+    template.adwords.fixbid.net: 'Фиксированная ставка'
+    template.campaignType.adwords: КМС
+    template.campaignType.direct: РСЯ
+    template.campaignType.search: Поиск
+    template.contextSystem.adwords: Ads
+    template.contextSystem.direct: Директ
+    template.direct.fixbid: 'Фиксированная ставка'
+    template.direct.fixbid.net: 'Фиксированная ставка'
+    template.direct.maxtraffic: 'Максимальный трафик'
+    template.direct.total: 'Охват 100%'
+    template.direct.traffic100: 'Объем трафика 100'
+    template.direct.traffic100plus: 'Объем трафика 100+'
+    template.direct.traffic15: 'Объем трафика 15'
+    template.direct.traffic5: 'Объем трафика 5'
+    template.direct.traffic75: 'Объем трафика 75'
+TableTest:
+    for: для
+Tariff:
+    active.period: 'еще {period} {period, plural, one {день} few {дня} many {дней} other {дней} }'
+    active.period.bonus: '+ {days} {days, plural, one {день} few {дня} many {дней} other {дней} }'
+    active.period.bonus.tooltip: 'Тариф {tariff} продлен бесплатно до {date}'
+    active.until: 'Активен до '
+    activity: 'Активен еще {days} {days, plural, one {день} few {дня} many {дней} other {дней} }'
+    advantage.bidmanager: 'Бид-менеджер без ограничений'
+    advantage.recomendation: 'Рекомендации для всех кампаний'
+    advantage.support: 'Поддержка по всем видам связи'
+    agency.tariff: 'Тариф {tariff} ({price}/мес. для агентств и их клиентов)'
+    autopayment.description.recommendation: 'Если вы не уверены, что будете переводить на рекламу от 7 500 руб. в месяц, советуем не отключать автопродление.'
+    autopayment.description.text: 'Если вы отключите автопродление, то по окончании подписки на Optimal бид-менеджер для всех кампаний и ключевых фраз может отключиться.'
+    autopayment.description.title: 'Отключить автоматическое продление тарифа?'
+    autopayment.interview.answer1: 'Хочу контролировать расходы и оплачивать сам'
+    autopayment.interview.answer2: 'Мне хватает бесплатных возможностей тарифа Basic'
+    autopayment.interview.answer3: 'Не хочу работать с eLama'
+    autopayment.interview.answer4: 'Планирую увеличить бюджет и перейти на Optimal бесплатно'
+    autopayment.interview.answer5: 'Слишком дорого'
+    autopayment.interview.title: 'Почему вы хотите отключить продление?'
+    autopayment.tooltip: 'Функция позволит списать оплату с баланса eLama за тариф {tariff} автоматически.'
+    budget: 'Бюджет {turnover} из {minTurnover}'
+    budget.more: 'Более {minTurnover}'
+    button.add.balance: 'Пополнить баланс eLama'
+    button.buy: 'Купить за {price}/мес.'
+    button.buy.tariff: 'Купить тариф {tariff} за {price}/мес.'
+    button.cancel: Отмена
+    button.close: Закрыть
+    button.done: Готово
+    button.off: Отключить
+    code.basic: Basic
+    code.optimal: Optimal
+    condition: 'Мы бесплатно продлим тариф на следующий месяц, если ваш {link} с {startDate} по {endDate} включительно будет более {minTurnover}'
+    condition.basic: 'Мы бесплатно подключим тариф {tariff} на следующий месяц, если ваш {link} с {startDate} по {endDate} включительно будет более {minTurnover}'
+    condition.description.offer: 'Тариф {tariff} вы сможете купить самостоятельно в личном кабинете любым удобным способом.'
+    condition.description.text: 'Мы продлим тариф {tariff} за {price}, если функция «Продлить автоматически» включена. Если вы ее отключили, то для вас начнет действовать бесплатный тариф {oldTariff}.'
+    condition.description.tooltip: 'Сумма всех переводов на рекламные системы за вычетом возвратов на баланс eLama за период с {startDate} по {endDate} включительно'
+    condition.done: 'Ваши переводы на рекламные системы составили более {minTurnover}. Тариф {tariff} на месяц продлен за {price}'
+    condition.done.basic: 'Ваши переводы на рекламные системы составили более {minTurnover}. Тариф {tariff} на месяц будет подключен за {price}'
+    current.tariff: 'Текущий тариф: {tariff}'
+    extended.tariff: 'Расширенный тариф {tariff}'
+    fee.clients: '{amount} {amount, plural, one {клиент} few {клиента} other {клиентов}}'
+    fee.clients.button: 'К списку клиентов'
+    fee.clients.from: 'От {from} {from, plural, one {клиент} few {клиента} other {клиентов}}'
+    fee.clients.from.to: '{from} - {to} {to, plural, one {клиент} few {клиента} other {клиентов}}'
+    fee.clients.title: 'Тариф купили'
+    fee.info.button: 'Таблица расчета вознаграждения'
+    fee.info.text: '<p>Подключай клиентам our performance tools, увеличивай эффективность их рекламы и бла бла маркетинговый текст о прелестях Optimal;</p> <p>Receive your rewards on a monthly basis. Чем больше тарифов подключишь, тем больше денег получишь. Деньги упадут на баланс и их можно будет вывести на карту.</p> <p>Тут описано, как подключить тариф (залогиниться под клиентом из агентского кабинета, пополнить баланс или заставить клиента, купить Optimal из ЛК клиента.</p>'
+    fee.profit: 'По {sum} за каждого клиента'
+    fee.profit.potential: 'Вы получите'
+    fee.profit.previous: 'Вы получили'
+    fee.table.amount: 'Сколько клиентов купили {tariff}'
+    fee.table.reward: '% Вознаграждения'
+    fee.table.reward.total: 'Ваше вознаграждение'
+    fee.title: 'Подключай тариф {tariff} своим клиентам и получай профит'
+    for.agency: 'Для агентств'
+    label.automatic.prologation: 'Продлить автоматически'
+    label.budget: 'рекламный бюджет'
+    label.price: 'Цена для вас'
+    label.tariff: Тариф
+    link.about: 'О тарифах'
+    link.budget: 'Если рекламный бюджет будет меньше?'
+    link.manager: 'Управление тарифом'
+    link.no.payment: 'Что будет, если не оплатить тариф вовремя?'
+    more.info: 'Подробнее про тариф'
+    my.tariff: 'Мой тариф: {tariff}'
+    payment.congratulations: 'Поздравляем! <br> У вас тариф {tariff}. <br>Выше него только звезды!'
+    payment.done: 'Вы подключили расширенный тариф {tariff}. Теперь доступны все инструменты без ограничений до {date}.'
+    payment.error: 'Мы не смогли списать денежные средства с вашего счета. Попробуйте еще раз или обратитесь в службу заботы eLama.'
+    payment.notification: 'Стоимость тарифа {tariff} будет списана с вашего баланса.'
+    payment.notification.description: 'Через несколько минут после оплаты бид-менеджер включится на тех кампаниях и ключевых фразах, на которых он был автоматически приостановлен.'
+    payment.warning: 'На вашем балансе недостаточно средств для покупки тарифа.'
+    price: '{price}/мес.'
+    price.old: 'обычная {price}/мес.'
+    reason.trial: 'пробный период'
+    tariff: 'Тариф: {tariff}'
+    thanks: 'Сказать «Спасибо»'
+    turnover.max: 'из {value}'
+    turnover.min: '{turnover}'
+    turnover.min.more: 'Более {minTurnover}'
+Template:
+    ad.first.page.description: 'Алгоритм поставит ставку (+ шаг), необходимую для показа объявления на 1 странице поисковой выдачи, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — ставит максимальную ставку.'
+    ad.first.page.name: 'Первая страница'
+    ad.first.position.description: 'Алгоритм поставит ставку (+ шаг), необходимую для показа объявления на 1 позиции в рекламной выдаче, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — поставит максимальную ставку.'
+    ad.first.position.name: 'Первая позиция'
+    ad.top.position.description: 'Алгоритм поставит ставку (+ шаг), необходимую для показа над результатами поиска, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — поставит максимальную ставку.'
+    ad.top.position.name: 'Вверху первой страницы'
+    adwords.fixbid.description: 'Алгоритм поставит ставку, равную заданной в бид-менеджере.'
+    adwords.fixbid.name: 'Фиксированная ставка'
+    adwords.fixbid.net.description: 'Алгоритм поставит ставку, равную заданной в бид-менеджере.'
+    adwords.fixbid.net.name: 'Фиксированная ставка'
+    allowed.interval: 'Допустимые значения 0 до 10000'
+    alpha.template.warning: 'Скоро здесь будет доступно создание и редактирование собственных алгоритмов управления ставками. Сейчас вы можете посмотреть, как выглядят наши алгоритмы в новом формате. Будем рады, если вы поделитесь с нами вашим впечатлением.'
+    bid: ставка
+    bid.100.hint: 'Ставка, необходимая для получения 100% охвата в сетях'
+    bid.first.page.hint: 'Ставка для показа вашего объявления на первой странице Google Поиска'
+    bid.first.position.hint: 'Ставка для показа вашего объявления на 1 позиции в рекламной выдаче Google'
+    bid.top.hint: 'Ставка для показа вашего объявления над результатами Google Поиска'
+    boundaries: 'от {lower} до {upper}'
+    cancel: Отмена
+    close: Закрыть
+    description.title: 'Описание работы шаблона'
+    direct.bid.max.traffic.amount.hint: 'Ставка, необходимая для получения максимального объема трафика'
+    direct.bid.traffic.amount.hint: 'Ставка, необходимая для получения объема трафика {value}'
+    direct.fixbid.description: 'Алгоритм ставит ставку, равную заданной в бид-менеджере.'
+    direct.fixbid.name: 'Фиксированная ставка'
+    direct.fixbid.net.description: 'Алгоритм ставит ставку, равную заданной в бид-менеджере.'
+    direct.fixbid.net.name: 'Фиксированная ставка'
+    direct.maxtraffic.description: 'Алгоритм ищет максимальный объем трафика, для которого списываемая цена не превышает заданную в бид-менеджере списываемую цену. Если такой объем трафика существует — алгоритм поставит ставку, соответствующую этому объему трафика + шаг. При этом можно задать ограничение на ставку в % от списываемой цены. Если такого объема не существует — алгоритм поставит ставку, равную заданной в бид-менеджере списываемой цене.'
+    direct.maxtraffic.name: 'Максимальный трафик'
+    direct.total.description: 'Алгоритм ставит ставку (+ шаг), необходимую для получения охвата 100%, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — ставит максимальную ставку.'
+    direct.total.name: 'Охват 100%'
+    direct.traffic100.description: 'Алгоритм ставит ставку (+ шаг), необходимую для получения объема трафика 100, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — ставит заданную максимальную ставку.'
+    direct.traffic100.name: 'Объем трафика 100'
+    direct.traffic100plus.description: 'Алгоритм поставит ставку (+ шаг), необходимую для получения максимального объема трафика, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — поставит заданную максимальную ставку.'
+    direct.traffic100plus.name: 'Объем трафика 100+'
+    direct.traffic15.description: 'Алгоритм поставит ставку (+ шаг), необходимую для получения объема трафика 15, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — поставит заданную максимальную ставку.'
+    direct.traffic15.name: 'Объем трафика 15'
+    direct.traffic5.description: 'Алгоритм поставит ставку (+ шаг), необходимую для получения объема трафика 5, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — ставит заданную максимальную ставку.'
+    direct.traffic5.name: 'Объем трафика 5'
+    direct.traffic75.description: 'Алгоритм ставит ставку (+ шаг), необходимую для получения объема трафика 75, если она меньше максимальной ставки, заданной в бид-менеджере. Если она больше — ставит заданную максимальную ставку.'
+    direct.traffic75.name: 'Объем трафика 75'
+    else.block: Иначе
+    empty.error: 'Название не может быть пустым'
+    enter.name: 'Введите название'
+    enter.value: Введите
+    error.toast: 'Не удалось поменять шаблон.'
+    exists.error: 'Шаблон с таким названием уже существует'
+    first.page: 'первой страницы'
+    first.position: 'первой позиции'
+    for: для
+    for.traffic: 'для объема трафика'
+    if.block: Если
+    leave.feedback: Написать
+    limit.hint: 'На сколько % ставка может превышать заданную в бид-менеджере максимальную списываемую цену'
+    limit.short: огр.
+    long.name.error: 'Длина названия не должна быть больше 70 символов'
+    max.bid: 'макс. ставка'
+    max.bid.hint: 'Заданная в бид-менеджере максимальная ставка, которая может быть поставлена на ключевое слово'
+    max.bid.limit: 'ограничение макс. ставки'
+    max.bid.max.price.text: 'Не превышать ставку более чем на'
+    max.bid.max.price.tooltip.text: 'В некоторых случаях ставка может в разы превышать списываемую цену, и отдельные клики могут быть очень дорогими. Чтобы избежать этого, советуем ограничить ставку, которую бид-менеджер отправляет в Директ.'
+    max.price: 'макс. спис. цена'
+    max.price.hint: 'Заданная в бид-менеджере максимальная списываемая цена, которую вы готовы платить за клик'
+    max.traffic: 'макс. объема трафика'
+    min: минимум
+    min.hint: 'Выбирает наименьшее из 2 значений, заданных в скобках через точку с запятой'
+    not.owned.error: 'Вы не можете менять данный шаблон'
+    of.price: '% от списываемой цены'
+    price: 'спис. цена'
+    price.hint: 'Средняя цена, которую вы заплатите за клик для получения максимального объема трафика'
+    price.maxtraffic.hint: 'Средняя цена, которую вы заплатите за клик для получения максимального объема трафика'
+    rename: Переименовать
+    save: Сохранить
+    save.as.new: 'Сохранить как новый шаблон'
+    save.changes: 'Сохранить изменения'
+    save.force: 'Всё равно сохранить'
+    feedback.leave: 'Оставить отзыв'
+    set.bid: 'установить ставку'
+    settings.update.cascade.both: 'Изменения будут применены к {campaigns} {campaigns, plural, one {кампании} many {кампаниям} other {кампаниям}} и {keywords} {keywords, plural, one {ключевому слову} many {ключевым словам} other {ключевым словам}}'
+    settings.update.cascade.campaigns: 'Изменения будут применены к {campaigns} {campaigns, plural, one {кампании} few {кампании}  many {кампаниям} other  {кампаниям}}'
+    settings.update.cascade.keywords: 'Изменения будут применены к {keywords} {keywords, plural, one {ключевому слову} other {ключевым словам}}'
+    spoiler.title: 'Как работает этот шаблон?'
+    step: Шаг
+    step.hint: 'Сколько будет прибавлено к ставке для выбранного вами объема трафика'
+    step.tooltip.text: 'На сколько больше или меньше, чем стоимость этой позиции, вы готовы платить за переходы по рекламе (в {currency} или процентах). Минимальное значение — {minValue} {currency} или 0.01%'
+    success.toast: 'Шаблон успешно обновлен'
+    update.success.toast: 'Шаблон успешно обновлен'
+    create.success.toast: 'Создан новый шаблон'
+    template: 'Шаблон: {templateName}'
+    template.algo: Шаблон
+    then.block: То
+    top.first.page: 'верха первой страницы'
+    total: 'охвата 100%'
+    new.template.name: 'Название нового шаблона'
+    template.name.copy: 'Копия'
+    origin.not.found.error: 'Шаблон не найден'
+    id.not.found.error: 'Шаблон не найден'
+    invalid.step.error: 'Неверное значение шага'
+    empty.step.error: 'Не задано значение шага'
+    onboarding.intro: 'Вы можете переименовать шаблон'
+    onboarding.two.ways.first: 'Созданный шаблон можно:'
+    onboarding.two.way.second: '• сохранить (изменения будут применены ко всем кампаниям и фразам, на которые настроен шаблон);'
+    onboarding.two.way.third: '• сохранить как новый (новый шаблон появится в общем списке).'
+    onboarding.advanced.settings: 'Вы можете задать дополнительные настройки для выбранного алгоритма'
+    onboarding.feedback: 'Пожалуйста, оставляйте свои комментарии и предложения. Это поможет сделать работу с инструментом удобнее.'
+    onboarding.save.elama.template: 'Созданный шаблон можно сохранить как новый (новый шаблон появится в общем списке)'
+    button.next: Дальше
+    button.finish: Завершить
+TimeTargeting:
+    button.apply: Применить
+    button.close: Закрыть
+    button.edit: 'Редактировать расписание'
+    correctBids: 'Корректировка ставок'
+    customSettings: 'Свои настройки'
+    day.friday: ПТ
+    day.monday: ПН
+    day.saturday: СБ
+    day.sunday: ВС
+    day.thursday: ЧТ
+    day.tuesday: ВТ
+    day.wednesday: СР
+    differentSettings: Различное
+    error.BelowFortyBusinessHours: 'Выбрано менее 40 часов работы кампании в рабочие дни'
+    error.campaignFetchError: 'Не удалось получить кампанию. Попробуйте позже.'
+    error.emptyCampaigns: 'Кампании пустые'
+    error.header: 'Сервис временно недоступен'
+    error.IntervalsPerDayLimitExceeded: 'Количество непрерывных диапазонов для одного дня не может быть больше шести'
+    error.subtitle: 'Повторите запрос позже'
+    error.ZeroHours: 'Расписание не может быть пустым'
+    notice.adwords: 'Вы можете увеличить или уменьшить все ставки кампании в определенные часы. Корректировка может быть от 10% до 1000%, где 100% — текущая ставка. Корректировка 0 означает, что реклама не показывается.'
+    notice.clickToEdit: 'Нажмите, чтобы настроить одинаковое расписание.'
+    notice.direct: 'Вы можете увеличить или уменьшить все ставки кампании в определенные часы. Корректировка может быть от 0 до 200%, где 100% — текущая ставка. Шаг корректировки равен  10%. Корректировка 0 означает, что реклама не показывается.'
+    notice.doesntSame: 'У выбранных кампаний не совпадает расписание показов.'
+    notify.fail: 'Не удалось обновить расписание показов'
+    notify.success: 'Расписание показов обновлено'
+    schedule.fulltime: Круглосуточно
+    schedule.off: Выключен
+    schedule.weekends: Выходные
+    schedule.workdays: Будни
+    schedule.worktime: 'Рабочее время'
+    timezone: 'Часовой пояс'
+    timezone.ads: 'Вы можете задать часовой пояс для Google Ads только на уровне аккаунта.'
+    timezone.America/Argentina/Buenos_Aires: 'Буэнос-Айрес (GMT -03:00)'
+    timezone.America/Denver: 'Денвер (GMT -07:00)'
+    timezone.America/Los_Angeles: 'Лос-Анджелес (GMT -08:00)'
+    timezone.America/Mexico_City: 'Мехико (GMT -06:00)'
+    timezone.America/Santo_Domingo: 'Санто-Доминго (GMT -04:00)'
+    timezone.America/Toronto: 'Торонто (GMT -05:00)'
+    timezone.Asia/Chita: 'Чита (GMT +09:00)'
+    timezone.Asia/Irkutsk: 'Иркутск (GMT +08:00)'
+    timezone.Asia/Kamchatka: 'Петропавловск-Камчатский (GMT +12:00)'
+    timezone.Asia/Krasnoyarsk: 'Красноярск (GMT +07:00)'
+    timezone.Asia/Omsk: 'Омск, Алматы, Астана (GMT +06:00)'
+    timezone.Asia/Srednekolymsk: 'Среднеколымск (GMT +11:00)'
+    timezone.Asia/Vladivostok: 'Владивосток (GMT +10:00)'
+    timezone.Asia/Yekaterinburg: 'Екатеринбург, Актау, Актобе (GMT +05:00)'
+    timezone.Different: Различные
+    timezone.Europe/Berlin: 'Берлин (GMT +01:00)'
+    timezone.Europe/Kaliningrad: 'Калининград (GMT +02:00)'
+    timezone.Europe/London: 'Лондон (GMT +00:00)'
+    timezone.Europe/Moscow: 'Москва (GMT +03:00)'
+    timezone.Europe/Samara: 'Самара (GMT +04:00)'
+    title.campaigns: '{campaigns} {campaigns,plural, one {кампания} few {кампании} other {кампаний}}'
+    title.help: 'Часовой пояс и время показа вашей рекламной кампании по местному времени'
+    title.title: 'Расписание показов'
+    unknown: Неизвестен
+ToolSelector:
+    argos.timetargeting.title: 'Настроить расписание показов'
+    bidmanager.bulk.change.bid.title: 'Изменить ставки бид-менеджера'
+    bidmanager.bulk.change.status.title: 'Изменить статус бид-менеджера'
+    bidmanager.settings.title: 'Настроить бид-менеджер'
+    optimizer.bulk.settings.title: 'Настроить оптимизатор'
+    selected: 'Выбрано:'
+    tools.header: Инструменты
+    utm.bulk.settings.title: 'Настроить UTM-разметку'
+TranslationsAdmin:
+    translations: Переводы
+    export: Выгрузить
+    message.error: Не удалось выгрузить переводы (Сообщите в отдел разработки)
+    message.success: Выгрузка переводов начата (Проверьте обновление в течение 5 мин.)
+TransferMoneyWidget:
+    adwords.transfer.duration: 'Зачисление средств на аккаунт в системе Google Ads может занимать до {time}'
+    adwords.transfer.time: '4 часов'
+    amount: 'На сумму'
+    button.close: Закрыть
+    commission: Комиссия
+    common.error.message: 'Платежи временно недоступны'
+    common.systems.success: 'Перевод на сумму {amount} успешно выполнен! Обращаем ваше внимание, что время обновления информации о вашем балансе в рекламных системах может занимать до 4 рабочих часов.'
+    direct.transfer.duration: 'Яндекс может зачислять деньги на баланс до {time}.'
+    direct.transfer.time: '20 минут'
+    error.amount.gt.than.max: 'Не более {amount}'
+    error.amount.input.gt.than.max: 'Недостаточно средств на балансе'
+    error.amount.lt.than.min: 'Не менее {amount}'
+    facebook.transfer.duration: 'Facebook может зачислять деньги на баланс до {time}.'
+    facebook.transfer.time: '4 рабочих часов'
+    from.eLama: 'Перевести с баланса eLama'
+    known.systems.done: выполнен
+    known.systems.success: 'Перевод на сумму {amount} {done}.'
+    min.max.payment: 'От {min} {max}'
+    not.enough.money: 'Недостаточно средств на балансе'
+    refill: Пополнить
+    refill.google: 'Пополнить в Google'
+    to.deposit: 'К зачислению'
+    to.max.amount: 'до {max}'
+    transfer: Перевести
+    vat: НДС
+    vat.is.not.charged: 'не взимается'
+    vkontakte.transfer.duration: 'Вконтакте может зачислять деньги на баланс до {time}.'
+    vkontakte.transfer.time: '20 минут'
+Utm:
+    action.accept.button: Применить
+    action.accept.notification: 'Автоматическая UTM-разметка применена'
+    action.delete.button.adwords: 'Удалить UTM-метки из Google Ads'
+    action.delete.button.bulk: 'Удалить UTM-метки у выбранных кампаний'
+    action.delete.button.direct: 'Удалить UTM-метки из Яндекс.Директ'
+    action.delete.notification: 'Метки будут удалены из объявлений.{delimiter}Автоматическая UTM-разметка выключена'
+    action.delete.tooltip: 'Добавленные UTM-метки будут удалены из рекламной кампании. Инструмент будет отключен.'
+    action.delete.tooltip.bulk: 'Добавленные UTM-метки будут удалены из рекламных кампаний. Инструмент будет отключен.'
+    action.off.button: Выключить
+    action.off.notification: 'Автоматическая UTM-разметка выключена'
+    action.on.button: Включить
+    action.on.notification: 'Автоматическая UTM-разметка включена'
+    additional.button.add: 'Добавить параметр'
+    additional.placeholder.name: 'Укажите название параметра'
+    additional.placeholder.value: 'Укажите значение параметра'
+    bulk.campaigns.many: кампаний
+    bulk.campaigns.one: кампания
+    bulk.campaigns.two: кампании
+    bulk.placeholder.differentNames: 'В кампаниях разные названия'
+    bulk.placeholder.differentValues: 'В кампаниях разные значения'
+    bulk.placeholder.notAdd: 'Метка не будет добавлена'
+    bulk.selected: Выбрано
+    bulk.tooltip.not.supported.campaign.type: 'Инструмент доступен только для кампаний типа «Поиск», «Сеть», «Поиск+Сеть». Среди выбранных кампаний есть кампании других типов, для них инструмент не будет применен.'
+    error.failed: 'Не удалось применить изменения. Попробуйте позже.'
+    error.unavailable: 'Сервис временно не доступен. Попробуйте позже.'
+    header: 'Автоматическая UTM-разметка'
+    header.tooltip.adwords: 'Инструмент автоматически добавляет и обновляет UTM-метки в существующих и новых объявлениях.{delimiter}О настройке читайте в {quote}{link}{quote}.{delimiter}{boldstart}'
+    header.tooltip.bulk: 'Инструмент автоматически добавляет и обновляет UTM-метки в существующих и новых объявлениях.{delimiter}О настройке читайте в {quote}{link}{quote}.{delimiter}{boldstart}'
+    header.tooltip.direct: 'Инструмент автоматически добавляет и обновляет UTM-метки в существующих и новых объявлениях.{delimiter}О настройке читайте в {quote}{link}{quote}.{delimiter}{boldstart}Важно!{boldend} Инструмент расходует баллы Директ API.'
+    header.tooltip.here.adwords: Помощи
+    header.tooltip.here.bulk: Помощи
+    header.tooltip.here.direct: Помощи
+    notification.customParamsWarning.button: 'Вернуть настройки eLama'
+    notification.customParamsWarning.message: 'При использовании своих параметров некоторые {link} eLama могут работать некорректно.'
+    notification.customParamsWarning.message.linktext: инструменты
+    status.off: выкл
+    status.on: вкл
+    status.title: UTM-разметка
+    tags.utmCampaign.description: 'Передает название рекламной кампании.'
+    tags.utmCampaign.label: 'Название кампании (utm_campaign)'
+    tags.utmCampaign.tooltip.adwords: '{squarebracketsstart}eLama-campaign-name{squarebracketsend} — это динамический параметр eLama, который передает название рекламной кампании, указанное в Google Ads. {link}'
+    tags.utmCampaign.tooltip.adwords.linktext: Подробнее
+    tags.utmCampaign.tooltip.direct: '{squarebracketsstart}eLama-campaign-name{squarebracketsend} — это динамический параметр eLama, который передает название рекламной кампании, указанное в Яндекс.Директе. {link}'
+    tags.utmCampaign.tooltip.direct.linktext: Подробнее
+    tags.utmContent.description: 'Передает дополнительную информацию.'
+    tags.utmContent.label: 'Содержание объявления (utm_content)'
+    tags.utmContent.tooltip.adwords: '{squarebracketsstart}eLama-link{squarebracketsend} — это динамический параметр eLama, который передает дополнительную информацию о кампании. {link}'
+    tags.utmContent.tooltip.adwords.linktext: Подробнее
+    tags.utmContent.tooltip.direct: '{squarebracketsstart}eLama-link{squarebracketsend} — это динамический параметр eLama, который передает дополнительную информацию о кампании. {link}'
+    tags.utmContent.tooltip.direct.linktext: Подробнее
+    tags.utmMedium.description: 'Передает тип источника трафика (например, cpc, email)'
+    tags.utmMedium.label: 'Канал кампании (utm_medium)'
+    tags.utmMedium.tooltip.adwords: 'Метка передает тип трафика. Например{colon} {italicsstart}cpc, social, email, display и т.п.{italicsend}'
+    tags.utmMedium.tooltip.direct: 'Метка передает тип трафика. Например{colon} {italicsstart}cpc, social, email, display и т.п.{italicsend}'
+    tags.utmSource.description: 'Передает источник перехода (например, yandex, google)'
+    tags.utmSource.label: 'Источник кампании (utm_source)'
+    tags.utmSource.tooltip.adwords: 'Метка передает информацию о том, из какого рекламного источника осуществляются переходы на ваш сайт. Например{colon} {italicsstart}yandex, google, vk, facebook, email и т.п.{italicsend}'
+    tags.utmSource.tooltip.direct: 'Метка передает информацию о том, из какого рекламного источника осуществляются переходы на ваш сайт. Например{colon} {italicsstart}yandex, google, vk, facebook, email и т.п.{italicsend}'
+    tags.utmTerm.description: 'Передает ключевое слово, с которого начался показ объявления.'
+    tags.utmTerm.label: 'Ключевое слово в кампании (utm_term)'
+    tags.utmTerm.tooltip.adwords: 'Метка передает информацию о ключевом слове. Например{colon} {italicsstart}\{keyword\}, \{phrase_id\} и т.п.{italicsend}'
+    tags.utmTerm.tooltip.direct: 'Метка передает информацию о ключевом слове. Например{colon} {italicsstart}\{keyword\}, \{phrase_id\} и т.п.{italicsend}'
+    tooltip.not.supported.campaign.type: 'Для данного типа кампаний инструмент недоступен'

@@ -1,0 +1,1843 @@
+AccountBalanceWidget:
+    balance: 'saldo:'
+    error: 'Saldo: erro'
+    loading: 'Saldo: carregando ...'
+Accounts:
+    button.close: Fechar
+    EmptyAccountCampaigns.adwords.button: 'Ir para'
+    EmptyAccountCampaigns.adwords.message: 'Por favor, vá para Google Ads e crie sua campanha'
+    EmptyAccountCampaigns.adwords.title: 'Você ainda não tem campanhas.'
+    EmptyAccountCampaigns.direct.button: 'Ir para'
+    EmptyAccountCampaigns.direct.message: 'Por favor, vá para Yandex Direct e crie sua campanha'
+    EmptyAccountCampaigns.direct.title: 'Você ainda não tem campanhas.'
+    label.login: Login
+    label.password: Senha
+    menu.archive: Ocultar
+    menu.forward.access.google.ads: 'Obter acesso direto à conta'
+    menu.go.to.direct: 'Ir para Yandex.Direct'
+    menu.go.to.facebook: 'Ir para Facebok'
+    menu.go.to.google.ads: 'Ir para Google Ads'
+    menu.go.to.target.mail.ru: 'Ir para MyTarget'
+    menu.go.to.vkontakte: 'Ir para Vkontakte'
+    menu.name.edit: renomear
+    menu.password.show: 'Mostrar senha'
+    menu.unarchive: Mostrar
+    NameIdFilter.placeholder: 'Buscar pelo nome, ID'
+    password.description: 'Se a recuperação da senha falhar, criaremos uma nova conta para você nesta plataforma. Suas campanhas, seus parâmetros, indicadores de desempenho e fundos no saldo permanecerão.'
+    status.hidden: Oculto
+    SystemCodeFilter.all: Tudo
+adGroups:
+    ad.action.archive: 'Arquivar anúncio'
+    ad.action.delete: 'Excluir anúncio'
+    ad.action.edit: 'Editar anúncio'
+    ad.action.moderate: 'Enviar para moderação'
+    ad.action.start: 'Iniciar anúncio'
+    ad.action.stop: 'Pausar anúncio'
+    ad.action.unarchive: 'Desaquivar anúnio'
+    ad.group.status.archive: Arquivado
+    ad.group.status.delete: Oculto
+    ad.group.status.draft: Rascunho
+    ad.group.status.moderation: 'Em revisão'
+    ad.group.status.pending: Atualizando
+    ad.group.status.reject: 'Reprovadas pela moderação.'
+    ad.group.status.run: Ativo
+    ad.group.status.spawning: 'Em criação (desenvolvimento)'
+    ad.group.status.stop: Inativo
+    common.empty: 'Lista de anuncios está vazia'
+    common.reload: 'Tente recarregar a página'
+    error.banned: proibido
+    error.constraint.chars: 'Pode conter apenas letras, numeros e s[imbolos'
+    error.double.symbol: 'símbolo duplo'
+    error.link: 'Verifique o link'
+    error.narrow.chars: 'O número maxino de caracteres "estreitos" excedido'
+    error.space: espaço
+    error.symbol: símbolo
+    error.symbols: símbolos
+    error.text.length: 'Não pode exceder'
+    error.underline: 'Símbolo sublinhar'
+    error.word.length: 'Palavra não pode exceder'
+    label.apply: Aplicar
+    label.cancel: Cancelar
+    label.create: Criar
+    label.create.new.ad: 'Criar novo anúncio'
+    label.display.link: 'link em exibição'
+    label.group: 'Grupo de anúnios'
+    label.link: URL
+    label.rollup: 'Minimizar para o deslizador'
+    label.show: 'Mostrar tudo'
+    label.text: Descrição
+    label.title1: 'Título 1'
+    label.title2: 'Título 2'
+    placeholder.display.link: 'Digite o link para exebição'
+    placeholder.link: 'insira URL'
+    placeholder.text: 'insira descrição'
+    placeholder.title: 'insira título'
+Advisor:
+    account: Conta
+    alright: 'Você está bem'
+    campaign: Campanha
+    effect: 'Efeito esperado'
+    error: 'Ocorreu um erro, já estamos trabalhando para consertá-lo ...'
+    onboarding.cancel: Cancelar
+    onboarding.close: Fechar
+    onboarding.next: Próximo
+    onboarding.restart: 'Começar novamente'
+    onboarding.step: Ajuste
+    open: Otimizador
+    recommendation: Recomendação
+    recommendation.adgroups.group: 'Grupo de anúncios N.º {id}'
+    recommendation.adgroups.groups: Grupos
+    recommendation.adgroups.more: Mais
+    recommendation.ads.ad: 'Número de anúncio {id}'
+    recommendation.ads.ads: Anúncios
+    recommendation.ads.combine: 'Grupo de anúncios "{groupName}", anúncio numero {id}'
+    recommendation.ads.more: Mais
+    recommendation.auction: Modelos
+    recommendation.auction.tooltip: 'Essa recomendação ajudará a exibir seus anúncios em {link} diferentes e a obter mais tráfego'
+    recommendation.auction.tooltip.help: modelos
+    recommendation.critical: Crítico
+    recommendation.hide: Esconder
+    recommendation.instruction: instrução
+    recommendation.more: 'Ler mais'
+    recommendation.tariff.restriction.message.description: 'Conecte o Plano Optimal e obtenha recomendações sem restrições.'
+    recommendation.tariff.restriction.message.title: 'Seu plano é básico. {delimiter}. Você tem 3 recomendações de campanha de anúncios disponíveis para você.'
+    recommendation.video: vídeo
+    recommendation.warning: Importante
+    reload: 'Atualize a lista de recomendações'
+    study: 'Fazer treinamento'
+    title: Otimizador
+    title.tooltip: 'O Otimizador analisa as campanhas publicitárias e aconselha como torná-las mais eficazes. Leia mais sobre a ferramenta em {link}'
+    title.tooltip.help: Ajuda
+Agency:
+    Accounts.accounts: '{accounts} {accounts, plural, one {conta} other {contas}}'
+    AddClient.add.client: 'Adicionar cliente'
+    AdvertisingSystems.adwords: 'Google Ads'
+    AdvertisingSystems.all: Todas
+    AdvertisingSystems.facebook: Facebook
+    AdvertisingSystems.other: 'Outras plataformas'
+    AdvertisingSystems.vkontakte: Vkontakte
+    AttachingOffer.add.client: 'Adicionar cliente'
+    AttachingOffer.bind: Vincular
+    AttachingOffer.client.id: 'ID do cliente'
+    AttachingOffer.client.login: 'login do cliente eLama'
+    AttachingOffer.client.mcc: 'ID MCC Ads (caso possui)'
+    AttachingOffer.notification.error: Erro
+    AttachingOffer.notification.error.advice: 'Entre em contato com Serviço de Suporte'
+    AttachingOffer.notification.error.description: 'Não é possível vincular este cliente.'
+    AttachingOffer.notification.success.message: 'Sua solicitação foi enviada com sucesso'
+    AttachingOffer.required.input: 'campo obrigatório'
+    AttachingOfferPage.agent: 'Esquema de colaboração de "agente"'
+    AttachingOfferPage.agentCondition4: 'Os funcionários da eLama não fazem anuncios do cliente.'
+    AttachingOfferPage.agentConditionDescription: 'Este esquema será adequada para você se:'
+    AttachingOfferPage.agentDescription: 'para quem faz anunios dos clientes'
+    AttachingOfferPage.agentDescriptionAfterCondition1: 'Para trabalhar de acordo com este esquema, é necessário ter ao menos 3 clientes ativos. O volume de investimento mínimo abrengendo todos os clientes é de {value}'
+    AttachingOfferPage.agentDescriptionAfterCondition2: 'Após preenchimento do formulário, enviaremos ao cliente uma notificação sobre como adicionar sua conta à sua agência.'
+    AttachingOfferPage.agentDescriptionAfterCondition3: 'Avise o cliente para confirmar aceitar os termos clicando no link no email.'
+    AttachingOfferPage.agentDescriptionAfterCondition4: 'Quando um cliente é adicionado, ele aparecerá na guia " Eu gerencio"'
+    AttachingOfferPage.agentDescriptionAfterConditionMCC: 'Para receber uma comissão de agência, a conta do seu cliente não deve estar vinculada a nenhuma MCC. Se necessário, você pode vincular uma conta de cliente à sua MCC depois de se conectar ao eLama.'
+    AttachingOfferPage.header: 'Vincular cliente à agência'
+    AttachingOfferPage.partner: 'Esquema de cooperação "Mediador"'
+    AttachingOfferPage.partnerConditionDescription: 'Este esquema será adequada para você se:'
+    AttachingOfferPage.partnerDescription: 'para quem convidou o cliente a trabalhar de maneira independente no eLama'
+    AttachingOfferPage.partnerDescriptionAfterCondition1: 'Dentro de 6 meses a partir do momento de vinculação do cliente, você receberá uma recompensa no valor de {percent}% de transferências para sistemas de publicidade feitas pelo cliente.'
+    AttachingOfferPage.partnerDescriptionAfterCondition2: 'Quando um cliente é adicionado, seu nome de usuário aparecerá na guia "Eu atrai"'
+    AttachingOfferPage.role.agent: 'Eu sou um agente, eu mesmo faço anúncioos do meu cliente'
+    AttachingOfferPage.role.partner: 'Sou um intermediário, convido clientes para trabalharem com eLama'
+    BackPanel.back: Voltar
+    Brief.brazil: Brasil
+    Brief.linkText: Consentimento
+    ClientList.confirmDelete.cancel: Cancelar
+    ClientList.confirmDelete.delete: 'Excluir mesmo assim'
+    ClientList.confirmDelete.text: 'Você deixará de receber recompensas e gerenciar campanhas para esse cliente'
+    ClientList.header.accounts: Contas
+    ClientList.header.balance: 'Seus créditos'
+    ClientList.header.date: 'Data de vinculaçaõ'
+    ClientList.header.tariff: Plano
+    ClientList.rename: Renomear
+    ClientsList.error: 'não foi possível receber informações da conta'
+    ClientStatus.claim.reward: 'Recebo comissão'
+    ClientStatus.expired: 'Periodo expirado'
+    ControlsPanel.sort.by: 'Ordenar por'
+    DateSorting.dateAsc: 'data de adição, antigo primeiro'
+    DateSorting.dateDesc: 'data adicionada, mais recente primeiro'
+    DatesPeriod.period: 'Período de remuneração:'
+    Document.title: 'Conta Gerente'
+    EmptyClientsList.agency: 'Você não tem clientes que gerencia'
+    EmptyClientsList.mediator: 'Você não tem clientes atraídos'
+    EmptyClientsList.orders: 'Você não tem pedidos'
+    EmptyClientsList.outdated.mediator: 'Você não tem clientes arquivados'
+    Header.title: 'Lista de clientes'
+    Login.login: 'Fazer login'
+    OrderItem.delete: Excluir
+    OrderItem.retry: Repetir
+    OrderStatus.approved: 'Aguardando confirmação do cliente'
+    OrderStatus.rejected: Rejeitado
+    Placeholder.loginAndId: 'Pesquisa por login ou ID'
+    Placeholder.nameAndId: 'Pesquisa por nome ou ID'
+    ReconfirmationOffer.header: 'Confirmar a oferta novamente'
+    ReconfirmationOffer.offers.acceptButton: 'Aceitar e continuar o trabalho'
+    ReconfirmationOffer.offers.entity: 'Pessoa Jurídica ou empreendedor individual'
+    ReconfirmationOffer.offers.entityAcceptOffer: 'Para continuar, você deve aceitar os termos da nova'
+    ReconfirmationOffer.offers.entityAcceptOffer.link: oferta.
+    ReconfirmationOffer.offers.entityCheckBox: 'Eu concordo com a nova'
+    ReconfirmationOffer.offers.entityCheckBox.link: oferta.
+    ReconfirmationOffer.offers.entityDescription: 'Para agências que trabalham com o programa de parceiros como uma pessoa jurídica ou como um empreendedor individual.'
+    ReconfirmationOffer.offers.header: 'Aceite a nova oferta'
+    ReconfirmationOffer.offers.individual: 'Pessoa física'
+    ReconfirmationOffer.offers.individualAcceptOffer: 'Aceite a nova oferta no site do parceiro'
+    ReconfirmationOffer.offers.individualDescription: 'Para agências que trabalham com o programa de parceiros como um indivíduo.'
+    SignUpForm.accountLink: 'Já tem uma conta?'
+    SignUpForm.agree: 'Eu concordo com o processamento,'
+    SignUpForm.agreeLink: 'dados pessoais'
+    SignUpForm.email: 'Email,'
+    SignUpForm.legalEntity: 'Pessoa jurídica'
+    SignUpForm.password: 'Senha,'
+    SignUpForm.phone: 'Telefone,'
+    SignUpForm.privatePerson: 'Pessoa física'
+    SignUpForm.submit: 'Registre-se,'
+    SignUpForm.username: 'Login,'
+    Sorting.balanceAsc: 'saldo, primeiro menor'
+    Sorting.balanceDesc: 'saldo, primeiro maior'
+    Sorting.dateAsc: 'data de adição, antigo primeiro'
+    Sorting.dateDesc: 'data adicionada, mais recente primeiro'
+    TabPanel.agency: 'Eu gerencio'
+    TabPanel.mediator: Atrai
+    TabPanel.orders: Aplicações
+    TabPanel.outdatedMediator: Expirado
+    Tariff.buyOptimal: 'Comprar Optimal'
+    Tariff.daysLeft: 'Você tem {days} {days, plural, one {dias restantes} few {dias restantes} many {dias restantes} other {dias restantes}}'
+    Tariff.error: 'Não foi possível obter o plano'
+    TypeSorting.all: 'Todos os clientes'
+    TypeSorting.archive: 'Clientes arquivados'
+    TypeSorting.mediator: 'Clientes ativos'
+BalanceWidget:
+    alert.fund.holding.title: 'Seu saldo está bloqueado'
+    error: 'Saldo: erro'
+    loading: Carregando
+    payment.success.done: 'creditado ao saldo'
+    payment.success.ready: Pronto
+    refill: Recaregar
+Bell:
+    notifications.empty: 'Você não tem notificações'
+BidmanagerSettings:
+    advanced.settings: 'Configurações avançadas'
+    allowed.interval: 'Os valores válidos são de 0 a 10.000'
+    apply: Aplicar
+    bid.adwords.boundaries: 'de 0,01 a 100'
+    bid.direct.boundaries: 'de 0,3 a 10.000'
+    bidmanager: 'Gerenciador de lances'
+    boundaries: 'de {lower} até {upper}'
+    campaign_type.MIXED: Pesquisa/Display
+    campaign_type.NETWORK: 'Rede de Display'
+    campaign_type.SEARCH: 'Rede de Pesquisa'
+    campaigns: '{campaigns, plural, one {campanhas} other {campanhas}}'
+    different: Diferentes
+    disabled: 'Gerenciador de Lances desativado para {campaigns} {campaigns, plural, one {campanhas} other {campanhas}}'
+    disabled.error: 'Não foi possível desativar o gerenciador de lances de {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    disabled.error.keywords: 'Não foi possível desativar o gerenciador de lances para {keywords} {keywords, plural, one {palavra-chave} other {palavras-chave}}'
+    disabled.keywords: 'O Bid Manager desativado para {keywords} {keywords, plural, one {palavra-chave}  other {palavras-chave}}'
+    edit.template: 'Ajustes avançados'
+    elama.templates: 'Ajustes padrão eLama'
+    enable: Ativar
+    enabled: 'Gerenciador de lances ativado para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    enabled.error: 'O gerenciador de lances falhou para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    enabled.error.keywords: 'Não foi possível ativar o gerenciador de lances para {keywords} {keywords, plural, one {palavra-chave} other {palavras-chave}}'
+    enabled.keywords: 'Gestor de lances ativado para {keywords} {keywords, plural, one {palavras-chave} other {palavras-chave}}'
+    enter.value: Entrar
+    general.error: 'Não foi possível aplicar as configurações do gerenciador de lances para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    general.error.keywords: 'Não foi possível aplicar as configurações do gerenciador de lances para {keywords} {keywords, plural, one {palavra-chave} few {palavras-chave} other {palavras-chave}}'
+    header.tooltip: 'O eLama atualiza os lances automaticamente no sistema de publicidade, ajuda a economizar tempo e a obter a quantidade necessária de tráfego. Para personalizar a ferramenta, selecione um dos modelos e especifique o preço máximo que você está disposto a pagar por clique. <br/> <a href="https://help.elama.global/hc/pt-br/articles/360007428994-Como-configurar-o-gerenciador-de-lances-para-o-Google-Ads"> Saiba mais </a>'
+    header.tooltip.text: 'eLama atualiza automaticamente os lances no sistema de publicidade. Isto ajuda a economizar tempo e obter a quantidade necessária de tráfego. Para personalizar a ferramenta, selecione um dos modelos e especifique o preço máximo que você está disposto a pagar por clique. <br/> <a href="{helpLink}"> Leia mais </a>'
+    keywords: '{keywords, plural, one {keywords} other {keywords}}'
+    lim: limit.
+    load.error: 'Erro ao carregar dados. Tente novamente a solicitação mais tarde.'
+    max.bid: 'Taxa máxima'
+    max.bid.max.price.text: 'Não exceda o lance em mais de'
+    max.bid.max.price.tooltip.text: 'Em alguns casos, a taxa pode ser várias vezes superior ao preço cobrado e os cliques individuais podem ser muito caros. Para evitar isso, recomendamos limitar a taxa que o gerente de lances envia ao Direct.'
+    net.adwords: Ads
+    net.facebook: Facebook
+    new.template.settings.moved.content: 'Agora, especifique o ajuste e defina uma restrição adicional para o tráfego máximo nas configurações do modelo. Para fazer alterações, vá para "Ajustes avançados".'
+    new.template.settings.moved.title: '"Ajustes avançadas" foram copiadas'
+    of.price: '% do preço cobrado'
+    onboarding.switchOptimizer.title: 'Nova ferramenta "Otimizador"'
+    own.templates: 'Meus ajustes'
+    price: 'Preço máximo cobrável'
+    select: Selecione
+    settings.update.error: 'Não foi possível aplicar as configurações do gerenciador de lances'
+    settings.update.error.long: 'Não foi possível aplicar as configurações do gerenciador de lances para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    settings.update.error.long.keywords: 'Não foi possível aplicar as configurações do gerenciador de lances para {keywords} {keywords, plural, one {palavras-chave} other {palavras-chave}}'
+    settings.update.success: 'As configurações do gerenciador de lances são aplicadas para'
+    settings.update.success.long: 'As configurações do gerenciador de lances foram aplicadas a {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    settings.update.success.long.keywords: 'As configurações do gerenciador de lances são aplicadas a {keywords} {keywords, plural, one {palavras-chave} other {palavras-chave}}'
+    setup: 'Personalizar o gerenciador de lances'
+    status.update.error: 'Não foi possível alterar o status do gerente de lances'
+    status.update.success: 'Status do gerenciador de lances alterado para'
+    status.update.warning: 'Status do gerenciador de lances alterado para'
+    status.update.warning.continues: 'não conseguiu alterar o status para'
+    step: Passo
+    step.adwords.boundaries: 'de 0,01 a 100'
+    step.direct.boundaries: 'de 0,1 a 1000'
+    step.percent.boundaries: 'de 1 a 100'
+    step.tooltip.text: 'Quanto mais ou menos do que o custo dessa posição você está disposto a pagar por conversões em publicidade (em {currency} ou porcentagem). O valor mínimo é {minValue} {currency} ou 0,01%'
+    stop: Parar
+    suspended: 'Gerenciador de Lances suspenso para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    suspended.keywords: 'Gestor de lances suspenso para {keywords} {keywords, plural, one {palavra-chave} other {palavras-chave}}'
+    template: Posição
+    template.ad.first.page: 'Primeira página'
+    template.ad.first.position: 'Primeira posição'
+    template.ad.top.position: 'No topo da primeira página'
+    template.adwords.fixbid: 'Taxa fixa'
+    template.adwords.fixbid.net: 'Taxa fixa'
+    template.direct.fixbid: 'Taxa fixa'
+    template.direct.fixbid.net: 'Taxa fixa'
+    template.direct.maxtraffic: 'Tráfego máximo'
+    template.direct.total: '100% de cobertura'
+    template.direct.traffic100: 'Volume de tráfego 100'
+    template.direct.traffic100plus: 'Quantidade de tráfego 100+'
+    template.direct.traffic15: 'Volume de tráfego 15'
+    template.direct.traffic5: 'Volume de tráfego 5'
+    template.direct.traffic75: 'Volume de tráfego 75'
+    template.name.copy: Cópia
+    templateSettingNotification: 'Se você alterar estes ajustes, um novo modelo será criado. Você pode aplicá-lo a outras campanhas e palavras-chave. Em pouco tempo, a edição das configurações avançadas estará disponível na seção "Ajustes Avançados".'
+    templateSettingOnboardingCloseButton: Ok!
+    templateSettingOnboardingText: 'Ajustes avançados agora fazem parte dos modelos. Quando você altera as ajustes avançados, um novo modela é criado. Você pode utilizar este  modelo para outras campanhas e palavras-chave. <br/> <br/> Se você já alterou as ajustes avançados padrão, significa que você criou seus próprios modelos novos. Em pouco tempo, a edição dos ajustes avançados estará disponível na seção "Ajustes Avançados".'
+    unavailable: Indisponível
+    wrong.type: 'As campanhas selecionadas são de um tipo diferente ou inadequado.'
+BillingAdminPanel:
+    fund.holding.cancellation.error: 'Erro no bloqueio de saldo'
+    fund.holding.cancellation.reason: 'Especifique o motivo pelo qual você está bloqueando o saldo'
+    fund.holding.cancellation.success: 'Bloqueio cancelado com sucesso'
+BulkChangeBid:
+    bid.change: 'Editar taxas do gerenciador de lances'
+    bid.decrease.full: 'Reduzir o lance'
+    bid.decrease.short: 'Diminuir por'
+    bid.increase.full: 'Aumente seu lance'
+    bid.increase.short: 'Ampliar o zoom'
+    bid.limit.lower: 'Aposta de limite inferior'
+    bid.limit.upper: 'Aposta de limite superior'
+    bid.update.error: 'Não foi possível alterar os lances'
+    bid.update.error.long: 'Não foi possível alterar os lances porque gerenciador de lances não configurado em campanhas selecionadas'
+    bid.update.success: 'Os planos foram atualizados para'
+    bid.update.warning: 'lances atualizadas para'
+    bid.update.warning.continues: 'Não foi possível atualizar para'
+    campaign: campanhas
+    campaigns: campanhas
+    keyword: 'palavra chave'
+    keywords: palavras-chave
+    optionally: opcional
+    toolbox.apply: Aplicar
+BulkStatus:
+    apply: Aplicar
+    campaigns: '{campaigns} {campaigns,plural, one {campanha} other {campanha}}'
+    choose.action: 'Escolha uma ação'
+    disabled: 'gerenciador de lances desativado para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    disabled.error: 'Não foi possível desativar o gerenciador de lances de {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    enabled: 'gerenciador de lances ativado para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    enabled.error: 'gerenciador de lances falhou para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    status.update.error: 'Falha ao aplicar alterações de status'
+    status.update.success: 'O status foi alterado para'
+    status.update.warning: 'Status alterado para'
+    status.update.warning.continues: 'Não foi possível alterar o status para'
+    suspended: 'gerenciador de lances suspenso para {campaigns} {campaigns, plural, one {campanha} other {campanhas}}'
+    title: 'Alterar o status do gerenciador de lances'
+    turn.off: 'Desligue o gerenciador de lances'
+    turn.on: 'Ativar gerenciador de lances'
+CampaignBalanceWidget:
+    balance: Saldo
+    error: 'Saldo: erro'
+CampaignInfo:
+    status.active: Ativo
+    status.archived: Arquivada
+    status.draft: 'Em revisão'
+    status.ended: Pausado
+    status.paused: Suspenso
+CampaignInfoCard:
+    button.goToDirect: '-'
+    button.goToGoogleAds: 'Ir para o Google Ads'
+    button.setupTimeTargeting: 'Personalize o seu horário de exibição'
+    campaignType.application: APLICATiVOS
+    campaignType.cpmBanner: DISPLAY
+    campaignType.dynamic: DINÂMICO
+    campaignType.mixed: 'PESQUISA + NET'
+    campaignType.mobile: MOBILE
+    campaignType.network: REDE
+    campaignType.search: PESQUISA
+    campaignType.shopping: TRADING
+    campaignType.unknown: 'TIPO DESCONHECIDO'
+    directCopy.error: 'Não foi possível baixar o arquivo'
+    display.campaignId: '№ {id}'
+    error.campaignDataFetchError: 'Não foi possível obter todos os dados da campanha. Tente novamente mais tarde.'
+    error.campaignFetchError: 'Não foi possível receber a campanha. Por favor, tente mais tarde.'
+    error.campaignNotFound: 'Campanha{id} não foi encontrada.'
+    menuitem.copyDirect: 'Faça o download do arquivo em formato para o Google Ads'
+CampaignInfoStatus:
+    action.archive: 'Para arquivar'
+    action.enabled: Ativar
+    action.moderate: 'Enviar para moderação'
+    action.paused: Pausar
+    action.removed: Excluir
+    action.resume: Ativar
+    action.suspend: Pausar
+    action.unarchive: Desarquivar
+    camp.delete.cancel: Cancelar
+    camp.delete.force: 'Apagá-las mesmo assim'
+    camp.delete.warn: 'Сampanhas excluidas não podem ser restauradas'
+    error.campaignFetchError: 'Não foi possível obter a campanha. Tente novamente mais tarde.'
+    error.campaignNotFound: 'Campanha {id} não encontrada.'
+    message.statusFetchError: 'Não foi possível obter o status. Tente novamente mais tarde'
+    message.statusNotUpdated: 'Falha ao atualizar o status da campanha'
+    message.statusUpdated: 'Status da campanha atualizado'
+    message.updating: Atualização
+    status.activating: Ativação
+    status.active: 'Campanha em andamento'
+    status.archived: Arquivado
+    status.converted: Convertido
+    status.deleted: Removido
+    status.draft: Rascunho
+    status.ended: Finalizadas
+    status.moderation: 'Em revisão'
+    status.noFunds: 'Sem saldo'
+    status.paused: Pausadas
+    status.rejected: Reprovadas
+    status.unknown: Desconhecido
+CarrotQuest:
+    dialogs_history: 'Histórico de comunicação'
+    dialogs_zerodata: 'Não tem dialogos ativos. Você não conversou conosco antes'
+    enter_email: 'Digite seu email'
+    enter_message: 'Digite a sua mensagem e aperte Enviar'
+    enter_phone: 'Informe o número do telefone'
+    leave_email: 'Você pode deixar seu email aqui e nós continuaremos esta conversa por email.'
+    messenger_collapsed_text: 'Me pergunte'
+    messenger_offline_message: 'Olá, agradecemos pelo seu contato. Não estamos online no momento. Por favor, deixe a sua pergunta aqui e a nossa equipe responderá assim que possível.  Nosso horário de atendimento é das 9h às 18h de segunda à sexta.'
+    messenger_welcome_message: 'Olá. Qual é a sua dúvida? Astamos aqui para te ajudar     '
+    new_message: 'Nova mensagem'
+    thanks: Obrigado
+Common:
+    adwords.audience.warning: 'Esta ferramenta define lances somente para palavras-chave. Os lances para públicos-alvo podem ser especificadas em Google Ads.'
+    after.payment.warning: 'O gerenciamento de lances será retomado após o pagamento.'
+    alpha.version: 'Versão Alpha'
+    bidmanager.suspended: 'Gerenciador de lances suspenso'
+    bidmanager.welcome: 'Bem-vindo ao novo gerente de lances!'
+    Calendar.RightMenu.compare: 'Comparar períodos de desempenho'
+    Calendar.RightMenu.custom: 'Exibir para'
+    Calendar.RightMenu.last30: Mês
+    Calendar.RightMenu.last7: Semana
+    Calendar.RightMenu.thisMonth: 'Este mês'
+    Calendar.RightMenu.thisWeek: 'Esta semana'
+    Calendar.RightMenu.yesterday: Ontem
+    campaigns: '{campaigns, plural, one {campanha} other {campanhas}}'
+    check.keywords: Visualizar
+    controls.apply: Aplicar
+    controls.cancel: Cancelar
+    controls.close: Fechar
+    countries.BRA: Brasil
+    disable: Desligar
+    good: Bom
+    hint.header: 'Compartilhe opiniões'
+    hint.popup.first: 'Se você configurar um gerenciador de lances na nova interface, ele será desativado no antigo para a campanha correspondente. A qualquer momento, você pode ligá-lo novamente na interface antiga - as configurações não serão excluídas.'
+    hint.popup.second: 'Compartilhe feedback e sugestões através do formulário de feedback: teremos todo o gosto em receber ideias!'
+    keywords: '{keywords, plural, one {palavra-chave} other {palavras-chave}}'
+    keywords.warning: 'Esta campanha tem regras do gerenciador de lances ativas para frases-chave individuais.'
+    languages.pt_BR: Português
+    mass.operations.header: 'Operações de massa'
+    new.rules.header: Modelos
+    new.rules.popup.first: 'Agora, as regras do gerenciador de lances são modelos que você pode personalizar para campanhas ou palavras-chave. Agora eles correspondem às regras da versão anterior da ferramenta.'
+    new.rules.popup.second: 'No futuro, você poderá editar e criar seus próprios modelos.'
+    newTestKey: 'test Key'
+    next: Mais
+    nice.popup.first: 'Tentamos levar em conta seus desejos e tornar o gerenciador de lances mais conveniente e funcional do que a versão anterior.'
+    nice.popup.second: 'Embora esteja em desenvolvimento, agora você pode usar os novos recursos, que em breve se tornarão ainda mais.'
+    nice.popup.third: 'Nós esperamos que você goste deles :)'
+    old.keyword.warning.body.first: 'A ferramenta para esta campanha já está configurada na versão antiga da conta pessoal.'
+    old.keyword.warning.body.second: 'Para fazer configurações no novo gerenciador de lances, desative-o no gabinete antigo.'
+    old.keyword.warning.header: 'Não é possível configurar um gerenciador de lances para palavras-chave.'
+    old.warning: 'A campanha está executando a versão antiga do gerenciador de lances. Se você ligar a ferramenta na nova interface, ela será desativada na antiga. A qualquer momento, você pode ativar o antigo gerenciador de lances na interface antiga - as configurações não serão excluídas.'
+    Paginator.from: do
+    Paginator.itemsPerPage: 'Número de linhas'
+    schedule.header: 'Mostrar horário'
+    schedule.popup: 'Fizemos o show agendar uma configuração separada para que você possa personalizá-lo independentemente do gerente de lances. Em breve será possível ajustar as taxas para o horário.'
+    selected: 'Escolhido:'
+    Site.title: eLama
+    start: 'Comece a namorar'
+    statistics.header: 'Gestão de estatísticas'
+    statistics.popup: 'E nas estatísticas, as configurações do gerenciador de lances são exibidas: o modelo selecionado e o lance máximo, que podem ser alterados diretamente da tabela, com base nas estatísticas.'
+    systems.adwords: 'Google Ads'
+    systems.calltouch: CallTouch
+    systems.facebook: Facebook
+    systems.google: 'Google Ads (R$)'
+    systems.toelama: 'eLama Agency'
+    systems.toelamapackage: 'eLama Pacotes'
+    your.plan: 'Seu Plano'
+ConnectSystem:
+    accounts.empty: 'Lista de clientes está vazia'
+    analytics.calltouch.account-name: 'Nome da conta'
+    analytics.calltouch.id: 'ID do site'
+    analytics.calltouch.token: 'Token de acesso'
+    analytics.calltouch.token.error: 'O token deve ter 45 caracteres sem espaços'
+    analytics.calltouch.token.tooltip: 'Token de acesso exclusivo ao Calltouch para enviar uma solicitação de API ao Calltouch. Você pode obtê-lo na seção Configurações => API da sua conta pessoal do Calltouch.'
+    analytics.elama-accounts.google-analytics.title: 'Vincular à conta de Analytics'
+    analytics.elama-accounts.title: 'Link para uma conta de publicidade'
+    analytics.elama-accounts.title.remove: Excluir
+    analytics.elama-accounts.title.selected: Selecionado
+    analytics.error.no-accounts: 'Nenhuma conta'
+    analytics.error.no-valid.accounts: 'Nenhuma conta correspondente'
+    analytics.google-analytics.error.no-accounts: 'Contas do Google Analytics n?o encontradas'
+    analytics.google-analytics.select.accounts: 'Conta do Google Analytics'
+    analytics.google-analytics.select.properties: 'Recursos e Aplicativos'
+    analytics.google-analytics.select.views: Submissões
+    analytics.google-analytics.title: 'Preencha seus dados para finalizar a configuração'
+    analytics.help: Ajuda
+    analytics.notification: 'Para a vinculação correta de dados entre sistemas, é necessário que a tags automática do UTM do eLama seja configurada para suas campanhas. Leia sobre o processo de configuração em {link}.'
+    analytics.select: Selecione
+    analytics.title: 'Preencha as configurações para concluir a configuração.'
+    button.add: Adicionar
+    button.back.to.accounts: 'Voltar para a lista de contas'
+    button.cancel: Cancelar
+    button.cancel.request: 'Cancelar pedido'
+    button.close: Fechar
+    button.connect: Conectar
+    button.connect.account: 'Conectar conta'
+    button.done: Pronto
+    button.link.up: Conectar
+    button.return: Voltar
+    button.send.request: 'Enviar solicitação'
+    calltouch.name: '-'
+    calltracking.description: 'Digite o endereço do site para o qual você vai usar Calltracking.ru'
+    calltracking.name: Calltracking
+    care.service: 'Serviço de suporte'
+    direct.name: 'Se você não tiver uma conta, {link}'
+    error.analytics.noValidAccounts: 'Nenhuma conta correspondente'
+    error.noAddAccounts: 'Nenhuma conta'
+    facebook.name: Facebook
+    field.ad.label: 'Exemplo de anúncio'
+    field.email.label: email
+    field.email.placeholder: exemplo@globo.com
+    field.image.label: 'Imagem no anúncio'
+    field.login.label: Login
+    field.site.label: site
+    field.site.placeholder: exemplo.com.br
+    field.social.label: 'Página da empresa no Facebook ou Instagram'
+    field.vk.placeholder: 'https://exemplo.com.br/id000'
+    form.error: 'Vocé já conectou a conta {systemName} ou enviou uma solicita??o. Para adicionar uma conta {systemName} adicional, envie-nos um e-mail para {email}'
+    ga.name: 'Google Analytics'
+    google.ads.name: 'Google Ads'
+    import.error: 'Erro ao vincular'
+    import.error.already.exists: 'Esta conta já está associada com uma conta eLama'
+    import.error.customer.not.found: 'Não é possível conectar conta'
+    import.error.invalid.currency: 'São aceitas contas somente em reais'
+    import.error.is.mcc: 'Gerente de Conta do Google'
+    import.error.not.ads.user: 'Não é possível conectar conta'
+    import.error.read.only.access: 'Erro ao vincular a conta'
+    import.success: 'Conectado com sucesso'
+    import.tooltip: 'Motivos possíveis: vocé não é o administrador dessa conta, uma conta foi criada recentemente, a configuração da conta não foi conclu?da ou uma conta já foi adicionada ao eLama. Tente novamente mais tarde ou envie um e-mail {email}'
+    import.tooltip.customer.not.found: 'Sua conta pode estar bloqueada, a criação da conta ainda não foi concluída (os dados de pagamento ou outra infomação foi adicionada), a conta não existe ou a conta foi criada recentemente (tente novamente em 5 minutos). Se o problema não puder ser resolvido, envie um e-mail para {email}'
+    import.tooltip.invalid.currency: 'Agora só trabalhamos com contas em dólares americanos.'
+    import.tooltip.is.mcc: 'Esta conta gerencia contas de clientes. {link} como vincular.'
+    import.tooltip.not.ads.user: 'Possíveis motivos: a conta do Google Ads não existe. {email}'
+    import.tooltip.read.only.access: 'A conta ainda não foi criada ou você não tem permissão para fazer alterações. Você pode não ser o administrador dessa conta.'
+    label.connect: 'Conexão {systemName}'
+    label.connect.unavailable: 'Vinculação{systemName} não está liberada'
+    link.contract: 'criar um contrato'
+    link.email.question: 'Não recebeu email?'
+    link.empty.accounts: 'Não consegue ver a conta que você quer?'
+    link.register: 'cadastre-se agora'
+    mcc: 'Veja aqui'
+    metrika.name: '-'
+    my.target.name: '-'
+    notification.cancel.request: 'Pedido de conexão do sistema foi cancelado'
+    notification.done: 'Pedido de conexão {systemName} enviado'
+    notification.error.cancel: 'Erro ao cancelar o pedido'
+    notification.error.connect: 'Erro de Conexão'
+    notification.error.email: 'Formato de email inválido'
+    notification.error.empty: 'Campos obrigatórios'
+    notification.error.field: 'O campo preenchido incorretamente'
+    notification.error.format: 'Formato de arquivo inválido. Extensões de arquivos válidas são gif, jpg, jpeg, png'
+    notification.error.image: 'Carregue uma foto'
+    notification.error.link: 'Digite o link para o site'
+    notification.error.server: 'Erro do servidor'
+    notification.mail: 'Nós avise por {email}'
+    notification.success.connect: 'Conectado com sucesso'
+    notification.warning.waiting: 'O pedido de conexão da conta será processado no prazo de 4 horas úteis'
+    notification.warning.waiting.request: 'Dentro de 4 horas úteis, você receberá um e-mail de {systemName} com um link para acessar sua conta.'
+    terms.agreement: 'Aceito as {conditions} e sou ciente com os {compliance} para processamento dos meus dados pessoais'
+    terms.agreement.compliance: consentimento
+    terms.agreement.conditions: 'termos de uso'
+    terms.create.account: 'criar sua conta'
+    terms.create.text: 'Para criar sua primeira conta, {link}'
+    terms.description: 'Depois de se conectar, você será redirecionado para o Google. <br/> Permita que o aplicativo eLama acesse sua conta'
+    terms.disclaimer: 'eLama não transfere informações para terceiros. Você pode fechar sua conta a qualquer momento'
+    terms.limitation: 'Uma conta para ser conectada deve estar inativa (sem visualizações) nos últimos 90 dias'
+    terms.support: 'Por enquanto trabalhamos somente com as contas em reais'
+    terms.title: 'Termos de vinculação de conta'
+    text.ul.contract: 'Temporariamente, só é possível trabalhar {systemName} com serviço eLama como pessoas jurídicas e empreendedores individuais. Por favor, {contractLink}, efetue o pagamento como pessoa jurídica e deixe a solicitação para vinculaçao da conta {systemName} novamente. Importante, que você recebera uma nova conta. Para saber como migrar as suas campanhas atuais, por favor entre {faq}.'
+    text.ul.mail: 'Se você trabalha com a eLama como um indivíduo e deseja conectar sua conta do {systemName}, manda mensagem para {email} para uma análise individual do aplicativo.'
+    title.ad: Publicidade
+    title.ad.question: 'O que você pretende anunciar'
+    title.analytics: Analytics
+    title.customers.selector: 'Selecione as contas que serão conectadas ao eLama'
+    vk.name: '-'
+    yagla.name: '-'
+ContactsDropdown:
+    affiliate.department: 'Departamento de Programa de Parceiros'
+    agency: Agência
+    care.service: 'Serviço de atendimento'
+    contacts: Contatos
+    faq: 'Perguntas frequentes'
+    GeoIpId.all: Brasil
+    Header.agency: 'Agência: {name}'
+    Header.general: 'Equipe de Suporte'
+    Header.manager: 'Gerente:{name}'
+    personal.manager: 'Gerente pessoal'
+    Title.general: 'Fale conosco'
+    Weekday.FR: Sex
+    Weekday.MO: Seg
+    Weekday.SA: Sab
+    Weekday.SU: Dom
+    Weekday.TH: Qui
+    Weekday.TU: Ter
+    Weekday.WE: Qua
+DailyBudget:
+    budget.adWordsValidationBounds: 'a partir de 0,04 R$'
+    budget.applyButton: Configurar
+    budget.resetButton: Reset
+    budget.title: 'Orçamento diário'
+    budget.titleWithCurrency: 'Orçamento diário {currency}'
+    budget.unableToUpdateBudget: 'Não foi possível atualizar o orçamento diário da campanha'
+    budget.updateRetriesLeft: 'Limite diário de atualização de orçamento excedido'
+    budget.updateSuccessful: 'Orçamento diário atualizado com sucesso'
+    budget.validationBounds: 'de {value}{currency}'
+    budget.validationError: 'Valor mínimo é {value}{currency}'
+    displayMode: 'Modo de exibição'
+    displayMode.distributed: Distribuído
+    displayMode.standard: Standard
+    displayMode.tooltipText: '<b> 1padrão</b> 2 - a publicidade é exibida sem interrupção até o orçamento diário terminar <br/><br/> <b>Distribuído</b> - o orçamento é esticado durante todo o dia. A publicidade pode parar se o orçamento não for suficiente para entrega contínua'
+    error.campaignFetchError: 'Não foi possível obter a campanha. Tente novamente mais tarde.'
+    input.placeholder: 'Não definido'
+DocumentsUploadWidget:
+    button.cancel: Cancelar
+FacebookTools:
+    lead.nav.statistic: 'Estatistica das campanhas'
+    lead.settings.frequency.hours: '{hours, plural, one {hora} other {horas}}'
+    lead.table.headers.campaign: Campanha
+    lead.table.headers.company: Campanha
+    lead.table.headers.date: Data
+    lead.table.headers.email: email
+    lead.table.headers.form: Formulário
+    lead.table.headers.name: Nome
+    lead.table.headers.phone: Telefone
+    lead.table.headers.status: Status
+    lead.table.headers.time: Hora
+    mod.ad.reject.reason.ad_forbidden_goods: 'Publicidade dos produtos proibídos'
+    mod.ad.reject.reason.forbidden_finance_tools: 'Instrumentos financeiros proibídos'
+    mod.filter.field.user: Usuário
+Filterama:
+    Toolbox.close: Fechar
+    Toolbox.errorMessage: '<b>Erro ao carregar dados!</b><br/> Já sabemos sobre o problema, tente recarregar a página'
+FilteramaFilters:
+    button.apply: Aplicar
+    filter.accountInfo.FilterStatus.ALL: Todas
+    filter.accountInfo.FilterStatus.ARCHIVED: Ocultas
+    filter.accountInfo.FilterStatus.NOT_ARCHIVED: 'Todas (exceto ocultas)'
+    filter.accounts.byName: 'Pesquisar por nome, ID'
+    filter.byBidderStatus: 'Status do Gerenciador de Lances'
+    filter.byName: 'Pesquisar por nome'
+    filter.campaignInfo.bidmanagerStatus.active: Habilitado
+    filter.campaignInfo.bidmanagerStatus.off: 'Off'
+    filter.campaignInfo.bidmanagerStatus.oldOn: 'Incluído no antigo'
+    filter.campaignInfo.bidmanagerStatus.suspended: Suspenso
+    filter.campaignInfo.campaignType.APPLICATION: Aplicações
+    filter.campaignInfo.campaignType.DYNAMIC: Dinâmica
+    filter.campaignInfo.campaignType.MIXED: 'Rede de Pesquisa + Rede de Display'
+    filter.campaignInfo.campaignType.MOBILE: Mobile
+    filter.campaignInfo.campaignType.NETWORK: Network
+    filter.campaignInfo.campaignType.SEARCH: Pesquisar
+    filter.campaignInfo.campaignType.SHOPPING: Shopping
+    filter.campaignInfo.FilterStatusName.ALL: Todas
+    filter.campaignInfo.FilterStatusName.ARCHIVED: Arquivados
+    filter.campaignInfo.FilterStatusName.NOT_ARCHIVED: 'Todas (exceto excluidas)'
+    filter.campaignInfo.StatusName.ACTIVE: Ativa
+    filter.campaignInfo.StatusName.CONVERTED: Convertido
+    filter.campaignInfo.StatusName.DELETED: Removida
+    filter.campaignInfo.StatusName.DRAFT: Rascunho
+    filter.campaignInfo.StatusName.ENDED: Finalizada
+    filter.campaignInfo.StatusName.MODERATION: 'Em revisão'
+    filter.campaignInfo.StatusName.NO_FUNDS: 'sem créditos'
+    filter.campaignInfo.StatusName.PAUSED: Pausada
+    filter.campaignInfo.StatusName.REJECTED: Reprovadas
+    filter.campaignInfo.StatusName.UNKNOWN: Desconhecido
+    filter.campaignStatus: 'Status da campanha'
+    filter.campaignType: 'Tipo de campanha'
+    selectFilter: 'Selecione o filtro'
+FinancePage:
+    accept.acceptance: 'Li e concordo com os termos de {link},'
+    accept.acceptance.link: 'do contrato'
+    accept.personal.data: 'Eu concordo com {link} para o processamento dos meus dados pessoais'
+    accept.personal.data.link: consentimento
+    add.contract: 'Adicionar um contrato'
+    breadcrumbs.contract.form: 'Adição de contrato'
+    breadcrumbs.contract.form.edit: 'Editação de contrato'
+    breadcrumbs.finance: Finanças
+    contracts.filter.empty: 'Você não tem contratos com as opções de filtro especificadas.'
+    contracts.list.empty: 'Você não tem contratos para adicionar os fundos na sua conta. Crie seu primeiro contrato clicando no botão "Adicionar um contrato".'
+    create.contract.error: 'Ocorreu um erro ao adicionar um contrato'
+    create.contract.success: 'Contrato adicionado com sucesso'
+    delivery.type.general: 'Retirada no escritório'
+    delivery.type.none: 'Não preciso de originais'
+    delivery.type.post: Correio
+    deposit.from.akbFucher: '-'
+    deposit.from.akbKranBank: '-'
+    deposit.from.alfaClick: '-'
+    deposit.from.bankAVB: '-'
+    deposit.from.bankGorod: '-'
+    deposit.from.bankInteza: '-'
+    deposit.from.bogorodskiBank: '-'
+    deposit.from.easyPay: '-'
+    deposit.from.fleksBank: '-'
+    deposit.from.handyBank: '-'
+    deposit.from.individualElamaBill: 'Conta eLama (Pessoa física)'
+    deposit.from.individualEntrepreneurElamaBill: 'Conta eLama (empreendedor individual)'
+    deposit.from.individualEntrepreneurReklamaVInterneteBill: '-'
+    deposit.from.kostromacelkombank: '-'
+    deposit.from.kztBankCard: '-'
+    deposit.from.legalEntityElamaBill: 'Conta eLama (Pessoa jurídica)'
+    deposit.from.legalEntityReklamaVInterneteBill: '-'
+    deposit.from.lipeckiOblastnoiBank: '-'
+    deposit.from.mailMoney: '-'
+    deposit.from.megafon: '-'
+    deposit.from.mezhTopEnergoBank: '-'
+    deposit.from.mts: '-'
+    deposit.from.MutualSettlement: '-'
+    deposit.from.NSBank: '-'
+    deposit.from.obrazovanieBank: '-'
+    deposit.from.promSvyazBank: '-'
+    deposit.from.qiwi: '-'
+    deposit.from.rurBankCard: '-'
+    deposit.from.rurEvroset: '-'
+    deposit.from.rurSvyaznoi: '-'
+    deposit.from.rurTeleMoney: '-'
+    deposit.from.russkiTrastoviBank: '-'
+    deposit.from.sberbankOnline: '-'
+    deposit.from.tatFondBank: '-'
+    deposit.from.vestInterBank: '-'
+    deposit.from.vtb24: '-'
+    deposit.from.walletOne: '-'
+    deposit.from.webmoneyMutualSettlement: '-'
+    deposit.from.webmoneyr: '-'
+    deposit.from.webmoneyu: '-'
+    deposit.from.webmoneyz: '-'
+    deposit.from.yandexMoney: '-'
+    deposit.from.yandexMoneyMutualSettlement: '-'
+    edit.contract.error: 'Ocorreu um erro ao editar o contrato'
+    edit.contract.success: 'Contrato editado com sucesso'
+    fetch.bill.error: '-'
+    fetch.contract.error: 'Ocorreu um erro ao receber o contrato'
+    form.delimiter.headline.bank: Banco
+    form.delimiter.headline.contacts: 'Informação de contato'
+    form.delimiter.headline.delivery.switcher: 'Retirada de documentos'
+    form.header.edit.contract: 'Editar contrato'
+    form.header.new.contract: 'Novo contrato'
+    form.input.address: Endereço
+    form.input.bank.account.id: Conta
+    form.input.bank.id: '-'
+    form.input.bank.name: 'Nome do banco'
+    form.input.contact.person.name: 'Pessoa de contato'
+    form.input.correspondent.account.id: 'Conta correspondente'
+    form.input.email: Email
+    form.input.first.name: 'Primeiro nome'
+    form.input.last.name: Sobrenome
+    form.input.legal.address: 'Endereço fiscal'
+    form.input.legal.name: 'Razão Social'
+    form.input.locality: Cidade
+    form.input.phone: 'Telefone de contato'
+    form.input.postcode: Índice
+    form.input.recipient: Destinatário
+    form.input.region: CEP
+    form.input.second.name: 'Nome do meio'
+    form.input.tax.id: CPF
+    form.type.individual: 'Pessoa física'
+    form.type.legal.entity: 'Pessoa jurídica'
+    form.type.pe: 'Empreendedor individual'
+    history.list.empty: '-'
+    history.total.tooltip: '<b> Adição / dedução </b> dos créditos da conta eLama <br/> <br/> Os valores são calculados com base nos filtros selecionados, inclusive para o período selecionado. Nós não consideramos contas que estão aguardando pagamento.'
+    legal.deposit.bill: '-'
+    list.item.archive.error: 'Erro ao arquivar o contrato'
+    list.item.archive.success: 'O contrato foi arquivado'
+    list.item.control.archive: 'Transferir para arquivo'
+    list.item.control.edit: Editar
+    list.item.control.print: Imprimir
+    list.item.control.unarchive: Desarquivar
+    list.item.unarchive.error: 'Erro ao recuperar o contrato do arquivo'
+    list.item.unarchive.success: 'Contrato foi recuperado do arquivo'
+    personal.data.notification: 'Usamos essas informações para emitir e enviar documentos de fechamento. Verifique se os dados estão corretos.'
+    purpose.agency.payback: 'Comissão de agência'
+    purpose.default.deposit: 'Adicionar fundos'
+    purpose.default.withdrawal: Write-off
+    purpose.individual.deposit: 'adicionar fundos na conta eLama'
+    purpose.legal.deposit: 'adicionar fundos na conta eLama'
+    purpose.planpackage: 'Pagamento de tarifa'
+    purpose.refund: Reembolso
+    purpose.service.tax: 'Taxa de serviço'
+    purpose.toelama: eLama
+    purpose.toelamapackage: 'Pacote de Serviço ELama'
+    purpose.transfer.adwords: 'Transferência para a conta do Google Ads'
+    purpose.transfer.begun: '-'
+    purpose.transfer.calltouch: '-'
+    purpose.transfer.calltracking: '-'
+    purpose.transfer.direct: '-'
+    purpose.transfer.facebook: 'Transferência de conta do Facebook'
+    purpose.transfer.google: 'Transferir para a conta do Google'
+    purpose.transfer.soloway: '-'
+    purpose.transfer.targetMailRu: '-'
+    purpose.transfer.vkontakte: '-'
+    purpose.transfer.yabayan: '-'
+    purpose.transfer.yacall: '-'
+    purpose.transfer.yadisplay: '-'
+    purpose.transfer.yagla: '-'
+    purpose.transfer.yamarket: '-'
+    purpose.transfer.yarealty: '-'
+    purpose.transfer.yaspravochnik: '-'
+    purpose.violation.fee: 'Multa por violação de Termos de Contrato'
+    purpose.withdraw: Write-off
+    save.contract: 'Salvar o contrato'
+    state.active: Ativas
+    state.all: 'Todos os contrators'
+    state.archive: Arquivadas
+    status.await: 'Esperando pagamento'
+    status.cancelled: Cancelado
+    status.credit: Crédito
+    status.outdated: '-'
+    status.paid: Pago
+    status.success: '-'
+    tab.archive: 'Arquivo de ofertas'
+    tab.contracts: Contratos
+    tab.docs: Documentos
+    tab.history: 'Histórico de operações'
+    tab.plan: 'Meu plano'
+    tools.add.contract: 'Adicionar contrato'
+    type.all: 'Todos os contratos'
+    type.individual: 'Pessoa física'
+    type.legal.entity: 'Pessoa Jurídica'
+    type.pe: 'empreendedor individual'
+ForecastPeriodWidget:
+    few.days: 'Seu saldo acabará emaproximadamente {days} {days, plural, one {dia} few {days} many {dias} other {dias} }'
+    nothing.left: 'Seu saldo acabou'
+LangSwitcher:
+    add.key: Adicionar
+    current.language: 'Idioma atual'
+Layout:
+    ErrorPage: 'Acesso à plataforma temporariamente indisponível.<br/> Estamos cientes do problema e já estamos resolvendo isso.<br/> Atualize a página ou tente novamente mais tarde.'
+    ErrorPage.button.back: Voltar
+    ErrorPage.button.main: 'Página principal'
+    ErrorPage.button.reload: 'Atualize esta página'
+    ErrorPage.message: 'Tente atualizar esta página. Se o erro<br />persistir, por favor envie email para <a href="mailto:{email}">{email}</a>'
+    ErrorPage.title: 'Algo deu errado'
+    NoAccessPage.message: 'Seu nível de acesso não é suficiente para ver esta página.'
+    NoAccessPage.title: 'Erro de acesso'
+    PageNotFound.message: 'Foi removida ou nunca<br />existiu'
+    PageNotFound.title: 'Página não encontrada'
+MainMenu:
+    copy.message: 'ID foi copiado para área de transferência.'
+    LINK_TO_ELAMA_OLD: 'Voltar para a versão antiga'
+    MainMenu.Item.about: 'Sobre o projeto'
+    MainMenu.Item.aboutService: 'Sobre o serviço'
+    MainMenu.Item.agency: Agéncia
+    MainMenu.Item.blog: Blog
+    MainMenu.Item.contacts: Contatos
+    MainMenu.Item.faq: 'Perguntas frequentes'
+    MainMenu.Item.finance: Finanças
+    MainMenu.Item.help: Ajuda
+    MainMenu.Item.helpAllCategories: 'Todas as sessões'
+    MainMenu.Item.my: '-'
+    MainMenu.Item.partners: 'Para parceiros'
+    MainMenu.Item.services: Serviços
+    MainMenu.Item.statisticLogs: 'Logs de estatísticas'
+    MainMenu.Item.webinars: Webinars
+My:
+    BreadCrumb.account: Conta
+    BreadCrumb.adGroup: Grupo
+    BreadCrumb.adwords: 'Anúncios do Google'
+    BreadCrumb.allAccounts: 'Todas as contas'
+    BreadCrumb.analytics: 'Google Analytics'
+    BreadCrumb.campaign: Campanha
+    BreadCrumb.connection: Conexão
+    BreadCrumb.connection.ad-adwords: 'Google Ads'
+    BreadCrumb.connection.ad-calltouch: CallTouch
+    BreadCrumb.connection.ad-calltracking: Calltracking
+    BreadCrumb.connection.ad-direct: 'Yandex Direct'
+    BreadCrumb.connection.ad-facebook: Facebook
+    BreadCrumb.connection.ad-mytarget: 'My Target'
+    BreadCrumb.connection.ad-targetMailRu: 'My Target'
+    BreadCrumb.connection.ad-vk: VKontakte
+    BreadCrumb.connection.ad-vkontakte: VKontakte
+    BreadCrumb.connection.ad-yagla: Yagla
+    BreadCrumb.connection.adwords: 'Google Ads'
+    BreadCrumb.connection.analytics: 'Google Analytics'
+    BreadCrumb.connection.external-account: 'Google Ads'
+    BreadCrumb.connection.ga: 'Google Analytics'
+    BreadCrumb.connection.metrika: 'Yandex Metrika'
+    BreadCrumb.connection.ym: 'Yandex Metrika'
+    Filters.addButton: Adicionar
+    Filters.AdGroupsLink: 'Ir para grupos de anúncios'
+    Filters.linkGoTo: 'Ir para as campanhas'
+    Footer.copyright: '© 2019 eLama. Todos os direitos reservados.'
+    Footer.copyright.link: 'Política de processamento de dados pessoais'
+    Footer.email: Email
+    Footer.requisites: Contatos
+    Footer.skype.presentation: 'Apresentação Skype'
+    Nav.cards.accounts: Contas
+    Nav.cards.adGroups: 'Grupos de anúncios'
+    Nav.cards.audiences: Público
+    Nav.cards.campaigns: Campanhas
+    Nav.cards.keywords: Palavras-chave
+    Nav.connectSystems: 'Configurações do Analytics'
+    Nav.statistics.accounts: 'Estatísticas das contas'
+    Nav.statistics.adGroups: 'Estatísticas do grupo de anúncios'
+    Nav.statistics.ads: 'Estatíca dos anúncios'
+    Nav.statistics.audiences: 'Estatísticas do público'
+    Nav.statistics.campaigns: 'Estatísticas da campanha'
+    Nav.statistics.keywords: 'Estatísticas de palavras-chave'
+    Nav.statistics.placements: 'Estatíca para as plataformas'
+    Pages.Accounts.EmptyDefaultFilterResult.button: 'Adicionar conta'
+    Pages.Accounts.EmptyDefaultFilterResult.message: 'Para começar, adicione uma conta ou desarquive as contas anteriormente criadas'
+    Pages.Accounts.EmptyDefaultFilterResult.title: 'Você não tem contas ativas'
+    Pages.Accounts.EmptyFilterResult.button: 'Cancelar filtro'
+    Pages.Accounts.EmptyFilterResult.message: 'Tente alterar sua pesquisa ou filtro'
+    Pages.Accounts.EmptyFilterResult.no.accounts: 'Você ainda não possui campanhas'
+    Pages.Accounts.EmptyFilterResult.title: 'Nada encontrado.'
+    Pages.Accounts.NoAccountsResult.button: 'Adicionar conta'
+    Pages.Accounts.NoAccountsResult.message: 'Para começar, adicione uma conta de anúncios'
+    Pages.Accounts.NoAccountsResult.title: 'Você ainda não tem nenhuma conta de anúncios'
+    Toolbox.addCampaign.free: '<b>Soliticar</b> criação <br /> da campanha com eLama'
+    Toolbox.addCampaign.singly.google: 'Criar<br/>campanha Google Ads'
+MyTable:
+    accountRelations.empty: '{connect} a conta {login} do Analytics para analisar a estatística de conversões.'
+    accountRelations.empty.connect: Conectar
+    breadcrumbs.noName: '<Nome não disponível>'
+    breadcrumbs.rootLink: 'Todas as contas'
+    calendar.apply: Aplicar
+    chart.addField: 'Adicionar indicador'
+    chart.fields.avg_click_cost: 'Custo médio por clique'
+    chart.fields.avg_depth: 'Profundidade de visualização'
+    chart.fields.avg_revenue: 'Ticket médio'
+    chart.fields.avg_traffic_volume: 'Volume médio de tráfego'
+    chart.fields.bounces_percent: 'Rejeições %'
+    chart.fields.clicks: Cliques
+    chart.fields.conversion_cost: 'Custo de conversão'
+    chart.fields.conversions: Conversão
+    chart.fields.conversions_percent: 'Taxa de conversão'
+    chart.fields.cost: Despesas
+    chart.fields.ctr_percent: CTR%
+    chart.fields.drr: SDP
+    chart.fields.impressions: Exibições
+    chart.fields.product_adds_to_cart: 'Adicionar ao carrinho'
+    chart.fields.product_detail_views: 'Exibições do produto'
+    chart.fields.revenue: Renda
+    chart.fields.roi: ROI
+    chart.fields.sessions: Sessões
+    chart.fields.special_percent: '% de exibições encima dos resultados de pesquisa'
+    chart.fields.uniq_target_call: 'Chamadas exclusivamente segmentadas'
+    chart.fields.uniq_target_callback: 'Retornos de chamada exclusivamente segmentados'
+    chart.grouping.day: 'Por dia'
+    chart.grouping.month: Mensal
+    chart.grouping.week: Semanal
+    chart.noData: 'Nenhum dado para exibir'
+    chart.noResults: 'Nenhum resultado'
+    chartTooltip.fields.avg_click_cost: 'Custo médio por clique'
+    chartTooltip.fields.avg_depth: 'Profundidade de visualização'
+    chartTooltip.fields.avg_revenue: 'Ticket médio'
+    chartTooltip.fields.bounces_percent: 'Rejeições %'
+    chartTooltip.fields.clicks: Cliques
+    chartTooltip.fields.conversion_cost: 'Preço de conversão'
+    chartTooltip.fields.conversions: Conversão
+    chartTooltip.fields.conversions_percent: 'Taxa de conversão'
+    chartTooltip.fields.cost: Despesas
+    chartTooltip.fields.ctr_percent: CTR%
+    chartTooltip.fields.drr: 'O share de despesas de propaganda (SDP)'
+    chartTooltip.fields.impressions: Exibições
+    chartTooltip.fields.product_adds_to_cart: 'Adicionar ao carrinho'
+    chartTooltip.fields.product_detail_views: 'Exibições do produto'
+    chartTooltip.fields.revenue: Renda
+    chartTooltip.fields.roi: ROI
+    chartTooltip.fields.sessions: Sessões
+    chartTooltip.fields.uniq_target_call: 'Chamadas exclusivamente segmentadas'
+    chartTooltip.fields.uniq_target_callback: 'Retornos de chamada exclusivamente segmentados'
+    chartTooltip.week: Semana
+    datepicker.ranges.30: '30 dias'
+    datepicker.ranges.7: '7 dias'
+    datepicker.ranges.yesterday: Ontem
+    error.authLoad: 'Não foi possível acessar os dados'
+    error.hide: Fechar
+    error.noAccountsMessage: 'Adicione uma conta e tente novamente'
+    error.noAccountsTitle: 'Você não tem contas correspondentes'
+    error.noAccountsWithStatMessage: 'Tente novamente mais tarde'
+    error.noAccountsWithStatTitle: 'Estatísticas da conta ainda não carregadas'
+    error.noResponseLoad: "Não foi possível\nobter os dados\n"
+    error.noResponseMessage: 'Tente novamente ou entre em contato com nosso Serviço de Suporte'
+    error.noResponseTitle: 'Não foi possível obter os dados'
+    error.refresh: Atualizar
+    error.reload: 'Atualizar esta página'
+    error.retry: Repetir
+    error.unrecoverableMessage: 'Tente recarregar a página'
+    error.unrecoverableTitle: 'Ocorreu um erro'
+    filter.accountType.adwords: 'Google Ads'
+    filter.accountType.ALL: Todos
+    filter.addAccount: Adicionar
+    filter.additionalGrouping: 'Filtrar por'
+    filter.apply: Aplicar
+    filter.columnConfig.apply: Aplicar
+    filter.columnConfig.columnGroups.accounts: Contas
+    filter.columnConfig.columnGroups.activities: 'Taxas de engajamento'
+    filter.columnConfig.columnGroups.adGroups: 'Grupos de anúncios'
+    filter.columnConfig.columnGroups.advisor: Otimizador
+    filter.columnConfig.columnGroups.audiences: Público
+    filter.columnConfig.columnGroups.bidmanager: 'Gerenciador de lances'
+    filter.columnConfig.columnGroups.calls: Chamadas
+    filter.columnConfig.columnGroups.campaigns: Campanhas
+    filter.columnConfig.columnGroups.conversion: Conversão
+    filter.columnConfig.columnGroups.ecommerce: 'Comércio eletrônico'
+    filter.columnConfig.columnGroups.expenses: 'Dados de sistemas de publicidade'
+    filter.columnConfig.columnGroups.keywords: Palavras-chave
+    filter.columnConfig.columnGroups.other: 'Adicionar agrupamentos'
+    filter.columnConfig.columnGroups.structure: 'Estrutura da conta'
+    filter.columnConfig.columns.account_status: 'Status da conta'
+    filter.columnConfig.columns.accounts: Conta
+    filter.columnConfig.columns.ad_activity_status: 'Status da campanha'
+    filter.columnConfig.columns.ad_group_activity_status: 'Status da atividade do grupo de anúncios'
+    filter.columnConfig.columns.ad_group_id: ID
+    filter.columnConfig.columns.ad_group_name: 'Grupo de anúncios'
+    filter.columnConfig.columns.ad_id: ID
+    filter.columnConfig.columns.ad_network_type: 'Tipo de rede'
+    filter.columnConfig.columns.ad_title: Titulo
+    filter.columnConfig.columns.audience_id: ID
+    filter.columnConfig.columns.audience_name: Público
+    filter.columnConfig.columns.avg_click_cost: 'Custo médio por clique'
+    filter.columnConfig.columns.avg_depth: 'Profundidade de visualização'
+    filter.columnConfig.columns.avg_revenue: 'Verificação média'
+    filter.columnConfig.columns.avg_traffic_volume: 'Volume médio de tráfego'
+    filter.columnConfig.columns.bidmanager_bid: 'Taxa máxima'
+    filter.columnConfig.columns.bidmanager_is_active: Status
+    filter.columnConfig.columns.bidmanager_level: Nível
+    filter.columnConfig.columns.bidmanager_template_id: Posição
+    filter.columnConfig.columns.bounces_percent: Renúncias
+    filter.columnConfig.columns.campaign_activity_status: 'Status de atividade da campanha'
+    filter.columnConfig.columns.campaign_id: ID
+    filter.columnConfig.columns.campaign_name: Campanha
+    filter.columnConfig.columns.campaign_type: 'Tipo de campanha'
+    filter.columnConfig.columns.CHECKBOX: Seleção
+    filter.columnConfig.columns.clicks: Cliques
+    filter.columnConfig.columns.conversion_cost: 'Preço de conversão'
+    filter.columnConfig.columns.conversions: Conversão
+    filter.columnConfig.columns.conversions_percent: 'Taxa de conversão'
+    filter.columnConfig.columns.cost: Despesas
+    filter.columnConfig.columns.ctr_percent: CTR
+    filter.columnConfig.columns.date: Data
+    filter.columnConfig.columns.device_unified: Dispositivo
+    filter.columnConfig.columns.drr: 'O share de despesas de propaganda (SDP)'
+    'filter.columnConfig.columns.drr,roi': 'SDP / ROI'
+    filter.columnConfig.columns.elama_status: 'Status da campanha'
+    filter.columnConfig.columns.impressions: Exibições
+    filter.columnConfig.columns.keyword_activity_status: 'Status da atividade de palavra-chave'
+    filter.columnConfig.columns.keyword_text: 'Palavra chave'
+    filter.columnConfig.columns.keyword_text_no_minus: Palavra-chave
+    filter.columnConfig.columns.month: Mês
+    filter.columnConfig.columns.number_recommendations: 'Número de'
+    filter.columnConfig.columns.product_adds_to_cart: 'Adicionar ao carrinho'
+    filter.columnConfig.columns.product_detail_views: 'Exibições do produto'
+    filter.columnConfig.columns.revenue: Renda
+    filter.columnConfig.columns.roi: ROI
+    filter.columnConfig.columns.sessions: Sessões
+    filter.columnConfig.columns.slot: Slot
+    filter.columnConfig.columns.sources: 'Tipo de sistema de publicidade'
+    filter.columnConfig.columns.special_percent: '% de exibições encima dos resultados de busca'
+    filter.columnConfig.columns.uniq_target_call: 'Chamadas exclusivamente segmentadas'
+    filter.columnConfig.columns.uniq_target_callback: 'Retornos de chamada exclusivamente segmentados'
+    filter.columnConfig.configure: 'Métricas e Agrupamento'
+    filter.columnConfig.hide: Fechar
+    filter.columnConfig.savedConfig: 'Meu conjunto de colunas'
+    filter.columnConfig.title: 'Métricas e agrupamento para'
+    filter.columnConfig.titleAggregation.accounts: contas
+    filter.columnConfig.titleAggregation.adGroups: 'grupos de anúncios'
+    filter.columnConfig.titleAggregation.ads: anúncios
+    filter.columnConfig.titleAggregation.audiences: 'o público'
+    filter.columnConfig.titleAggregation.campaigns: campanhas
+    filter.columnConfig.titleAggregation.keywords: palavras-chave
+    filter.columnConfig.titleAggregation.placements: canais
+    filter.condition.active.CONTAINS: ' contém '
+    filter.condition.active.EQUALS: ' = '
+    filter.condition.active.GT: ' > '
+    filter.condition.active.IN: ': '
+    filter.condition.active.LT: ' < '
+    filter.condition.active.NOT_CONTAINS: ' não contém '
+    filter.condition.active.NOT_EQUALS: ' não é igual '
+    filter.condition.active.NOT_IN: ' não '
+    filter.condition.select.CONTAINS: Contém
+    filter.condition.select.EQUALS: '='
+    filter.condition.select.GT: '>'
+    filter.condition.select.LT: '<'
+    filter.condition.select.NOT_CONTAINS: 'Não contém'
+    filter.condition.select.NOT_EQUALS: 'Não é igual'
+    filter.enum.bidmanager_is_active.active: Habilitado
+    filter.enum.bidmanager_is_active.off: 'Off'
+    filter.enum.bidmanager_is_active.oldOn: 'Incluído no antigo'
+    filter.enum.bidmanager_is_active.suspended: Suspenso
+    filter.enum.bidmanager_level.campaign: Campanha
+    filter.enum.bidmanager_level.keyword: Frase
+    filter.enum.bidmanager_level.off: 'Off'
+    filter.enum.bidmanager_level.oldOn: 'Incluído no antigo'
+    filter.enum.bidmanager_level.suspended: Suspenso
+    filter.enum.campaign_type.MIXED: Pesquisa/Display
+    filter.enum.campaign_type.NETWORK: 'Rede de Display'
+    filter.enum.campaign_type.SEARCH: 'Rede de Pesquisa'
+    filter.enum.slot.CROSS-NETWORK: Cross-network
+    filter.enum.slot.GUARANTEE: 'Search: Other'
+    filter.enum.slot.SPECIAL: 'Search: Top'
+    filter.fields.ad_group_id: ID
+    filter.fields.ad_group_name: Nome
+    filter.fields.ad_id: ID
+    filter.fields.ad_network_type: 'Tipo de rede'
+    filter.fields.ad_title: Nome
+    filter.fields.audience_id: ID
+    filter.fields.audience_name: Nome
+    filter.fields.avg_click_cost: 'Custo médio por clique'
+    filter.fields.avg_depth: 'Profundidade de visualização'
+    filter.fields.avg_revenue: 'Ticket médio'
+    filter.fields.avg_traffic_volume: 'Volume médio do tráfego'
+    filter.fields.bidmanager_bid: 'Lance máximo do Gerenciador de lances'
+    filter.fields.bidmanager_is_active: 'Status do Gerenciador de lances'
+    filter.fields.bidmanager_level: 'Nível de configuração do Gerenciador de lances'
+    filter.fields.bidmanager_template_id: 'Modelo do Gerenciador de lancec'
+    filter.fields.bounces_percent: Rejeições
+    filter.fields.campaign_id: ID
+    filter.fields.campaign_name: Nome
+    filter.fields.campaign_type: Típo
+    filter.fields.clicks: Cliques
+    filter.fields.conversion_cost: 'Preço de conversão'
+    filter.fields.conversions: Conversão
+    filter.fields.conversions_percent: 'Taxa de conversão'
+    filter.fields.cost: Despesas
+    filter.fields.ctr_percent: CTR
+    filter.fields.device_unified: Dispositivo
+    filter.fields.drr: DDP
+    filter.fields.impressions: Exibições
+    filter.fields.keyword_text: Nome
+    filter.fields.leadcost: CPL
+    filter.fields.leadgen: Leads
+    filter.fields.placement: Nome
+    filter.fields.product_adds_to_cart: 'Adicionar ao carrinho'
+    filter.fields.product_detail_views: 'Exibições do produto'
+    filter.fields.revenue: Renda
+    filter.fields.roi: ROI
+    filter.fields.sessions: Sessões
+    filter.fields.slot: Slot
+    filter.fields.special_percent: '% de exibições encima dos resultados de pesquisa'
+    filter.fields.uniq_target_call: 'Chamadas exclusivamente segmentadas'
+    filter.fields.uniq_target_callback: 'Retornos de chamada exclusivamente segmentados'
+    filter.noResults: 'Nenhum resultado'
+    filter.segment: Filtrar
+    filter.segment.guarantee: 'Acima de resultados de busca'
+    filter.segment.network: 'Rede de Display'
+    filter.segment.none: 'Nenhum segmento'
+    filter.segment.search: 'Rede de Pesquisa'
+    filter.segment.special: 'Abaixo de resultados de busca'
+    filter.set: 'Definir filtros'
+    filter.status.accounts.adwords: Ads
+    filter.status.accounts.all: 'Todas as contas'
+    filter.status.accounts.facebook: Facebook
+    filter.status.campaigns.active: 'Todos ativos'
+    filter.status.campaigns.all: 'Todas as campanhas'
+    filter.status.campaigns.archived: Arquivada
+    filter.status.campaigns.nonDeleted: 'Todos (exceto excluidas)'
+    filter.status.campaigns.nonStopped: 'Todos, exceto excluídos'
+    filter.units.BRL: R$
+    filter.units.EQUALS: '='
+    filter.units.percent: '%'
+    filter.units.USD: $
+    filter.vat: IVA
+    pagination.outOf: de
+    pagination.rows: 'Linhas na página:'
+    selection.accounts: contas
+    selection.link: 'Ir para campanhas'
+    selection.selected: '{displayLength, plural, one {Escolhida} other {Escolhidas}}: {displayLength} {displayLength, plural, one {conta} other {contas}}'
+    sidebar.accounts: Contas
+    sidebar.adGroups: 'Grupos de anúncios'
+    sidebar.ads: Anúncios
+    sidebar.audiences: Público
+    sidebar.campaigns: Campanhas
+    sidebar.keywords: Palavras-chave
+    table.aggregationColumns.accounts: Conta
+    table.aggregationColumns.ad_group_name: 'Grupo de anúncios'
+    table.aggregationColumns.campaign_name: 'Campanha publicitária'
+    table.columns.accounts: Conta
+    table.columns.ad_group_id: ID
+    table.columns.ad_group_name: 'Grupo de anúncios'
+    table.columns.ad_id: ID
+    table.columns.ad_network_type: 'Tipo de rede'
+    table.columns.ad_title: Anúncio
+    table.columns.audience_id: ID
+    table.columns.audience_name: Público
+    table.columns.avg_click_cost: "preço médio\npor clique\n"
+    table.columns.avg_depth: "Profundidade\nde visualização\n"
+    table.columns.avg_revenue: "Ticket\nmédio\n"
+    table.columns.avg_traffic_volume: "Volume médio\n de tráfego\n"
+    table.columns.bidmanager_bid: 'Valor máximo'
+    table.columns.bidmanager_is_active: Status
+    table.columns.bidmanager_level: Level
+    table.columns.bidmanager_template_id: Posição
+    table.columns.bounces_percent: Rejeições
+    table.columns.campaign_id: ID
+    table.columns.campaign_name: Campanha
+    table.columns.campaign_type: Típo
+    table.columns.clicks: Cliques
+    table.columns.conversion_cost: 'Preço de conversão'
+    table.columns.conversions: Conversão
+    table.columns.conversions_percent: "coeficiente\nde conversões\n"
+    table.columns.cost: Despesas
+    table.columns.ctr_percent: CTR
+    table.columns.date: Data
+    table.columns.device_unified: Dispositivo
+    table.columns.drr: 'O share de despesas de propaganda (SDP)'
+    table.columns.impressions: Exibições
+    table.columns.keyword_text: Palavras-chave
+    table.columns.leadcost: CPL
+    table.columns.leadgen: Leads
+    table.columns.month: Mês
+    table.columns.number_recommendations: 'Número de'
+    table.columns.placement: Plataforma
+    table.columns.product_adds_to_cart: "Adições\npara o carrinho\n"
+    table.columns.product_detail_views: "Visualizações\nde produtos\n"
+    table.columns.revenue: Renda
+    table.columns.roi: ROI
+    table.columns.sessions: Sessões
+    table.columns.slot: Posição
+    table.columns.special_percent: "% de exibições encima\nde resultados de busca\n"
+    table.connectAnalytics: 'Conectar Analytics'
+    table.deselectAll: 'Remover seleção'
+    'table.enum.ad_network_type.Ad display': Display
+    table.enum.ad_network_type.audience_network: 'Audience Network'
+    table.enum.ad_network_type.facebook: Facebook
+    table.enum.campaign_type.LEAD_GENERATION: 'Geração de leads'
+    table.enum.campaign_type.LINK_CLICKS: Tráfego
+    table.enum.campaign_type.MIXED: "Pesquisa\nRede\n"
+    table.enum.campaign_type.NETWORK: 'Rede de Display'
+    table.enum.campaign_type.POST_ENGAGEMENT: Engagamento
+    table.enum.campaign_type.SEARCH: 'Rede de Pesquisa'
+    table.enum.campaign_type.UNKNOWN: —
+    table.enum.device_unified.DESKTOP: PC
+    table.enum.device_unified.MOBILE: Smartphones
+    table.enum.device_unified.OTHER: Outros
+    table.enum.device_unified.TABLET: Tablets
+    table.enum.slot_origin.audience_network_an_classic: 'Native, Banner and Interstitial'
+    table.enum.slot_origin.audience_network_instream_video: 'Vídeos in-stream'
+    table.enum.slot_origin.audience_network_rewarded_video: 'Vídeos com incentivo'
+    table.enum.slot_origin.facebook_feed: 'Facebook Feeds'
+    table.enum.slot_origin.facebook_instant_article: 'Instant Articles'
+    table.enum.slot_origin.facebook_instream_video: 'In-Stream Videos'
+    table.enum.slot_origin.facebook_marketplace: Marketplace
+    table.enum.slot_origin.facebook_right_hand_column: 'Coluna da direita'
+    table.enum.slot_origin.facebook_stories: 'Facebook Stories'
+    table.enum.slot_origin.facebook_suggested_video: 'Suggested Videos'
+    table.enum.slot_origin.instagram_feed: 'Instagram Feed'
+    table.enum.slot_origin.instagram_stories: 'Instagram Stories'
+    table.enum.slot_origin.messenger_inbox: 'Messenger Inbox'
+    table.enum.slot_origin.messenger_stories: 'Messenger Stories'
+    table.enum.slot.CROSS-NETWORK: Cross-network
+    table.enum.slot.GUARANTEE: 'Search: Other'
+    table.enum.slot.SPECIAL: 'Search: Top'
+    table.goals.all: 'Todas as metas'
+    table.goals.counter: Contador
+    table.goals.noResults: 'Nenhum resultado'
+    table.goals.select: 'Escolha metas'
+    table.goals.selected: '{goalsSelected} {goalsSelected, plural, one {meta} other {metas}}'
+    table.goals.selected_GP: metas
+    table.goals.selected_GS: metas
+    table.groups.activities: 'Taxas de engajamento'
+    table.groups.advisor: Otimizador
+    table.groups.bidmanager: 'Gerenciador de lances'
+    table.groups.calls: Chamadas
+    table.groups.conversion: Conversão
+    table.groups.ecommerce: 'Comércio eletrônico'
+    table.groups.expenses: 'Dados de sistemas de publicidade'
+    table.groups.other: 'Adicionar agrupamentos'
+    table.groups.segments: Segmentos
+    table.groups.structure: 'Estrutura da conta'
+    table.noData: 'Nenhum dado nos parâmetros especificados.'
+    table.noName: '<Nome não disponível>'
+    table.rows.total.accounts: 'Total ({type})'
+    table.rows.total.accountTypes.adwords: Ads
+    table.rows.total.accountTypes.facebook: Facebook
+    table.rows.total.all: Total
+    table.rows.total.network: 'Total (rede)'
+    table.rows.total.search: 'Total (pesquisa)'
+    table.selectAll: 'Selecione tudo na página'
+Optimizer:
+    description: 'Crie uma nova pasta para otimização ou selecione uma das existentes'
+    goals.filter.noResults: 'Não contemresultados'
+    goals.filter.selected: '{goalsSelected} {goalsSelected, plural, one {meta} other {metas}}'
+    moderation.description: 'Suas campanhas serão verificadas quanto à conectividade com o otimizador no futuro próximo. Se bem sucedido, o otimizador será iniciado automaticamente'
+    settings.button.accept: Aplicar
+    settings.button.off: Desligar
+    settings.button.on: Ativar
+    settings.campaigns.name: 'Campanha {item}'
+    settings.delete.error: 'Não foi possível desativar o otimizador'
+    settings.delete.success: 'Otimizador está desativado'
+    settings.delete.warning: 'Para {Campanhas} {campanhas, no plural, uma {campanha} poucas {campanhas} outras {campanhas}} não conseguiu desativar o otimizador'
+    settings.folder.create: 'Criar nova pasta'
+    settings.helper.limitation: 'de{from} até {to}'
+    settings.label.campaignsInFolder: 'Campanhas na pasta {count}'
+    settings.label.chooseFolder: 'Selecione uma pasta'
+    settings.label.chooseKPI: 'Escolha o KPI'
+    settings.label.folderName: 'Nome da pasta'
+    settings.label.goals: Objetivos
+    settings.label.limitation: Limitação
+    settings.notice: 'Se você quiser alterar estas configurações, as mesmas serão alteradas para a pasta inteira. Se você não quiser alterar as configurações para as demais campanhas — crie uma nova'
+    settings.placeholder.enter: Введите
+    settings.placeholder.enterName: 'Digite um nome'
+    settings.placeholder.KPI: KPI
+    settings.update.error: 'Não foi possível enviar para moderação'
+    settings.update.success: 'Esta pasta foi enviada para moderação'
+    settings.update.warning: '{campaigns} {campaigns, plural, one {кампанию} few {кампании} other {кампаний}} не удалось отправить на модерацию'
+    status.title.disabled: desligar
+    status.title.enabled: ligar
+    status.title.moderation: ligar
+    status.title.rejected: Desligar
+    subtitle: 'Configurações da pasta'
+    subtitle.tooltip: '<b>CPO</b> (Custo por Pedido) - quanto você está disposto a pagar por 1 conversão (em rublos)<br /><br /><b>DDR</b> (Porcentagem de orçamento para campanha) - que porcentagem de receita que você está pronto para investir em publicidade (em%)<br /><br /><b>ROI</b> (retorno sobre o investimento) - quanto você quer ganhar com investimentos em publicidade (em%)'
+    title: Otimizador
+    title.tooltip: 'O otimizador atualiza automaticamente as taxas no sistema de publicidade para atingir seus KPIs.<br /><br />Para conectar, você deve ter um sistema de análise conectado ao eLama'
+PaymentWidget:
+    amount.label: 'Valor total'
+    amount.placeholder: 'Valor total'
+    bill.balance.paragraph: 'Os fundos serão adicionados apenas com o pagamento integral da fatura. Se você precisar transferir outro valor, por favor, emita uma nova conta.'
+    bill.email.label: 'A conta foi enviada para'
+    bill.payment.paragraph: 'Esta fatura pode ser paga so,ente pela pessoa jurídica ou empreendedor individual.'
+    bill.ready.button: Pronto
+    bill.refill.link: 'Adicionar fundos novamente'
+    bill.saveAsPdf.link: 'Salvar .pdf'
+    bill.title: 'A conta preparada para'
+    cancel: Fechar
+    contract.label: 'Escolha um contrato'
+    contract.new: 'Novo contrato'
+    contract.placeholder: 'Escolha um contrato'
+    error.care: 'serviço de atendimento'
+    error.close: Fechar
+    error.occurred: 'Ocorreu um erro'
+    error.repeat: Repetir
+    error.tryAgain: 'Tente novamente ou entre em contato com'
+    errorAmountGtThanMax: 'Não mais'
+    errorAmountLtThanMin: 'Não menos'
+    loading: 'Carregando ...'
+    min.deposit: 'Valor minimo para adicionar fundos'
+    redirect.bottom: 'como você pode aditionar os fundos'
+    redirect.top: 'Agora você será transferido para o site do parceiro,'
+    submit: 'Adicionar fundos'
+    submit.withAmount: 'Adicionar fundos para'
+    title: 'Adicionar fundos na conta eLama'
+Profile:
+    BaseInfo.btn.cancel: Cancelar
+    BaseInfo.btn.change: Alterar
+    BaseInfo.btn.change.email: 'Alterar email do cadastro'
+    BaseInfo.btn.change.language: 'Alterar língua'
+    BaseInfo.btn.change.name: 'Alterar nome do cadastro'
+    BaseInfo.btn.change.password: 'Alterar senha'
+    BaseInfo.btn.change.phone: 'Alterar número do cadastro'
+    BaseInfo.btn.change.timezone: 'Alterar fuso horário'
+    BaseInfo.current.password: 'Senha atual'
+    BaseInfo.description.email: 'Enviaremos neste endereço de email avisos importantes, respostas da nossa equipe de atendimento e documentos financeiros'
+    BaseInfo.description.phone: 'È necessário para comunicar com a nossa Equipe de Suporte'
+    BaseInfo.email: Email
+    BaseInfo.language: Idioma
+    BaseInfo.login: 'email de acesso'
+    BaseInfo.name: Nome
+    BaseInfo.new.email: 'Novo email'
+    BaseInfo.new.name: 'Novo nome'
+    BaseInfo.new.password: 'Nova senha'
+    BaseInfo.new.phone: 'Novo número'
+    BaseInfo.new.timezone: 'Novo fuso horário'
+    BaseInfo.phone: 'Número de telefone'
+    BaseInfo.region: Pais
+    BaseInfo.repeat.password: 'Confirmar senha'
+    BaseInfo.timezone: 'Fuso horário'
+    BaseInfo.userId: 'eLama ID'
+    Header.title: Perfil
+    Nav.base: 'Dados da conta'
+    Nav.changePassword: 'Alteração da senha'
+    notification.change.failure: 'Configurações não foram salvas'
+    notification.change.success: 'Configurações salvas'
+    tooltip.password.message1: 'Certifique-se de que o Caps Lock não esteja ativado'
+    tooltip.password.message2: 'A senha deve conter pelo menos 6 caracteres'
+    validation.email: 'Formato de email inválido'
+    validation.max: 'Não mais que {count} {count, plural, one {carater} other {carateres}}'
+    validation.min: 'Não menos que {count} {count, plural, one {caráter} other {carateres}}'
+    validation.name: 'Nome pode conter somente letras, espaços e hífens'
+    validation.phone: 'Formato de número de telefone inválido'
+    validation.repeat.password: 'Senhas não conferem'
+    validation.required: 'Este campo não pode estar vazio'
+Refreshments:
+    forceUpdate: 'Forcar atualização'
+    lastUpdate: 'Últimos dados atualizados:'
+    notification.error: 'Falha na atualização as informações da conta {account} no prazo. Tente novamente mais tarde'
+    notification.success: 'Dados da conta {account} atualizados com sucesso. Atualizar página'
+    notification.warning: 'Dados da conta {account} parcialmente atualizados'
+    refreshData: 'Atualizar dados'
+    title: 'Atualização de dados'
+    unknown: Desconhecido
+Reports:
+    account.connect.with.analytics: 'Vincular ao sistema de analytics'
+    account.connect.with.ga: 'Vincular ao Google Analytics'
+    account.connect.with.ym: 'Связать с Яндекс.Метрика'
+    account.fetch.progress: 'Recolhidos em {progress}%'
+    account.last.update: Atualização
+    account.refresh: Atualizar
+    account.refresh.message: 'O token está desatualizado.'
+    account.settings.confirm: Mover
+    account.settings.delete: 'Exclur conta'
+    account.settings.move: 'Mover para outro projeto'
+    account.status1: 'Preparando-se para coletar estatísticas'
+    account.status2: Indo
+    account.status3: 'Preparação de dados'
+    account.status4: Conectado
+    accounts.modal.cancel: Cancelar
+    accounts.modal.close: Fechar
+    accounts.modal.confirm.delete.add: 'Todos os dados de origem serão excluídos. Tem certeza de que deseja excluir a fonte?'
+    accounts.modal.confirm.delete.analytics: 'Tem certeza de que deseja remover o sistema de análise?'
+    accounts.modal.delete: Excluir
+    adwords.connect.confirm: Confirmar
+    adwords.connect.loading.text: 'Download de dados da conta'
+    adwords.connect.title: 'Escolha uma conta'
+    analyitcs.select.accounts.title: 'Selecione uma conta do Google Analytics'
+    analytics.cancel: Cancelar
+    analytics.connect: Conectar
+    analytics.connect.accounts.not.found: 'Contas do Google Analytics não encontradas'
+    analytics.select.client.id.title: 'Escolha o ID do cliente'
+    analytics.select.placeholder: Selecione
+    analytics.select.properties: 'Selecione um recurso'
+    analytics.select.session.id.title: 'Selecione o id da sessão'
+    analytics.select.views.title: 'Selecione a apresentação'
+    analytics.title: 'Preencha as configurações para concluir a configuração'
+    breadcrumbs.projects: 'Todos os projetos'
+    client.accounts.cancel: Cancelar
+    client.accounts.confirm: Confirmar
+    client.accounts.currency: 'Conta em moeda não suportada'
+    client.accounts.filter.empty: 'Não há contas correspondentes ao filtro'
+    client.accounts.filter.hint: 'Use o filtro acima para pesquisar na lista'
+    client.accounts.filter.limit: 'Apenas {value} resultados mostrados'
+    client.accounts.loading: 'Contas de clientes estão sendo recebidas'
+    client.accounts.placeholder: 'Conta do cliente'
+    client.accounts.select: 'Selecione as contas de clientes'
+    client.accounts.update: 'Lista de atualização'
+    direct.connect.loading.text: 'Download de dados da conta'
+    error.account.notMoved: 'Não foi possível mover a conta {accountName}'
+    error.analytics.noAccounts: 'Nenhuma conta do Google Analytics não encontradas'
+    error.clientAddAccounts.noAccounts: 'Falha ao obter contas de clientes'
+    hint.account.add: 'Para obter o primeiro relatório, conecte a fonte de dados.'
+    hint.account.created: 'Conta conectada com sucesso.'
+    hint.account.finished: 'Estatísticas coletadas. Agora você pode baixar o modelo de relatório, ir para o Power BI e atualizar o relatório. <br /> Gráficos e indicadores devem aparecer nele com base nos dados obtidos.'
+    hint.account.finished.btn: 'Baixar o modelo'
+    hint.account.not.found: 'Não é possível conectar a conta.'
+    hint.account.progress: 'Enquanto coletamos estatísticas, leia como configurar relatórios no Power BI. <br /> A coleta de dados geralmente leva de 15 a 30 minutos, mas tudo depende da quantidade de informações.'
+    hint.account.progress.btn: Ler
+    hint.close: Fechar
+    metrika.connect: 'Empate contador'
+    metrika.counter.site: Site
+    metrika.counter.status: Status
+    metrika.counter.status.Active: 'está ativo'
+    metrika.counter.status.Deleted: deletado
+    modal.cancel: Cancelar
+    modal.close: Fechar
+    modal.confirm.delete: 'Você tem certeza de que deseja excluir o projeto "{name}"?'
+    modal.delete: Excluir
+    pagen.not.found: 'Página não encontrada'
+    pbi.alert.text: 'Com um grande número de anúncios, o carregamento de dados sobre eles pode levar a uma diminuição no desempenho do Power BI'
+    pbi.data.btn.save: Salvar
+    pbi.data.checkbox: 'Faça o download dos dados do anúncio'
+    pbi.data.title: 'Configurações de carregamento de dados no Power BI'
+    pbi.error.text: Erro
+    pbi.error.title: 'Configurações de carregamento de dados no Power BI'
+    pbi.form.copied: Copiado!
+    pbi.form.notice: 'Nome de usuário e senha nos modelos no Power BI não correspondem ao login e senha nos relatórios Elama'
+    pbi.login.btn: 'Para copiar'
+    pbi.login.title: 'Entre para conectar o Power BI'
+    pbi.login.tooltip: 'Copiar login'
+    pbi.password.btn: 'Para copiar'
+    pbi.password.title: Senha
+    pbi.password.tooltip: 'Copiar senha'
+    pbi.template.text0: 'Ajuda fazer avaliação rápida: entender os gastos e tráfego e comparar esses dados com o período anterior.'
+    pbi.template.text1: 'Aprenda as principais métricas com gráficos simples e claros. Você pode visualizar os dados para rede de pesquisa ou display.'
+    pbi.template.text2: 'Analise os dados de custo, clique e conversão para cada campanha para rede de pesquisa ou display.'
+    pbi.template.text3: 'Coletamos dados e os carregamos no Power BI, para que você possa criar seu relatório personalizado. Metricas básicas já foram adicionadas ao modelo.'
+    pbi.template.text4: 'Compare a eficiência do posicionamento em blocos para cada campanha em detalhes ou com base em um gráfico simples.'
+    pbi.template.text5: 'Selecione um período para visualizar alteração nos  gastos, cliques e conversões.'
+    pbi.template.title0: 'Para administrador'
+    pbi.template.title1: 'Para o cliente'
+    pbi.template.title2: 'Para profocional de marketing'
+    pbi.template.title3: 'Para especialista'
+    pbi.template.title4: 'Colocação especial e garantia'
+    pbi.template.title5: 'Comparação de desempenho por data'
+    pbi.template.title6: e-commerce
+    pbi.templates.title: 'Modelos de relatório'
+    pbi.title: 'Conexão do Power BI'
+    project.delete: Excluir
+    project.edit.cancel: Cancelar
+    project.edit.confirm: Confirmar
+    project.edit.link: 'Siga o link'
+    project.edit.text: 'Clique para editar'
+    project.new.create: Criar
+    project.new.name: 'Nome do projeto'
+    project.new.toggle: 'Criar projeto'
+    project.settings: 'Configurações do projeto'
+    projects.empty: 'Nenhum projeto correspondente'
+    projects.loading: 'Carregando projetos ...'
+    success.account.move: 'Conta {accountName} movida'
+    success.connect.clientAddAccounts: 'Contas selecionadas conectadas com sucesso'
+    tab.pbi.settings: 'Modelos do Power BI'
+    tab.sources: 'Fontes de dados'
+Sidebar:
+    accounts: Contas
+    accounts.admin: 'Administrador de contas'
+    ad.groups: 'Grupos de anúnios'
+    ads: Anúncios
+    agency: 'Meus clientes'
+    audiences: Público
+    billing.admin: 'Administrador de orçamento'
+    calculator: 'Calculadora de lance junto'
+    campaigns: Campanhas
+    cross.minus: 'negativação crusada'
+    crossAuth.logout: Sair
+    feedbackLink: 'Feedback e Sugestões'
+    finance: Finanças
+    instruments: Ferramentas
+    keyword.combinator: 'Combinador de palavras-chave'
+    keywords: Palavras-chave
+    logout: Sair
+    managers.panel: 'Manager 2.0'
+    marketing.admin: 'Administrador de marketing'
+    placements: Plataformas
+    profile: Perfil
+    reports: Relatórios
+    statistics.logs: 'Logs de estatísticas'
+    statistics.refresh: 'Recoleta de estatísticas'
+    systems: Sistemas
+    tariff.admin: 'Administrador de tarifas'
+    tender.logs: 'Registros de tender platform'
+    words: 'Seleção de palavras-chave'
+Statistics:
+    accounts: '{accounts} {accounts, plural, one {conta de publicidade} other {contas de publicidade}}'
+    analytics.google.properties: 'Recurso:'
+    analytics.google.views: 'Apresentação:'
+    analytics.metrika.counter: 'Contador:'
+    analytics.remove: Excluir
+    analytics.status.off: 'O token está desatualizado'
+    analytics.status.on: 'On'
+    clicks: Cliques
+    cost: Despesas
+    impressions: Shows
+Status:
+    active: 'On'
+    keyword.level: 'Existem regras de nível de frase ativas'
+    status.off: 'Off'
+    suspended.text: 'A ferramenta está temporariamente suspensa'
+    title: 'Gerenciador de lances'
+    unsupported.text: 'A ferramenta não está disponível para este tipo de campanha'
+TableElements:
+    campaign: Campanha
+    keyword: Frase
+    keyword.level: 'Existem regras de nível de frase ativas'
+    old.bidmanager.active: 'No antigo gerenciador de lances'
+    status.off: 'Off'
+    status.on: 'On'
+    status.suspended: 'A ferramenta está temporariamente suspensa'
+    template.ad.first.page: 'Primeira página'
+    template.ad.first.position: 'Primeira posição'
+    template.ad.top.position: 'No topo da primeira página'
+    template.adwords.fixbid: 'Taxa fixa'
+    template.adwords.fixbid.net: 'Taxa fixa'
+    template.campaignType.adwords: 'Rede de Display'
+    template.campaignType.direct: YAN
+    template.campaignType.search: 'Rede de Pesquisa'
+    template.contextSystem.adwords: Ads
+    template.contextSystem.direct: Direct
+    template.direct.fixbid: 'Taxa fixa'
+    template.direct.fixbid.net: 'Taxa fixa'
+    template.direct.maxtraffic: 'Tráfego máximo'
+    template.direct.total: '100% de cobertura'
+    template.direct.traffic100: 'Volume de tráfego 100'
+    template.direct.traffic100plus: 'Quantidade de tráfego 100+'
+    template.direct.traffic15: 'Volume de tráfego 15'
+    template.direct.traffic5: 'Volume de tráfego 5'
+    template.direct.traffic75: 'Volume de tráfego 75'
+TableTest:
+    for: para
+Tariff:
+    active.period: 'mais {period} {period, plural, one {día} other {dias}}'
+    active.period.bonus: '+ {days} {days, plural, one {dia} other {dia} }'
+    active.period.bonus.tooltip: 'Validade do plano {tariff} estendido gratuitamente até {date}'
+    active.until: 'Ativo até '
+    activity: '{days} {days, plural, one {dia} other {dias}}'
+    advantage.bidmanager: 'Gerenciador de lances ilimitado'
+    advantage.recomendation: 'Recomendações para todas as campanhas'
+    advantage.support: 'Suporte para todos os tipos de comunicação'
+    autopayment.description.text: 'Se você desativar a renovação automática, no final do Plano Optimal, o gerenciador de lances de todas as campanhas e frases-chave poderá ser desativado.'
+    autopayment.description.title: 'Desativar renovação automática do seu plano?'
+    autopayment.interview.answer1: 'Eu quero controlar as despesas e pagar manualmente'
+    autopayment.interview.answer2: 'Estou sutisfeito com plano básico'
+    autopayment.interview.answer3: 'Eu não quero trabalhar com eLama'
+    autopayment.interview.answer4: 'Eu pretendo aumentar o orçamento e ir para o Optimal gratuitamente'
+    autopayment.interview.answer5: 'Muito caro'
+    autopayment.interview.title: 'Por que você quer desativar a renovação?'
+    autopayment.tooltip: 'Esta função permitirá debito automatico para os planos eLama.'
+    button.add.balance: 'Adicionar fundos'
+    button.cancel: Cancelar
+    button.close: Fechar
+    button.done: Pronto
+    button.off: 'Off'
+    code.basic: Básico
+    code.optimal: Optimal
+    condition.description.offer: 'Você pode comprar o plano de maneira mais conveniente para você.'
+    condition.description.tooltip: 'A soma de todas as transferências para sistemas de publicidade menos retornos para o saldo de eLama para o período de {startDate} a {endDate}'
+    current.tariff: 'Plano atual: {tarifa}'
+    extended.tariff: 'Plano avançado'
+    for.agency: 'Para agências'
+    label.automatic.prologation: 'Renovar automaticamente'
+    label.budget: 'orçamento de publicidade'
+    label.price: 'Preço para você'
+    label.tariff: Plano
+    link.about: 'Sobre os planos'
+    link.budget: 'Se o orçamento de publicidade será menor?'
+    link.manager: 'Gestão de planos'
+    link.no.payment: 'O que acontece se você não pagar o plano em tempo?'
+    more.info: 'Mais sobre o plano'
+    my.tariff: 'Meu plano: {tariff}'
+    payment.congratulations: 'Parabéns! <br> Seu plano é. <br> acima dele apenas as estrelas!'
+    payment.done: 'Você conectou o plano avançado. Todas as ferramentas estão disponíveis sem restrições até {date}.'
+    payment.error: 'Não foi possível extrair fundos da sua conta. Tente novamente ou entre em contato com o eLama care.'
+    payment.notification: 'O valor do Plano será deduzido do seu saldo.'
+    payment.notification.description: 'Em poucos minutos após o pagamento, o gerente de lances ativará essas campanhas e frases-chave nas quais ele foi suspenso automaticamente.'
+    payment.warning: 'Você não possui saldo suficientes para comprar o plano.'
+    reason.trial: 'período experimental'
+    tariff: 'Plano: {tarifa}'
+    thanks: 'Diga "obrigado"'
+Template:
+    ad.first.page.description: 'O algoritmo configurará um lance (+ etapa), que será necessário para ser exibido na primeira página, se este lance for menor que o lance máximo definido no Gerenciador de Lances. Caso contrário, o algoritmo deixa o lance máximo.'
+    ad.first.page.name: 'Primeira página'
+    ad.first.position.description: 'O algoritmo configurará um lance (+ etapa), que será necessário para ser exibido na primeira posição dos anúncios, se este lance for menor que o lance máximo definido no Gerenciador de Lances. Caso contrário, o algoritmo deixa o lance máximo.'
+    ad.first.position.name: 'Primeira posição'
+    ad.top.position.description: 'O algoritmo configurará um lance (+ etapa), que será necessário para ser exibido acima dos resultados de pesquisa, se este lance for menor que o lance máximo definido no Gerenciador de Lances. Caso contrário, o algoritmo deixa o lance máximo.'
+    ad.top.position.name: 'Top da primeira página'
+    adwords.fixbid.description: 'O algoritmo configurará um lance igual à definido no Gerenciador de Lances.'
+    adwords.fixbid.name: 'Lance fixo'
+    adwords.fixbid.net.description: 'O algoritmo definirá um lance igual à definido no Gerenciador de Lances.'
+    adwords.fixbid.net.name: 'Lance fixo'
+    alpha.template.warning: 'Em breve, você conseguirá criar e editar seus próprios algoritmos de controle de lance. Por enquanto, você pode ver os nossos algoritmos em novo formato. Ficaremos contentes se você nos der a sua opinião.'
+    bid: lance
+    bid.100.hint: 'Lance necessário para recebimento de 100% cobertura nas redes'
+    bid.first.page.hint: 'O lance necessário para que o seu anúncio seja exibido na primeira página'
+    bid.first.position.hint: 'Lance necessário para que o seu anúncio fique na primeira posição na página'
+    bid.top.hint: 'Lance necessário para que o seu anúncio seja exebido acima dos resultados de pesquisa'
+    cancel: Cancelar
+    close: Fechar
+    description.title: 'Descrição de funcionamento do modelo'
+    direct.bid.max.traffic.amount.hint: 'Lance necessário para recebimento do volume máximo de tráfego'
+    direct.bid.traffic.amount.hint: 'Lance necessário para recebimento do volume de tráfego'
+    direct.fixbid.description: 'O algoritmo definirá um lance igual à definido no Gerenciador de Lances.'
+    direct.fixbid.name: 'Lance fixo'
+    direct.fixbid.net.description: 'O algoritmo definirá um lance igual à definido no Gerenciador de Lances.'
+    direct.fixbid.net.name: 'Lance fixo'
+    else.block: 'Caso contrário'
+    feedback.leave: 'Deixe seu comentário'
+    first.page: 'Primeira página'
+    first.position: 'primeira posição'
+    for: para
+    for.traffic: 'para volúme de tráfego'
+    if.block: Se
+    leave.feedback: Escrever
+    max.bid: 'lance máximo'
+    max.bid.hint: 'O lance máximo para palavra-chave, que pode ser configurado em Gerenciador de Lances'
+    max.bid.limit: 'Limitação de lance máximo'
+    max.price.hint: 'O lance maxímo, especificado em Gerenciador de Lances, que você está disposto a pagar por clique'
+    not.owned.error: 'Você não pode alterar este modelo'
+    of.price: '% do valor'
+    onboarding.advanced.settings: 'Você pode definir as configurações para o algoritmo selecionado.'
+    onboarding.feedback: 'Por favor, deixe seus comentários e sugestões. Isso ajudará a tornar seu trabalho com a ferramenta mais conveniente.'
+    onboarding.intro: 'Você pode renomear o modelo'
+    onboarding.switchOptimizer.button.ok: Bem
+    onboarding.switchOptimizer.content: 'Otimize as suas campanhas e maximize as conversões. Clicando na ferramenta você pode começar a configurá-la.'
+    onboarding.switchOptimizer.title: 'Nova ferramenta "Otimizer"'
+    onboarding.two.way.second: 'Salvar (as alterações podem ser aplicadas a todas as campanhas e frases para quais o modelo é configurado.'
+    onboarding.two.way.third: 'Salvar como novo (modelo novo aparecerá na lista).'
+    onboarding.two.ways.first: 'O modelo criado pode ser:'
+    price.hint: 'Lance médio, que você está disposto a pagar por clique para receber {value}'
+    rename: Renomear
+    save: Salvar
+    save.as.new: 'Salvar como um modelo novo'
+    save.changes: 'Salvar as alterações'
+    save.force: 'Salvar mesmo assim'
+    set.bid: 'Configurar lance'
+    settings.update.cascade.both: 'As alterações serão aplicadas para as {campaigns} {campaigns, plural, one {campanhas} many {campanhas} other {campanhas}} и {keywords} {keywords, plural, one {palavra-chave} many {palavras-chave} other {palavras-chave}}'
+    settings.update.cascade.campaigns: 'As alterações serão aplicadas a   {campaigns} {campaigns, plural, one {campanha} few {campanha}  many {campanhas} other  {campanhas}}'
+    settings.update.cascade.keywords: 'As alterações serão aplicadas a  {keywords} {keywords, plural, one  {palavra-chave} outras {palavras-chave}}'
+    spoiler.title: 'Como funciona este modelo?'
+    step: Ajuste
+    step.hint: 'Qual valor será adicionado ao lance conforme seu tráfego escolhido'
+    step.tooltip.text: 'Quanto mais ou menos do que o custo desta posição você está disposto a pagar por conversões (em {currency} ou porcentagem). O valor mínimo é {minValue} {currency} ou 0,01%'
+    success.toast: 'O modelo foi alterado com êxito'
+    template.algo: Modelo
+    then.block: 'Neste caso'
+    top.first.page: 'o topo da primeira página'
+TimeTargeting:
+    button.apply: Aplicar
+    button.close: Fechar
+    button.edit: Alterar
+    correctBids: 'Ajuste de lance'
+    customSettings: 'Suas configurações'
+    day.friday: Sex
+    day.monday: Seg
+    day.saturday: Sab
+    day.sunday: Dom
+    day.thursday: Qui
+    day.tuesday: Ter
+    day.wednesday: Qua
+    differentSettings: Variados
+    error.BelowFortyBusinessHours: 'Menos de 40 horas úteis selecionadas nos dias úteis'
+    error.campaignFetchError: 'Não foi possível receber a campanha. Por favor, tente mais tarde.'
+    error.emptyCampaigns: 'Campanhas sem conteudo'
+    error.header: 'Serviço temporariamente indisponível'
+    error.IntervalsPerDayLimitExceeded: 'O número de intervalos contínuos para um dia não pode ser superior a seis'
+    error.subtitle: 'Repete a solicitação mais tarde'
+    error.ZeroHours: 'O horário não pode estar vazio'
+    notice.adwords: 'Você pode aumentar ou diminuir todos os lances de campanha em horários específicos. O ajuste pode ser de 0 a 200%, onde 100% é a lance atual. O passo de ajuste é de 10%. Uma correção de 0 significa que o anúncio não é mostrado.'
+    notice.clickToEdit: 'Clique para configurar o mesmo horário de exibição.'
+    notice.direct: 'Voc? pode aumentar ou diminuir todos os lances de campanha em hor?rios espec?ficos. O ajuste pode ser de 0 a 200%, onde 100% ? a lance atual. O passo de ajuste ? de 10%. Uma corre??o de 0 significa que o an?ncio n?o ? mostrado.'
+    notice.doesntSame: 'Horários de exibição das campanhas selecionadas estão diferentes.'
+    notify.fail: 'Falha ao atualizar o horários de exibição'
+    notify.success: 'Mostrar horários de exibição atualizados'
+    schedule.fulltime: 24h
+    schedule.off: 'Off'
+    schedule.weekends: 'Fim de semana'
+    schedule.workdays: 'Dias de semana'
+    schedule.worktime: 'Horário de trabalho'
+    timezone: 'Fuso horário'
+    timezone.ads: 'Você pode definir o fuso horário para o Google Ads apenas no nível da conta.'
+    timezone.America/Argentina/Buenos_Aires: 'Buenos Aires (GMT -03:00)'
+    timezone.America/Denver: 'Denver (GMT -07: 00)'
+    timezone.America/Los_Angeles: 'Los Angeles (GMT -08: 00)'
+    timezone.America/Mexico_City: 'Cidade do México (GMT -06: 00)'
+    timezone.America/Santo_Domingo: 'Santo Domingo (GMT -04: 00)'
+    timezone.America/Toronto: 'Toronto (GMT -05: 00)'
+    timezone.Asia/Chita: 'Chita (GMT +09: 00)'
+    timezone.Asia/Irkutsk: 'Irkutsk (GMT +08: 00)'
+    timezone.Asia/Kamchatka: 'Petropavlovsk-Kamchatsky (GMT + 12: 00)'
+    timezone.Asia/Krasnoyarsk: 'Krasnoyarsk (GMT +07: 00)'
+    timezone.Asia/Omsk: 'Omsk, Almaty, Astana (GMT +06: 00)'
+    timezone.Asia/Srednekolymsk: 'Srednekolymsk (GMT +11: 00)'
+    timezone.Asia/Vladivostok: 'Vladivostok (GMT +10: 00)'
+    timezone.Asia/Yekaterinburg: 'Ekaterinburg, Aktau, Aktobe (GMT +05: 00)'
+    timezone.Different: Diferente
+    timezone.Europe/Berlin: 'Berlim (GMT + 01: 00)'
+    timezone.Europe/Kaliningrad: 'Kaliningrado (GMT +02: 00)'
+    timezone.Europe/London: 'Londres (GMT + 00: 00)'
+    timezone.Europe/Moscow: 'Moscou (GMT + 03: 00)'
+    timezone.Europe/Samara: 'Samara (GMT +04: 00)'
+    title.campaigns: '{campaigns} {campaigns,plural, one {campanha} other {campanha}}'
+    title.help: 'Fuso horário e hora da exibição de sua campanha publicitária no horário local'
+    title.title: 'Horários de exibição'
+    unknown: Desconhecido
+ToolSelector:
+    argos.timetargeting.title: 'Personalize o seu horário de exibição'
+    bidmanager.bulk.change.bid.title: 'Editar taxas do gerenciador de lances'
+    bidmanager.bulk.change.status.title: 'Alterar o status do gerenciador de lances'
+    bidmanager.settings.title: 'Personalizar o gerenciador de lances'
+    optimizer.bulk.settings.title: 'Configurar o Otimizador'
+    selected: 'Selecionado:'
+    tools.header: Ferramentas
+    utm.bulk.settings.title: 'Personalizar a marcação UTM'
+TransferMoneyWidget:
+    adwords.transfer.duration: 'A adição de fundos à sua conta no Google Ads pode levar até {time}'
+    adwords.transfer.time: '4 horas'
+    amount: 'No valor de'
+    button.close: Fechar
+    commission: Comissão
+    common.error.message: 'Pagamentos temporariamente indisponíveis'
+    common.systems.success: 'Transferência no valor de {amount} concluído com sucesso! Tenha em atenção que o tempo para atualizar informações sobre o seu saldo nos sistemas de publicidade pode demorar até 20 minutos.'
+    direct.transfer.time: '20 minutos'
+    error.amount.gt.than.max: 'No maximo {amount}'
+    error.amount.input.gt.than.max: 'Fundos insuficientes na conta'
+    error.amount.lt.than.min: 'No minimo {amount}'
+    facebook.transfer.duration: 'O Facebook pode transferir dinheiro para o saldo antes de {time}.'
+    facebook.transfer.time: '4 horas'
+    from.eLama: 'Transferência para conta eLama'
+    known.systems.done: Concluido
+    known.systems.success: 'Transferência no valor de {amount} {done}.'
+    min.max.payment: 'De {min} {max}'
+    not.enough.money: 'Fundos insuficientes na conta'
+    refill: 'Aditionar fundos'
+    refill.google: 'Adicionar créditos'
+    to.deposit: 'Para transferencia'
+    to.max.amount: 'até {max}'
+    transfer: Transferir
+    vat: IVA
+    vat.is.not.charged: 'não é aplicável'
+    vkontakte.transfer.time: '20 minutos'
+Utm:
+    action.accept.button: Aplicar
+    action.accept.notification: 'UTM tags automáticos estão ativados'
+    action.delete.button.adwords: 'Remover tags UTM dos anúncios do Google'
+    action.delete.button.bulk: 'Excluir UTM tags de campanhas selecionadas'
+    action.delete.button.direct: '-'
+    action.delete.notification: 'As tags serão removidos dos anúncios. {delimiter} UTM tags estão desativados'
+    action.delete.tooltip: 'UTM tags adicionadas serão removidas da campanha. A ferramenta será desativada.'
+    action.delete.tooltip.bulk: 'UTM tags adicionados serão removidos das campanhas publicitárias. A ferramenta será desativada.'
+    action.off.button: 'Off'
+    action.off.notification: 'UTM tags automáticos estão ativados'
+    action.on.button: Ativar
+    action.on.notification: 'UTM tags automáticos estão ativados'
+    additional.button.add: 'Adicionar parâmetro'
+    additional.placeholder.name: 'Especifique o nome do parâmetro'
+    additional.placeholder.value: 'Especifique o valor do parâmetro'
+    bulk.campaigns.many: campanha
+    bulk.campaigns.one: campanha
+    bulk.campaigns.two: campanha
+    bulk.placeholder.differentNames: 'Campanhas têm nomes diferentes'
+    bulk.placeholder.differentValues: 'Campanhas têm significados diferentes'
+    bulk.placeholder.notAdd: 'Tag não será adicionada'
+    bulk.selected: Selecionado
+    bulk.tooltip.not.supported.campaign.type: 'A ferramenta está disponível apenas para campanhas como "Pesquisar", "Rede", "Pesquisa + Rede". Existem outros tipos de campanhas entre as campanhas selecionadas e a ferramenta não será usada para elas.'
+    error.failed: 'Falha ao aplicar as alterações. Tente novamente mais tarde.'
+    error.unavailable: 'O serviço está temporariamente indisponível. Tente novamente mais tarde.'
+    header: 'tags automáticos UTM'
+    header.tooltip.adwords: 'A ferramenta adiciona e atualiza automaticamente UTM tags em anúncios novos e existentes. {Delimiter} Para configuração, leia {quote} {link} {quote}. {Delimiter} {boldstart}'
+    header.tooltip.bulk: 'A ferramenta adiciona e atualiza automaticamente UTMtags em anúncios novos e existentes. {Delimiter} Para configuração, leia {quote} {link} {quote}. {Delimiter} {boldstart}'
+    header.tooltip.direct: 'A ferramenta adiciona e atualiza automaticamente as tags UTM em anúncios novos e existentes. {Delimiter} Sobre a configuração, consulte {quote} {link} {quote}. {Delimiter} {boldstart} Importante! {Boldend} A ferramenta gasta pontos da Direct API.'
+    header.tooltip.here.adwords: Ajuda
+    header.tooltip.here.bulk: Ajuda
+    header.tooltip.here.direct: Ajuda
+    notification.customParamsWarning.button: 'Redefinir configurações do eLama'
+    notification.customParamsWarning.message: 'Ao usar seus parâmetros, alguns {link} eLama podem não funcionar corretamente.'
+    notification.customParamsWarning.message.linktext: ferramentas
+    status.off: 'Off'
+    status.on: 'On'
+    status.title: 'UTM tag'
+    tags.utmCampaign.description: 'Envia o nome da campanha publicitária.'
+    tags.utmCampaign.label: 'Nome da campanha (utm_campaign)'
+    tags.utmCampaign.tooltip.adwords: '{squarebracketsstart} eLama-campaign-name {squarebracketsend} é um parâmetro dinâmico do eLama que transmite o nome da campanha publicitária especificada no Google Ads. {link}'
+    tags.utmCampaign.tooltip.adwords.linktext: 'Ler mais'
+    tags.utmCampaign.tooltip.direct: '{Squarebracketsstart} elämä-campanha-name {squarebracketsend} - este parâmetro dinâmico eLama, que transmite o nome da campanha, disse em Yandex.Direct. {link}'
+    tags.utmCampaign.tooltip.direct.linktext: 'Ler mais'
+    tags.utmContent.description: 'Transmite informações adicionais.'
+    tags.utmContent.label: 'Conteúdo do anúncio (utm_content)'
+    tags.utmContent.tooltip.adwords: '{squarebracketsstart} eLama-link {squarebracketsend} é um parâmetro eLama dinâmico que transmite informações adicionais sobre a campanha. {link}'
+    tags.utmContent.tooltip.adwords.linktext: 'Ler mais'
+    tags.utmContent.tooltip.direct: '{squarebracketsstart} eLama-link {squarebracketsend} é um parâmetro eLama dinâmico que transmite informações adicionais sobre a campanha. {link}'
+    tags.utmContent.tooltip.direct.linktext: 'Ler mais'
+    tags.utmMedium.description: 'Transmite o tipo de origem de tráfego (por exemplo, cpc, email)'
+    tags.utmMedium.label: 'Canal de campanha (utm_medium)'
+    tags.utmMedium.tooltip.adwords: 'A tag transmite o tipo de tráfego. Por exemplo{colon} {italicsstart} cpc, social, email, display, etc. {italicsend}'
+    tags.utmMedium.tooltip.direct: 'O rótulo transmite o tipo de tráfego. Por exemplo{colon} {italicsstart} cpc, social, email, display, etc. {italicsend}'
+    tags.utmSource.description: 'Transmite uma fonte de referência (por exemplo, yandex, google)'
+    tags.utmSource.label: 'Origem da Campanha (utm_source)'
+    tags.utmSource.tooltip.adwords: 'A tag transmite informações sobre a fonte de publicidade da qual você está indo para o seu site. Por exemplo, {colon} {italicsstart}google, facebook, email, etc. {italicsend}'
+    tags.utmSource.tooltip.direct: 'A tag transmite informações sobre a fonte de publicidade da qual você está indo para o seu site. Por exemplo, {colon} {italicsstart}google, facebook, email, etc. {italicsend}'
+    tags.utmTerm.description: 'Transmite a palavra-chave a partir da qual o anúncio começou a ser exibido.'
+    tags.utmTerm.label: 'Palavra-chave da campanha (utm_term)'
+    tags.utmTerm.tooltip.adwords: 'UTM-tag transmite informações sobre a palavra-chave. Por exemplo{colon} {italicsstart}\{keyword\}, \{phrase_id\} etc.{italicsend}'
+    tags.utmTerm.tooltip.direct: 'UTM-tag transmite informações sobre a palavra-chave. Por exemplo{colon} {italicsstart}\{keyword\}, \{phrase_id\} etc. {italicsend}'
+    tooltip.not.supported.campaign.type: 'A ferramenta não está disponível para este tipo de campanha'
