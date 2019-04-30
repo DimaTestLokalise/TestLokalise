@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <plurals name="settings_vip_header_hint_restore">
-    <item quantity="one">Deine Premium-Mitgliedschaft läuft nur noch §§%d Tag§§. Möchtest du deine Premium-Vorteile behalten?</item>
-    <item quantity="other">Deine Premium-Mitgliedschaft läuft nur noch §§%d Tage§§. Möchtest du deine Premium-Vorteile behalten?</item>
-  </plurals>
+  <string name="ывывывывыв">ывыв</string>
 </resources>
