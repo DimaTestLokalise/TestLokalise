@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Hello">Hello world</string>
+  <string name="HTesta">Hello horse</string>
   <string name="Helloaaga">Hello world</string>
-   <string name="HTesta">Hello horse</string>
 </resources>
