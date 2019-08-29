@@ -1,0 +1,55 @@
+{
+    "xba5t79i1wpf:1FdB16R6S4D6vsFwqQapq8:title": "Dmitry Lesson",
+    "xba5t79i1wpf:1FdB16R6S4D6vsFwqQapq8:shortDescription": "Test Desc",
+    "xba5t79i1wpf:1FdB16R6S4D6vsFwqQapq8:description": "Hello Worlds",
+    "xba5t79i1wpf:6ucY5w3oswEU6EYSCEi0C8:title": "Getting started",
+    "xba5t79i1wpf:4ABlfOnTK3Qjjrd7xiP4fi:title": "",
+    "xba5t79i1wpf:7JhDodrNmwmwGmQqiACW4:title": "Application development",
+    "xba5t79i1wpf:3op5VIqGZiwoe06c8IQIMO:title": "APIs",
+    "xba5t79i1wpf:41fdMtrUzmiqKykUwA8u2A:caption": "Contentful's APIs send data in JSON format which enables cross channel distribution of content.",
+    "xba5t79i1wpf:7iCSSldqDuUkG4GWa46uUq:copy": "## API-first\n\nContentful follows an API-first approach, which means that all of its functionality is provided by an API.\n\nThis enables you to:\n\n- Modify data schemas or configure a webhook through the Content Management API\n- Deliver cross-channel content through the Content Delivery API\n- Preview unpublished content through the Content Preview API\n- Resize, crop, or re-compress images through the Images API\n\n![api first](\/\/images.contentful.com\/qz0n5cdakyl9\/1YK5kwroV6UEGS64mQs0Eo\/c19b700d5c8d0f44b758c4b2bb79c586\/contentful-four-apis.svg)\n\nContentful is a content infrastructure, so there is no templating or presentation layer tied to the content. Instead, a developer has total freedom when it comes to the build of an application that consumes and presents content from Contentful. This also allows you to decouple your applications from Contentful's services.\n\nContentful has minimal requirements:\n\n- Support for HTTP\n- Parsing of JSON\n\nBeyond that, you are free to choose any technology you want.",
+    "categories": {
+        "360000247017": {
+            "title": "General",
+            "body": ""
+        }
+    },
+    "sections": {
+        "360000573877": {
+            "title": "FAQ",
+            "body": ""
+        },
+        "360000573857": {
+            "title": "Announcements",
+            "body": ""
+        }
+    },
+    "articles": {
+        "360002117357": {
+            "title": "How can agents leverage knowledge to help customers?",
+            "body": "<p>You can use our <a href=\"https:\/\/www.zendesk.com\/apps\/support\/knowledge-capture\/\" target=\"_blank\">Knowledge Capture app<\/a> to leverage your team’s collective knowledge.<\/p>\n<p>Using the app, agents can:\n<\/p><ul>\n  <li>Search the Help Center without leaving the ticket<\/li>\n  <li>Insert links to relevant Help Center articles in ticket comments<\/li>\n  <li>Add inline feedback to existing articles that need updates<\/li>\n  <li>Create new articles while answering tickets using a pre-defined template<\/li>\n<\/ul>\n\n\n<p>Agents never have to leave the ticket interface to share, flag, or create knowledge, so they can help the customer, while also improving your self-service offerings for other customers.<\/p>\n\n<p>To get started with the app, see <a href=\"https:\/\/support.zendesk.com\/hc\/en-us\/articles\/115003628547\" target=\"_blank\">Installing the Knowledge Capture app<\/a> and <a href=\"https:\/\/support.zendesk.com\/hc\/en-us\/articles\/115003373367\" target=\"_blank\">Using the Knowledge Capture app<\/a>.<\/p>\n\n<p>And before your agents can start creating new knowledge directly from tickets, you’ll need to <a href=\"https:\/\/support.zendesk.com\/hc\/en-us\/articles\/115002374987\" target=\"_blank\">create a template<\/a> for them to use. To help you along, we’ve provided some template ideas below. You can copy and paste any sample template below into a new article, add the <strong>KCTemplate<\/strong> label to the article, and you’ll be all set.<\/p>\n\n<h4>Q&amp;A template:<\/h4>\n\n<blockquote>\n\n<p>\n<\/p>\n<h3>[Title]<\/h3>\n\n\n<p>\n<\/p>\n<h3>Question<\/h3>\nwrite the question here.\n\n\n<p>\n<\/p>\n<h3>Answer<\/h3>\nwrite the answer here.\n\n\n<\/blockquote>\n\n<h4>Solution template:<\/h4>\n\n<blockquote>\n\n<p>\n<\/p>\n<h3>[Title]<\/h3>\n\n\n<p>\n<\/p>\n<h3>Symptoms<\/h3>\nwrite the symptoms here.\n\n\n<p>\n<\/p>\n<h3>Resolution<\/h3>\nwrite the resolution here.\n\n\n<p>\n<\/p>\n<h3>Cause<\/h3>\nwrite the cause here.\n\n\n<\/blockquote>\n\n<h4>How-to template:<\/h4>\n\n<blockquote>\n\n<p>\n<\/p>\n<h3>[Title]<\/h3>\n\n\n<p>\n<\/p>\n<h3>Objective<\/h3>\nwrite the purpose or task here.\n\n\n<p>\n<\/p>\n<h3>Procedure<\/h3>\nwrite the steps here.\n\n\n<\/blockquote>\n"
+        },
+        "360002117337": {
+            "title": "How do I publish my content in other languages?",
+            "body": "<p>Here's the workflow for localizing your Help Center in other languages:<\/p>\n\n<ol>\n<li>Get your content translated in the other languages.<\/li>\n<li>Configure the Help Center to support all your languages.<\/li>\n<li>Add the translated content to the Help Center.<\/li>\n<\/ol>\n\n\n<p>For instructions, see <a href=\"https:\/\/support.zendesk.com\/hc\/en-us\/articles\/203664336#topic_inn_3qy_43\">Localizing the Help Center<\/a>.<\/p>"
+        },
+        "360002117317": {
+            "title": "How do I customize my Help Center?",
+            "body": "<p>You can modify the look and feel of your Help Center by changing colors and fonts. You can also change the way your content is organized by using themes. If you're comfortable working with page code, you can dig into the site's HTML, CSS, and Javascript to customize your theme.<\/p>\n\n<p>To get started, see <a href=\"https:\/\/support.zendesk.com\/hc\/en-us\/articles\/203664326\">Customizing the Help Center<\/a>.<\/p>"
+        },
+        "360002117297": {
+            "title": "What are these sections and articles doing here?",
+            "body": "<p>This FAQ is a section in the General category of your Help Center knowledge base. We created this category and a few common sections to help you get started with your Help Center.<\/p>\n\n<p>The knowledge base in the Help Center consists of three main page types: category pages, section pages, and articles. Here's the structure:<\/p>\n\n<p><img src=\"\/\/static.zdassets.com\/hc\/assets\/sample-articles\/article0_image.png\" alt=\"image\"><\/p>\n\n<p>You can add your own content and modify or completely delete our content. See the <a href=\"https:\/\/support.zendesk.com\/hc\/en-us\/articles\/203664366\">Contributor guide to the Help Center<\/a> to learn how.<\/p>"
+        },
+        "360002117277": {
+            "title": "Welcome to your Help Center!",
+            "body": "<p>You're looking at your new <a href=\"https:\/\/www.zendesk.com\/self-service\">Help Center<\/a>. We populated it with placeholder content to help you get started. Feel free to edit or delete this content.<\/p>\n\n<p>The Help Center is designed to provide a complete self-service support option for your customers. The Help Center is made up of two parts: a knowledge base and a community. Your customers can search for knowledge base articles to learn a task or search the community and ask fellow users questions. If your customers can't find an answer, they can submit a support request.<\/p>\n\n<p>For more information, see <a href=\"https:\/\/support.zendesk.com\/hc\/en-us\/articles\/203664386\">Help Center guide for end users<\/a>.<\/p><p>Each user in your community has a Help Center profile (Guide Professional only), so your community members can get to know one another better. Profiles contain relevant information about the community member, along with their activities and contributions to the community. Profiles also give each community member the option to follow another user and get notifications when that user makes a post or comment.<\/p>"
+        }
+    },
+    "title": "",
+    "content": {
+        "headline[0]": "",
+        "description[0]": "",
+        "name[0]": ""
+    }
+}
