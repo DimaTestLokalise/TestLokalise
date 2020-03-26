@@ -1,7 +1,49 @@
 {
-    "Test_Key_01": "Elephan2333332",
-    "Test_Key_02": "Catjsdghiasuf",
-    "Test_Key_03": "Dog",
-    "Test_Key_04": "Elepha",
-    "Test_Key_05": "Zebra"
+    "Master": {
+        "translation": "a",
+        "notes": ""
+    },
+    "Master 2": {
+        "translation": "a",
+        "notes": ""
+    },
+    "Master 3": {
+        "translation": "A",
+        "notes": ""
+    },
+    "Master 4": {
+        "translation": "a",
+        "notes": ""
+    },
+    "Master10": {
+        "translation": "sss",
+        "notes": ""
+    },
+    "Test": {
+        "translation": {
+            "one": "",
+            "other": ""
+        },
+        "notes": ""
+    },
+    "aaa": {
+        "translation": "Hello",
+        "notes": ""
+    },
+    "bbb": {
+        "translation": "Hello",
+        "notes": ""
+    },
+    "billing": {
+        "translation": "Hekllo",
+        "notes": ""
+    },
+    "billing_plans": {
+        "translation": "Hello",
+        "notes": ""
+    },
+    "zzzzzzz": {
+        "translation": "sasd ",
+        "notes": ""
+    }
 }
