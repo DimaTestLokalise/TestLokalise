@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: GitHub Integration copy\n"
+"PO-Revision-Date: 2020-06-10 07:19\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: ru\n"
+
+#, fuzzy
+msgid "hello"
+msgstr "Бла-бла-2014-% {current_year} . И еще бла-бла."
