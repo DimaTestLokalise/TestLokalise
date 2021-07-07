@@ -1,7 +1,9 @@
 {
-    "Test_Key_01": "Elephan2333332",
-    "Test_Key_02": "Catjsdghiasuf",
-    "Test_Key_03": "Dog",
-    "Test_Key_04": "Elepha",
-    "Test_Key_05": "Zebra"
+    "i129f:content_1": "Please select the classification you are requesting for {{ names.applicantName }}",
+    "i129f:content_2": "%1$s and %1$s",
+    "aaa": "Hello",
+    "bbb": "Hello",
+    "billing": "Hekllo",
+    "billing_plans": "Hello",
+    "zzzzzzz": "sasd "
 }
