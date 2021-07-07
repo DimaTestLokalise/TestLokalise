@@ -1,7 +1,3 @@
 {
-    "aaa": "Hello",
-    "bbb": "Hello",
-    "billing": "Hekllo",
-    "billing_plans": "Hello",
-    "zzzzzzz": "sasd "
+    "hello": "Hello {name}"
 }
